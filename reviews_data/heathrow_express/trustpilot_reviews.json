@@ -1,0 +1,3828 @@
+[
+  {
+    "domain": "www.heathrowexpress.com",
+    "type": "trustpilot_reviews",
+    "se_domain": "trustpilot.com",
+    "check_url": "https://www.trustpilot.com/review/www.heathrowexpress.com?languages=all",
+    "datetime": "2024-05-11 01:10:54 +00:00",
+    "title": "Heathrow Express",
+    "location": "GB",
+    "reviews_count": 141,
+    "rating": {
+      "rating_type": "Max5",
+      "value": 1.5,
+      "votes_count": null,
+      "rating_max": 5
+    },
+    "items_count": 141,
+    "items": [
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/663b38b6e4b5df73ae891947",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-05-08 10:32:55 +00:00",
+        "title": "40-minute delay",
+        "review_text": "40-minute delay - had to rush through the airport. No warning despite all other trains and the Elizabeth line stating delays.\n\nThey said you can get a refund online - this was near impossibly complicated, I eventually figured out how to do it and they said that I was outside the 30 period. Nice one!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Matthew Eagles",
+          "url": "https://www.trustpilot.com/users/5bb9c25a4de5666d3439a20b",
+          "image_url": "https://user-images.trustpilot.com/5bb9c25a4de5666d3439a20b/73x73.png",
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65bdf7fefffa320375f25080",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-03 10:23:26 +00:00",
+        "title": "Employee of the month Upkar!",
+        "review_text": "We turned up at Paddington and decided last minute to get the Heathrow Express.  An amazing  staff member called Upkar helped us get a cheaper ticket.  He issued it there and then (Instead of the machine) and even told us which was the best carriage to access terminal 5.  Made our journey so much better",
+        "review_images": null,
+        "user_profile": {
+          "name": "Carl Davenport",
+          "url": "https://www.trustpilot.com/users/56e696b40000ff000a0e824c",
+          "image_url": "https://user-images.trustpilot.com/56e696b40000ff000a0e824c/73x73.png",
+          "location": "GB",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65d5eadbd24491c2de675609",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-21 14:21:48 +00:00",
+        "title": "We\u2019re stuck for more than 15 minutes in\u2026",
+        "review_text": "We\u2019re stuck for more than 15 minutes in your EXPRESS service with the driver announcing a light excuse of a trespasser or something! In the meantime several trains are crossing from both sides speeding! YIU SHOULD REFUND AT LEAST! We paid \u00a342 to go EXPRESS you know",
+        "review_images": null,
+        "user_profile": {
+          "name": "KATIA STEPHANIDOU",
+          "url": "https://www.trustpilot.com/users/65d5ead073e7250012cbf47e",
+          "image_url": "https://user-images.trustpilot.com/65d5ead073e7250012cbf47e/73x73.png",
+          "location": "CY",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/661d215c3ae61b26fb53b480",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-04-15 14:45:17 +00:00",
+        "title": "Cancelled Train followed by a late\u2026",
+        "review_text": "Cancelled Train followed by a late train. Very unreliable, not worth the money, just get the tube.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Danielle",
+          "url": "https://www.trustpilot.com/users/5ab8e6b04de5666d3417d988",
+          "image_url": "https://user-images.trustpilot.com/5ab8e6b04de5666d3417d988/73x73.png",
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65d8c11fd8da93ead6594b4f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-23 18:00:31 +00:00",
+        "title": "Perplexing train lines to Paddington from Heathrow \u2026",
+        "review_text": "If you get to the platform at Heathrow terminals 2&3 and the train is in the station and the guard is calling Paddington, then the passengers tend to get on that train and so did I. There wasn\u2019t time to find out if it was Elizabeth Line or the Heathrow Express. It was only when I got to the platform gate at Paddington that I found I couldn\u2019t exit with my ticket (Castle Cary to Heathrow via Paddington). The ticket master told me I would have to go back to Heathrow! As I didn\u2019t want to miss my train to Castle Cary I chose to pay \u00a39 just to exit the platform. Why can\u2019t there be a simpler way? Foreigners must find this very perplexing ",
+        "review_images": null,
+        "user_profile": {
+          "name": "Susan Amy",
+          "url": "https://www.trustpilot.com/users/59320d360000ff000a9f5b69",
+          "image_url": null,
+          "location": "MY",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65551bd5a8c59533e815cefd",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-15 21:28:21 +00:00",
+        "title": "So slow and often delayed",
+        "review_text": "So slow and often delayed.  As a business traveller I expect to be at the airport or city within the marketed time.  I see an Elizabeth line passing this train today.  And it was delayed on the track last week as well.  This is ridiculously poor quality.  With all the strikes, begs the question whether London transport companies should assess the quality of their staff.  Lots of good people looking for work who can probably make the service reliability better.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sean Yu",
+          "url": "https://www.trustpilot.com/users/63962a7f79ce3300125cefd9",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/655b192de6c9d9f4b5f1b56d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-20 10:30:37 +00:00",
+        "title": "Scammers with unused tickets",
+        "review_text": "Due to change of travel plans, I was unable to use the return portion of the ticket\n\nAlthough their website says a refund will be made for unused tickets after filling out a form, etc, that is the end of the matter.  No refund, never a reply from them.. Buy one way only, or better still use another service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "John Phillips",
+          "url": "https://www.trustpilot.com/users/5c9acdfa1254d834f0eac0eb",
+          "image_url": null,
+          "location": "AU",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/643d4040d11fbbdf539ba914",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-04-17 14:49:04 +00:00",
+        "title": "Refunds take forever",
+        "review_text": "The one thing that used to be good about the Heathrow Express is that when things went wrong, they'd refund you swiftly.\nSince about six months ago this is no longer the case - refunds take forever to arrive, if they arrive at all.\nGiven how unreliable the service has become this is a final kick in the teeth for an extremely expensive service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter",
+          "url": "https://www.trustpilot.com/users/4f6cf375000064000116722b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 52
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/660301db79e2ee62cb6eff5d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-03-26 19:11:56 +00:00",
+        "title": "Train canceled AGAIN",
+        "review_text": "Train canceled AGAIN. They charge over the head and don't maintain lines. Garbage service, just use the underground instead.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Customer",
+          "url": "https://www.trustpilot.com/users/64c03aa27fd64a00126a9fb2",
+          "image_url": null,
+          "location": "CH",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62246ca6361b35c36d5e9a81",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-03-06 08:11:18 +00:00",
+        "title": "The worst ever",
+        "review_text": "The worst ever\n\nNearly missed flight in September - journey took 1.5 hours instead of 15 minutes advertised\n\nStill waiting for refund - it is now March - customer service is utterly useless - have chased continuously via email, via their website \u2026\n\nPhoned in December to provide bank details - and yes the phone helpline is terrible - took repeated attempts to speak to an actual person - too much lift music\n\nSo in summary - journey in September, it is now March - and still no refund\n\nUnbelievable \n\nAvoid avoid avoid",
+        "review_images": null,
+        "user_profile": {
+          "name": "Charles Claxton",
+          "url": "https://www.trustpilot.com/users/5a0301ac0000ff000adf8f3f",
+          "image_url": null,
+          "location": "SG",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5be5e4789d37800a4cda4410",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-09 19:48:08 +00:00",
+        "title": "One of the worst websites I've ever\u2026",
+        "review_text": "One of the worst websites I've ever used, a help line that is only open at hours to suit them & no facility to reprint your ticket. It's clearly geared to maximise it's financial gain by offering as little help as possible to customers who's lost their confirmation because there's way you can do that without contacting them. We don't have a job that allows you to phone them between 9-5 Mon-Fri. Rubbish!",
+        "review_images": null,
+        "user_profile": {
+          "name": "David Chapman",
+          "url": "https://www.trustpilot.com/users/4f7ccce8000064000117170e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 20
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/646719596c045f58fd45de6a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-05-19 08:38:17 +00:00",
+        "title": "Awful attitude. Use the Elizabeth Line.",
+        "review_text": "Absolutely lazy on platform staff and exceptionally rude driver - on arrival to the platform where a train is stationery and after passing the idol platform staff member - the driver shouts - \u201cget behind the blue line, the train isn\u2019t ready for boarding\u201d \n\nThank goodness for the Elizabeth Line. If you are travelling into London - do not book Heathrow Express! The  Elizabeth line is cheaper and provides a better service!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jason W",
+          "url": "https://www.trustpilot.com/users/5c75221870337a51b2d46c96",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61f2f8bde1196e51d7714874",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-01-27 19:55:41 +00:00",
+        "title": "Terrible website and booking experience",
+        "review_text": "Terrible website.  Confusing ticket choices and options.\nAccount login doesn't work - no error - just returns to home page without logging in.  Have to enter previously saved details from scratch.\nCredit card payment has Pay button greyed out so have to use PayPal instead, even with complete and correct card details.\nEmail doesn't actually have the vital QRs codes in it - only a download button - that does nothing.  Have to save a weird-shaped PDF from the website.\nApple Wallet function has disappeared.\n\nHow can the world's simplest (only 1 line and 3 stations) and most expensive rail line have such poorly constructed booking experience?",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jonny",
+          "url": "https://www.trustpilot.com/users/563ca8fd0000ff0001e89c6b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63f797ab72fc39b6af09946e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-02-23 18:43:23 +00:00",
+        "title": "Experience not worth the money",
+        "review_text": "Considerong the extoritionate price of the ti kets its really not worth it. They advertise 15mins to LHR, but that is so inaccurate, even more so when you go to T5, which most ba flights depart from these days - that turns into 25mins. And in this day in particular there was an issue w an elizabeth line train, so we're being held and now my trip took 35mins. Could've taken a taxi and got there quicker and cheaper. Absolutely unacceptable",
+        "review_images": null,
+        "user_profile": {
+          "name": "LM",
+          "url": "https://www.trustpilot.com/users/60af776d28d2da0019b1312d",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6430320e381a6bae0d9c210e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-04-07 17:09:03 +00:00",
+        "title": "Obscene prices - avoid",
+        "review_text": "We were in a hurry to get to the airport and at the cue for the machines at Paddington Station a Heathrow Express employee told us that he could do our tickets from his portable machines. \nHe charged us \u00a337 for a return and \u00a325 for a single to the airport. \nThese are obscene prices for  20 mins journey, and completely different to what they advertise online. \nDon\u2019t use this service, it is one of the UK\u2019s many legal scams.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Baby Microbe Music",
+          "url": "https://www.trustpilot.com/users/643031d0ab6c6b0013f085fd",
+          "image_url": "https://user-images.trustpilot.com/643031d0ab6c6b0013f085fd/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 16,
+        "rank_absolute": 16,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62877435045d025d3a99718f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-20 12:57:57 +00:00",
+        "title": "Really Bad and a rip-off!",
+        "review_text": "Really Bad! Avoid at all costs.. \u00a325 for a single journey from Paddington.. absolute daylight robbery. And the staff at the station where miserable and unhelpful.. got onto the train and the attending staff where equally as miserable and unhelpful. This company takes advantage of travellers who didn\u2019t know to book in advance and apparently the most expensive train ride in the country, you would expect better..",
+        "review_images": null,
+        "user_profile": {
+          "name": "James MacLeod",
+          "url": "https://www.trustpilot.com/users/5f43ea7a40cc7255a531c6ce",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 17,
+        "rank_absolute": 17,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64c0c7c7a5ef5d21a20546b6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-07-26 09:14:15 +00:00",
+        "title": "Service is too unreliable",
+        "review_text": "I commute on this train and sadly I have developed a habit of checking every morning in the app if the train is actually running today. It just happens way too often that for whatever reason, there is reduced service / no service. And in the lucky event of the train actually running, it's another gamble each time if the train will actually arrive on time - from my experience, I would say every third train that I take arrives late. It's not that they depart late, but on the way the train slows down with the result of it arriving late. Quite painful.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Daniel Clot",
+          "url": "https://www.trustpilot.com/users/6308debbb2fce80012ac69a9",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 18,
+        "rank_absolute": 18,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/654d38a7aa7c6c9d1845a567",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-09 21:53:11 +00:00",
+        "title": "Take a cab. It is cheaper, faster and you wont break your back.",
+        "review_text": "My wife ,and I tried this thinking it would be cheaper than a taxi to our family in North London.  The train was fine but getting luggage on and off wasn't easy. Then, at Paddington we had to haul luggage up a large stair. The London train tube system is great but again, luggage was a real problem. Some stations have escalators but some don't, sometimes requiring climbing the equivalent of 3 flights of stairs. Usually a taxi/UBER  takes an hour to get us from North London to Heathrow and the cost is 60 pounds plus tip. The Heathrow express and tube train took almost 2 hours and cost us a little less than $40 each for a total price of $80 or 65 pounds. Bottom line, unless you have a small amount of luggage don't even consider  the Heathrow Express and it is cheaper and faster to take a taxi/cab anyway.",
+        "review_images": null,
+        "user_profile": {
+          "name": "GC",
+          "url": "https://www.trustpilot.com/users/61d3045a6dc1ee00138c3374",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 19,
+        "rank_absolute": 19,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64003597dde02037d0a1d212",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-02 07:35:19 +00:00",
+        "title": "Useful Service - Tickets Challenge",
+        "review_text": "This is a a great service with a useful App.  However if you buy tickets at the ticket machine in Paddington Station.   It can be a challenging task  if you\u2019re over 1 meter tall.  The ergonomics of the game played here suit a 4 year old. I\u2019m pretty certain that is not their target market",
+        "review_images": null,
+        "user_profile": {
+          "name": "Patrick Starkey",
+          "url": "https://www.trustpilot.com/users/609ce621a5b81e001ba357e8",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 20,
+        "rank_absolute": 20,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60c34733f9f4870a44d19925",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-06-11 11:21:23 +00:00",
+        "title": "I left my handbag accidentally on the\u2026",
+        "review_text": "I left my handbag accidentally on the platform at Heathrow as I stepped onto the Heathrow Exp. We told the nearest supervisor onboard as we moved off and he had it delivered safely on the next rain to Paddington within 15 minutes. They were cheerful, calming, extremely efficient and smiley. I was deeply impressed.",
+        "review_images": null,
+        "user_profile": {
+          "name": "MC",
+          "url": "https://www.trustpilot.com/users/5be1d2e25483f4b8a96c67f2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 21,
+        "rank_absolute": 21,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/620d1c37bc5a51af69c46385",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-02-16 15:45:59 +00:00",
+        "title": "Poorly designed Website led to me\u2026",
+        "review_text": "Poorly designed Website led to me buying ticket for wrong date - one month ahead instead of next day. Whilst one member of staff at Heathrow was sympathetic, the others looked at me as if I'd done it on purpose to get a cheaper fare. No way of dealing with it there and then - despite 4 members of staff present. The advanced ticket I bought turns out to be non-transfundable/refundable, so complete waste of money.\n\nDo yourself a favour and take the underground, at a fraction of the cost (\u00a36 vs \u00a324), and get to where you actually want to be.",
+        "review_images": null,
+        "user_profile": {
+          "name": "DeanA",
+          "url": "https://www.trustpilot.com/users/5de00567af1b9d6a215e736f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 22,
+        "rank_absolute": 22,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5beb1cf29d378003581d565a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-13 18:50:26 +00:00",
+        "title": "Chaos on this service yesterday from\u2026",
+        "review_text": "Chaos on this service yesterday from Heathrow to Paddington, packed to the capacity, everyone standing, no loos working. Wifi down, luggage everywhere.  I know its only a 15 minute journey but i felt very bad that this filthy packed train was the first welcome visitors had to our great city.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jana",
+          "url": "https://www.trustpilot.com/users/5beb1ad55483f4b8a9761f2f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 23,
+        "rank_absolute": 23,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62abb487266eedb3c15b94b4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-17 00:53:59 +00:00",
+        "title": "Awful conning company",
+        "review_text": "Awful conning company. I suspect many new visitors to the UK are fooled into paying a high ticket price for \u2018Heathrow Express\u2019 when the normal Elizabeth line would be perfectly fine for them.\nDespite being told I was entitled to a refund for the tickets I didn\u2019t use ( and marked void and photographed and emailed images as asked) there has been no refund or further response to my mails.\nI see their activity as almost criminal , they should be more open about their real service benefit ( saves you 20 minutes but costs 6 times more) or shut down",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mark Anthony Smart",
+          "url": "https://www.trustpilot.com/users/5a4928c10000ff000af920d4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 24,
+        "rank_absolute": 24,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6262d8927b2618e9fea32a52",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-22 18:32:18 +00:00",
+        "title": "Shockingly bad IT systems",
+        "review_text": "First time I\u2019ve tried to use this in a few years. Shockingly bad website and App, three attempts to pay on the App all failed then I booked through the website instead, which reversed the direction of my return ticket without warning so it is now unusable (\u00a337 down the drain) - just use the Tube or an Uber instead. I look forward to the Elizabeth Line putting Heathrow Express out of business.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tom Holmes",
+          "url": "https://www.trustpilot.com/users/6262d88176822300125ef153",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 25,
+        "rank_absolute": 25,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6603eefb6ba225a25a5f49fd",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-03-27 12:03:40 +00:00",
+        "title": "Awful everything ",
+        "review_text": "First time using this, never ever ever again. Run by totally incompetent clowns. ",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tom Turner",
+          "url": "https://www.trustpilot.com/users/6347b7a4d118c800125ca295",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 26,
+        "rank_absolute": 26,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b0c78b66d33bc06f477ccff",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-05-28 21:45:49 +00:00",
+        "title": "Anyone should be carefill if you are\u2026",
+        "review_text": "Anyone should be carefill if you are traveling from terminal 4 , especially. Since Heathrow express says that its takes you 15 mins to get to Terminal 2&3 and then transfer to Term 4 takes aprox 4 mins, well its not true. 20-25mins MINIMUM to wait in between this terminals and all together it wil take you same if you take underground....\nIts just unbelievable that Heathrow epress is not running their service in between terminals!!! How come is that different?and why you do not mention this befoe I buy the ticket??",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ekaterina Kiseleva",
+          "url": "https://www.trustpilot.com/users/5b0c788b4de5666d34b25b19",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 27,
+        "rank_absolute": 27,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d0a62c8b055990650fae21f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-06-19 16:28:56 +00:00",
+        "title": "I would echo others reviewers comments",
+        "review_text": "I would echo others reviewers comments.  There app caused an error in one of my bookings and contained the wrong direction of travel.  They refused to alter the booking even though the price is the same.  \"Customer Service centre\" rude and indifferent.  Heathrow express is more expensive per mile than Concorde was, which shows what a rip off it is.  TFL now runs a half hourly service to Paddington which cost \u00a39 one way.  Obviously the option to use while you wait for the new Queen Elizabeth Line to open.  Hopefully by then Heathrow express will have ceased trading.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Robert Watson",
+          "url": "https://www.trustpilot.com/users/587f59820000ff000a6dafd4",
+          "image_url": null,
+          "location": "ES",
+          "reviews_count": 14
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 28,
+        "rank_absolute": 28,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ebd3f8b25e5d209b8eabc57",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-05-14 12:54:35 +00:00",
+        "title": "No clear guidelines for using travel credits",
+        "review_text": "I don't mind getting vouchers for advance tickets which I was unable to use owing to BA cancellations during Covid-19, but there is no guidance how one is supposed to use these. I followed instructions to apply online, then was told I had to use the telephone booking, which I tried today to be told I should wait until nearer the time of trip. Shall see how this works, but if I am then told I should have booked 90 days in advance to get the cheapest ticket, I shall not be best pleased. It's the same with British Airways: why cannot they issue a voucher or promotion code to be used on the App? These days who would normally book by telephone?",
+        "review_images": null,
+        "user_profile": {
+          "name": "Johnnie Deb",
+          "url": "https://www.trustpilot.com/users/5e9e1bda0ebc96ab4407fae1",
+          "image_url": null,
+          "location": "DE",
+          "reviews_count": 16
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 29,
+        "rank_absolute": 29,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5eb440a725e5d20a888f7324",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-05-07 17:08:55 +00:00",
+        "title": "They took our money without providing the service",
+        "review_text": "They took our money without providing the service. Due to covid19, we all know the situation, yet they won't refund for the unused tickets. From their automatic answer, they tell us to call them in UK, knowing that we live in another continent, can't call them. They offered a voucher, knowing that we can't use. I emailed a couple times, through facebook and contact form explaining it, they never responded. They took the money, literally.",
+        "review_images": null,
+        "user_profile": {
+          "name": "des7",
+          "url": "https://www.trustpilot.com/users/5df9263fec66ff0b917a41c2",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 30,
+        "rank_absolute": 30,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/634873b8377e522e314e6ec3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-13 22:23:20 +00:00",
+        "title": "Where's my refund more than one month later?",
+        "review_text": "I paid for a ticket from Heathrow to Paddington on 4th September. The ticket machine malfunctioned and didn't issue me a ticket so I had to buy another ticket from a different machine. I emailed Heathrow Express on the 5th and received a reply on the 6th,telling me that I will receive a refund via bank transfer within 20 days. Guess what? No refund so I emailed again on 8th October. It's the 13th today and still no reply or refund. The Passenger Customer support is very poor.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Joe Henderson-tang",
+          "url": "https://www.trustpilot.com/users/5ebeb7b7914d19ccdf8237b6",
+          "image_url": "https://user-images.trustpilot.com/5ebeb7b7914d19ccdf8237b6/73x73.png",
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 31,
+        "rank_absolute": 31,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63068ca96a3e1ed2c3bfd0db",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-08-24 22:40:09 +00:00",
+        "title": "Delays make HE it slower than tube",
+        "review_text": "Decided to go for this overpriced option to ensure I'd make my train connection after my flight. Thanks to issues with train tracks which resulted in delays (would have been nice to have been warned about this on the website when purchasing the ticket!) I missed my train, had to buy a new train ticket and didn't get home until several hours later. Next time I might as well take the tube.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tanja Eichler",
+          "url": "https://www.trustpilot.com/users/576821030000ff000a2aee09",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 32,
+        "rank_absolute": 32,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63f096299b64b1bdaf5b1da7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-02-18 11:11:05 +00:00",
+        "title": "Total s**t show",
+        "review_text": "Total s**t show. Arrived at Heathrow, the Heathrow Express staff advised us to buy tickets to Paddington at the kiosk in the terminal. A 15 minute walk to the train station later confirmed the train station was closed and they were running no Express trains for the day. No refund on the spot. So applied via the website for a refund. Quick response saying it had been approved requesting bank account details. They suggested it will take 20 days to refund. Well over 2 months later still waiting! Emails not responded to, and eventually got to speak someone over the phone after about 40 days\u2026\u2026..they admitted the transfer had not been actioned but promised it would that day. Still waiting\u2026\u2026\u2026no sign of the money.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Brian",
+          "url": "https://www.trustpilot.com/users/63f0961119bcd900139ae8b6",
+          "image_url": null,
+          "location": "NZ",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 33,
+        "rank_absolute": 33,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61b060160b7cbbcbfe04c1a4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-12-08 07:34:46 +00:00",
+        "title": "poor non existent customer service",
+        "review_text": "I don\u2019t find the service reliable for the money that you pay. \u202aAdd to that their non existent customer service team! Over a month ago I applied for a refund for a non running service and radio silence. I completed another form to complain - again radio silence. Their customer service is shocking and needs an overhaul. Leave an extra bit of time and use the tube. Avoid avoid avoid.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sarah Culver",
+          "url": "https://www.trustpilot.com/users/5eafc6e63510ff5ca5f648df",
+          "image_url": "https://user-images.trustpilot.com/5eafc6e63510ff5ca5f648df/73x73.png",
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 34,
+        "rank_absolute": 34,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5c42f87c9d378007a40625c3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-01-19 10:14:20 +00:00",
+        "title": "The Heathrow Express App is absolute\u2026",
+        "review_text": "The Heathrow Express App is absolute rubbish. Tried 5 times to order a ticket via the app on 16th Jan en-route to Paddington and it kept crashing. It never completed the transaction. So I queued up at the station and bought a paper ticket which I then used to travel from Paddington to Heathrow Express......and on a train that was 7 mins late too. I then received an email later that evening confirming an online booking. So I was charged twice for the same trip. I complained to Customer Service but no response to-date. Apparently it takes 20 days to respond despite the problem being an unstable customer unfriendly app. Rubbish service all round.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sophia Nadur",
+          "url": "https://www.trustpilot.com/users/5c42f8414c303ff41aa386ee",
+          "image_url": "https://user-images.trustpilot.com/5c42f8414c303ff41aa386ee/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 35,
+        "rank_absolute": 35,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/635686a5276a7fd30bd8fb90",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-24 14:35:50 +00:00",
+        "title": "ridiculous customer service - never buy tickets",
+        "review_text": "ridiculous customer service\nthere are no exchanges on tickets!! this is absurd - the ticket will still get used if i wanted to take it on another day??? there is NOTHING to lose for the company if they let you use it on another day. so now its going to cost me the price of 2x tickets to go to heathrow??? \n\ni will never take heathrow express - this is horrific customer experience. lets say your flight is cancelled they tell you to bring it up with the airline !! which how in ANY way is that the airlines problem?? the fastest normal way is through the ticket provider which in this case is Heathrow Express",
+        "review_images": null,
+        "user_profile": {
+          "name": "Maia",
+          "url": "https://www.trustpilot.com/users/616560d67a72710012c61983",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 36,
+        "rank_absolute": 36,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61c3535a9f60695a25fd6b99",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-12-22 16:33:30 +00:00",
+        "title": "Let down again by Heathrow Express",
+        "review_text": "Once again arrive at Heathrow and no Heathrow Express running.  Applied for refund, email reply to phone customer service.  No answer, more than 20 minutes on hold.  Why do I need to phone customer service?  You have my full details as ticket purchased on your website.",
+        "review_images": null,
+        "user_profile": {
+          "name": "P W Cole",
+          "url": "https://www.trustpilot.com/users/57176f370000ff000a190f89",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 37,
+        "rank_absolute": 37,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6514c7b396bfc11e4afb185d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-28 02:24:19 +00:00",
+        "title": "What Customer Service",
+        "review_text": "With more strikes set to take place on the 4th Oct, my family are now having to come pick me up from Heathrow as my flight lands after the last express train departs.\n\nApply for refund\n\nYou would think that H\u2019Ex customer service would be apologetic for the disruption to service, HELL NO! \n\nBefore i can have my refund, I have to provide everthing but my underwear size and nearly an apology to them for requesting said refund.\n\nThe clue is in the title \u2018CUSTOMER SERVICE\u2019 - not \u2018LACK OF CUSTOMER SERVICE\u2019 - I didnt ask for the strikes to happen, I just want to get home\n\nAppreciate the experience so i can write this review and thank you for absolutely nothing - TERRIBLE SERVICE!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Philip Lee",
+          "url": "https://www.trustpilot.com/users/4f86576000006400011775f4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 38
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 38,
+        "rank_absolute": 38,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61d1e86e9f60695a25075ba0",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-01-02 18:01:18 +00:00",
+        "title": "Beware! This is a rip-off!!",
+        "review_text": "Had the misfortune to arrive back in London when the Piccadilly Line wasn't working (30.12.2021). The Heathrow Express was there, in front of me. I was encouraged to take it by a security guard. \u00a325! \ud83d\ude2f\ud83d\ude20 The Tube would have cost me \u00a35.30 for a comfortable, completely uninterrupted journey to North London. Ended up in Paddington, a station I have never used. \n\nThe Heathrow Express is a COMPLETE RIP OFF. \u2639\ufe0f \n\nVERY disappointed. Feel duped and manipulated. \u2639\ufe0f",
+        "review_images": null,
+        "user_profile": {
+          "name": "ANTIGONE PANAYI",
+          "url": "https://www.trustpilot.com/users/6076947c009934001b7d0434",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 39,
+        "rank_absolute": 39,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ea80139086b6409bc8f9219",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-04-28 10:11:05 +00:00",
+        "title": "One star is a star too many",
+        "review_text": "One star is a star too many. Obstructive, ignorant, rude and greedy are just some of the words that spring to mind for this operator. It\u2019s more about the principle than the money for me, we have had nothing but good will and complete, hassle free refunds on all of the other elements of our trip to New Zealand but Heathrow Express are a law unto themselves. I hope they treat their staff with more respect than they treat their customers. \ud83d\ude21\ud83e\udd2c\ud83d\udca9",
+        "review_images": null,
+        "user_profile": {
+          "name": "Louise Clark",
+          "url": "https://www.trustpilot.com/users/5c3f326f4721d5bc7d6a2b5a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 40,
+        "rank_absolute": 40,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/646e1cd7d8dda172fc18e3fe",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-05-24 16:19:04 +00:00",
+        "title": "Money Grabbers",
+        "review_text": "Should be zero. Due to rail strike action I am unable to get to London on the day I have booked tickets. Heathrow Express say, that\u2019s too bad and they will keep the money and not allow me to travel the day before. After years of terrible service, awful staff interactions and paying for services I have not been able to use-I am finally going to boycott the service. I have had enough. I would rather pay for a driver than put up with it anymore. The rail companies need breaking up like the mining unions were.\nUPDATE 30/6/23: I have successfully got a few of my old City friends and their firms to stop using the Heathrow Express. Do the same and maybe they will improve their Customer Service!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Black Swan",
+          "url": "https://www.trustpilot.com/users/630c67ca9e069800133e620a",
+          "image_url": "https://user-images.trustpilot.com/630c67ca9e069800133e620a/73x73.png",
+          "location": "GB",
+          "reviews_count": 24
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 41,
+        "rank_absolute": 41,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5de8706ac8454509ec1429a3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-12-05 02:50:18 +00:00",
+        "title": "Was going to use this service on Nov\u2026",
+        "review_text": "Was going to use this service on Nov 30th.\nArrived at Term 2 from USA. I found one lot of leaflets and NO ONE around to ask for information that would help. When i tried the web page and app it mysteriously wouldnt give an accurate fare other than a prohibitively expensive option.\nA disgrace to all. Welcome to Britain ... Lets bend you over and screw you with bad and overpriced service!!-$",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter Lyons",
+          "url": "https://www.trustpilot.com/users/5cf1662bd0f7464511527899",
+          "image_url": "https://user-images.trustpilot.com/5cf1662bd0f7464511527899/73x73.png",
+          "location": "GB",
+          "reviews_count": 20
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 42,
+        "rank_absolute": 42,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/631e3f236a3e1ed2c3d012bf",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-11 22:03:47 +00:00",
+        "title": "Hopeless company",
+        "review_text": "Turned up to Paddington to find that our train for our group of 4 was cancelled. The Heathrow Express employee could not tell us whether the next train would run. He advised us to make alternative arrangements and to submit the unused tickets ASAP to their refund department.In short,with further expense and a lot of stress we just made our plane. The next day I submitted the tickets, I received an acknowledgement and was asked for my bank details which I submitted. This was almost eight months ago. Since then I have phoned or emailed weekly. My case was escalated in June. This company is a disgrace. I am actually glad the train didn't run as judging by their incompetence in all other areas I can't imagine it would be safe.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Rose Doyle",
+          "url": "https://www.trustpilot.com/users/631e3efd460e3e0013d24443",
+          "image_url": "https://user-images.trustpilot.com/631e3efd460e3e0013d24443/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 43,
+        "rank_absolute": 43,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6569d6b4259207b2f5754b4b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-12-01 14:51:00 +00:00",
+        "title": "This would be no stars if it were\u2026",
+        "review_text": "This would be no stars if it were possible. If you charge a premium price then provide a premium service. They really need to look at the dictionary definition of \u2018express\u2019 as this is definitely not",
+        "review_images": null,
+        "user_profile": {
+          "name": "Richard Lord",
+          "url": "https://www.trustpilot.com/users/630e2b331f07ce0011d2dc4a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 44,
+        "rank_absolute": 44,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5da6059a6048580adca79587",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-15 17:44:58 +00:00",
+        "title": "Heathrow Express Experience 15/10/2019",
+        "review_text": "Heathrow App down while they upgrade, website doesn't work on iPad or iPhone (couldn't enter my address nor would it respond to my log-in details) finally got tickets via my PC.  Got to Paddington only to find a 4 coach train waiting at peak time, horrendous queues at the ticket office owing to electronic ticketing difficulties.  Train horribly overcrowded, standing room all taken in the vestibules and isles.  Advertised 15 minute journey duration to Terminal 123 took 22 minutes.  the only reason I gave this 1 star was because it left Paddington on time.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Danny Lee",
+          "url": "https://www.trustpilot.com/users/5da605597e2251a92914863d",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 45,
+        "rank_absolute": 45,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6333676b1133a76521b9c5ca",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-27 23:13:15 +00:00",
+        "title": "Going backwards",
+        "review_text": "So disheartening that Heathrow Express is one of many things to add on the list of disappointment when it comes to service and punctuality. Since the launch of the Elizabeth Line, it\u2019s now always delayed. Happened 3 times with me in 1 month. Things keep getting worse.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mohamed Kahwaji",
+          "url": "https://www.trustpilot.com/users/58baba990000ff000a7df36e",
+          "image_url": "https://user-images.trustpilot.com/58baba990000ff000a7df36e/73x73.png",
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 46,
+        "rank_absolute": 46,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5abe329e6d33bc073c53cd2b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-03-30 12:50:38 +00:00",
+        "title": "Return tickets seem a foreign concept",
+        "review_text": "Bought a business first class return ticket, and when I tried to used it to return, the controller told me \"it's been used sir.\" Yeah it sure has, to get to London, and now I'm using it to get back. \"You can't reuse a used ticket sir.\" It's a 2 way return, that's the whole concept! Ended up having to show the receipt and credit card I bought the ticket with, like I'm using a found ticket or something. Incompetent staff.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Thijs Heesters",
+          "url": "https://www.trustpilot.com/users/5abe32604de5666d34feae4e",
+          "image_url": "https://user-images.trustpilot.com/5abe32604de5666d34feae4e/73x73.png",
+          "location": "DE",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 47,
+        "rank_absolute": 47,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d4bfb1ef01869069cca566c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-08-08 10:36:14 +00:00",
+        "title": "Horrendous company from top to bottom",
+        "review_text": "Horrendous company from top to bottom. The pricing is daylight robbery, the staff are very very rude and they lose tickets in the app and don't care that you are out of pocket!\nI bought a carnet of 12 tickets last October and know I had two tickets left. Visiting London a couple of months ago I opened my app to find I had no tickets left to use. Nonsense, and there is nothing they can do about it. A few weeks ago I found the other train to Paddington, very pleasant and a fraction of the cost of this disgusting company. Foreign visitors to London beware! There are much better options into London from Heathrow.",
+        "review_images": null,
+        "user_profile": {
+          "name": "J. Robertson",
+          "url": "https://www.trustpilot.com/users/5b56f04c4de5666d34de9f32",
+          "image_url": null,
+          "location": "DE",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 48,
+        "rank_absolute": 48,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e8244f03c93ae06dc6cc508",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-03-30 19:13:52 +00:00",
+        "title": "HE's Covid-19 unacceptable response",
+        "review_text": "In the current covid-19 situation, Heathrow Express are still encouraging us to travel to the airport as they're not willing to refund our tickets. I had booked three upcoming Heathrow Express journeys so the voucher they suggest is of no interest to me. I was a good customer but I will never ever travel with them anymore! Heathrow Express you will be losing lots of customers.\n\nIf I could give 0 out of 5 I definitely would!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Julie",
+          "url": "https://www.trustpilot.com/users/5e8244b65409e8518b6f5039",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 49,
+        "rank_absolute": 49,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dc441ac6048580a6c4aaf8d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-07 16:09:16 +00:00",
+        "title": "Very disappointing",
+        "review_text": "Despite Heathrow express is one of the worlds most expensive train rides it\u2019s not without its faults .\n\n1 . Don\u2019t expect punctuality , frequent delays , but most frustrating is when train leaves early to suit the driver. Yes this train frequently leaves one or two minutes early. It\u2019s extraordinarily unprofessional  that train departs to suit driver not passengers .\n\n2. Trains are old - well worn , poor ventilation and often just dirty .\n\n3. Unfortunately as with any monopoly it\u2019s wide open to abuse , this is exactly what the Heathrow operator does, do not expect any response to written complaints.  \n\nI would recommend Heathrow Express operator to experience the Stockholm Airport express so they learn how to operate trains .",
+        "review_images": null,
+        "user_profile": {
+          "name": "Stephen dalton",
+          "url": "https://www.trustpilot.com/users/5b83c34f4de5666d34fafc70",
+          "image_url": null,
+          "location": "IE",
+          "reviews_count": 11
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 50,
+        "rank_absolute": 50,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64070c2b0ed9c91e66596527",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-07 12:04:27 +00:00",
+        "title": "Do not bother. Terrible service. use the elizabeth line.",
+        "review_text": "Do not buy a ticket on this service at the kiosks. The kiosk attendant made me put the transaction through twice despite me saying I have already been charged. I was charged twice and then given 2 tickets and told they can not help me or process a refund and just given a card with their website details. I was then travelling for a month and told that I can not get a refund after 30 days despite it being the incompetence of the staff or the machine not working and no fault of mine.\n\nUse the Elizabeth line. Don't bother with this money grubbing company. I'm out 25 quid in this economy due to their poor business practices and lack of staff training.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Suzanne Creevey",
+          "url": "https://www.trustpilot.com/users/63f75172d809ed0013531cd2",
+          "image_url": "https://user-images.trustpilot.com/63f75172d809ed0013531cd2/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 51,
+        "rank_absolute": 51,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/618a4625234f1b1fe5729566",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-11-09 09:57:57 +00:00",
+        "title": "Awful Customer Service",
+        "review_text": "I had flights to New York which were Covid-cancelled and had bought 2 return tickets on the Heathrow Express. I tried to call but the Customer Services line wouldn't accept calls. E -mails received a standard response but no follow up and two deadlines expired and still i heard nothing.\n\nFrom my experience, there is NO Customer Service available I will not waste any more time and effort in trying to retrieve my money accepting that HE has exhausted my patience.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mr Paul Nathan Shafar",
+          "url": "https://www.trustpilot.com/users/601c876080d0a3001986c5e9",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 52,
+        "rank_absolute": 52,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64d4a55c34c89430e8ecfbea",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-08-10 10:52:44 +00:00",
+        "title": "This is the worst line for delays",
+        "review_text": "This is the worst line for delays.  Heading from Acton to Heathrow and they delayed me 1 hour but didn\u2019t tell us this initially just kept cancelling the trains when they were due.  My friend got to Heathrow though straight through from Paddington.  Passed us by.  Absolute disgraceful service.  Had to get an Uber in the end.   Oh my God how are we going to get a green London",
+        "review_images": null,
+        "user_profile": {
+          "name": "n Heg",
+          "url": "https://www.trustpilot.com/users/6156b31e3a5d9a001250a18c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 53,
+        "rank_absolute": 53,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dcef7f2c8454507e4308b0f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-15 19:09:38 +00:00",
+        "title": "So what do you get for the world's most\u2026",
+        "review_text": "So what do you get for the world's most expensive mile per mile expensive railway in the world?  Firstly you have to listen to loud advertising throughout the full trip.  Secondly if your train is delayed, which is oftenly is, there's no option to get a refund on that massive price.  If you try and buy a ticket through the machine at Paddington, you may stand there for a while as it doesn't ask you for a pin unless you bend down and check the little screen next to where you've inserted the card.  Roll on cross rail which hopefully will put this bunch of cowboys out of business. In the meantime, Heathrow has a rail service that is in a par with its status as Europe's worst Airport.  Avoid if you possible can.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jonathan",
+          "url": "https://www.trustpilot.com/users/5589db5b0000ff0001c803b4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 54,
+        "rank_absolute": 54,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62058c02441cb9c247355830",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-02-10 22:04:50 +00:00",
+        "title": "Worst company ever",
+        "review_text": "Worst company ever. I logged two complaints with their customer service. One was addressed several months later. The other I still haven't heard back from them after logging it at the very beginning of January, they agreed to refund me. Then after chasing four times so far, and six weeks after proving my bank details upon request, I still haven't got my money yet! My case number is 01906360.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Leilei Zhu",
+          "url": "https://www.trustpilot.com/users/61b00f00eca2630012527568",
+          "image_url": "https://user-images.trustpilot.com/61b00f00eca2630012527568/73x73.png",
+          "location": "GB",
+          "reviews_count": 14
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 55,
+        "rank_absolute": 55,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e8c53d8086b640954317cd8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-04-07 10:20:08 +00:00",
+        "title": "Thank you very much to issue a credit\u2026",
+        "review_text": "Thank you very much to issue a credit note to use on the next 12 months on  tickets not refundable etc. Hopefully in 12 months time we will be able to travel again; the gesture was kind regardless as your operator.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paolo",
+          "url": "https://www.trustpilot.com/users/5a1bb6860000ff000ae80a24",
+          "image_url": "https://user-images.trustpilot.com/5a1bb6860000ff000ae80a24/73x73.png",
+          "location": "GB",
+          "reviews_count": 51
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 56,
+        "rank_absolute": 56,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e9b546a086b6409543a4151",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-04-18 19:26:34 +00:00",
+        "title": "Tried to get a refund on an advance\u2026",
+        "review_text": "Tried to get a refund on an advance ticket but apparently it's no refund just vouchers.  Staff who was very rude told me I had no other option despite Covid-19 regulations in London. Truly inconsiderate company. I just want my money back.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Fedup",
+          "url": "https://www.trustpilot.com/users/5e9b54585efa59eea758e148",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 57,
+        "rank_absolute": 57,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5f8db0ca798e6f04a417e25a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-10-19 15:29:14 +00:00",
+        "title": "Do not use the Heathrow Express during\u2026",
+        "review_text": "Do not use the Heathrow Express during Covid times. They have reduced the service from once every 15 minutes to once nearly every half hour. They won't tell you this when you buy the ticket from the sales person. You can literally get to most parts of London on the tube within half an hour for a fraction of the price. Complete rip off and waste of money. They shouldn't be using Covid as an excuse for lowering standards. Won't be using again.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Luke Smith",
+          "url": "https://www.trustpilot.com/users/5f8db0c2156b3a0019862217",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 58,
+        "rank_absolute": 58,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dab0f9660485807d808e139",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-19 13:28:54 +00:00",
+        "title": "Honestly...its the weekend and the\u2026",
+        "review_text": "Honestly...its the weekend and the train aren't running - you have to be kidding me! No alternate solutions offered!! Instead of 15 min ride it takes you 90 min to get into London. Do your track work during night time when the airport is closed!!! Unbelievable",
+        "review_images": null,
+        "user_profile": {
+          "name": "Bastian Graf",
+          "url": "https://www.trustpilot.com/users/5d620d497fae1aa60924e715",
+          "image_url": "https://user-images.trustpilot.com/5d620d497fae1aa60924e715/73x73.png",
+          "location": "AU",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 59,
+        "rank_absolute": 59,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5deeb523c8454506301c7bc8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-12-09 20:57:07 +00:00",
+        "title": "ENOUGH",
+        "review_text": "If there was 0 star that would be my choice. They changed the app this year and since the change, it has been a nightmare. Downloading impossible, tickets not in chronological order etc. If you send a complaint email you get an automated reply that there will be no response and if you ask \u2018staff\u2019 on the trains or at Heathrow or Paddington they say they only ensure safety. No help? Who is behind this non sense ??!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Marina Jacquemin",
+          "url": "https://www.trustpilot.com/users/5669d97a0000ff0001f24487",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 60,
+        "rank_absolute": 60,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e81fecb3c93ae031456432e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-03-30 14:14:35 +00:00",
+        "title": "Tried to get a refund for this after I\u2026",
+        "review_text": "Tried to get a refund for this after I couldn't travel because of the Coronavirus epidemic. They are being obstructive every step of the way. Icing on the cake was yesterday when the customer service representative said I couldn't change my ticket as it was more than 6 months away, yet the guarantee is for three months away, I am scheduled to travel tomorrow.\n\nThe sooner the government strips them of their franchise the better.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Joseph Redford",
+          "url": "https://www.trustpilot.com/users/5e81fec48a0cd76e5a715609",
+          "image_url": "https://user-images.trustpilot.com/5e81fec48a0cd76e5a715609/73x73.png",
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 61,
+        "rank_absolute": 61,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5c0eb0369d37800a688387a9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-12-10 18:28:06 +00:00",
+        "title": "Total Astonishment at how bad they are.",
+        "review_text": "I applied to get a refund for a ticket I could not use because I had to rush to hospital to see my mother, having being told this would be the last time I would see her.\n\nEmail back from the Customer Relations Department has basically told me to get lost.\n\nWhat a totatlly astonishing reply from this organisation.",
+        "review_images": null,
+        "user_profile": {
+          "name": "London99",
+          "url": "https://www.trustpilot.com/users/52e19cfe0000640001602861",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 62,
+        "rank_absolute": 62,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62863685045d025d3a9873e3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-19 14:22:29 +00:00",
+        "title": "Customer service? There is none",
+        "review_text": "I've been trying to talk to someone, ANYONE. \nAll i've received are automated emails that claim someone will be in contact within \"72 hours\". It's a complete lie. I can't believe i've been chasing a refund for over a month and haven't even been acknowledged by an actual person yet. I've only just seen the reviews and i guess i've essentially been robbed by this company since this is clearly how they operate.\n\nAs everyone else suggests, you're better off getting the tube to and from Heathrow because god forbid you have any issues with your ticket or the service, there is no one higher up the chain to speak to. Know this before you give them your money.\n\nUPDATE: Heads up - If you bother them on twitter DM's with your case number they will actually respond there so don't bother calling their customer service nor submitting a request on their website, make a twitter account. i just received my refund today.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Emily A",
+          "url": "https://www.trustpilot.com/users/628519654a9f5900124d9f02",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 63,
+        "rank_absolute": 63,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/636ba710b84cc27618e6bca6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-11-09 15:11:44 +00:00",
+        "title": "Poor info and long waits",
+        "review_text": "Insufficent signage at Paddington for Heathrow Express, scant details about having to change at Heathrow T2 to get on another train for T4 which was an astounding 23 minute wait. The Elizabeth line would have been quicker and a lot cheaper.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sheikha Al Wazzan",
+          "url": "https://www.trustpilot.com/users/635a431a00cf310012d6b1c7",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 64,
+        "rank_absolute": 64,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6319ca107f7a8621ee561600",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-08 12:55:12 +00:00",
+        "title": "This service is not at all Express. Takes one hour to get from Paddington to Terminal 4",
+        "review_text": "It took me one hour to get to Terminal 4. In the end I got there by Elisabeth Line. I could have done that from Paddington. No point in paying more for Heathrow Express tickets. Should definitely drop Express from heir name",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jelena Vickovic",
+          "url": "https://www.trustpilot.com/users/6319ca05499c0f001377a6f3",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 65,
+        "rank_absolute": 65,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ba340118c83fd0b58da12d6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-09-20 06:37:05 +00:00",
+        "title": "Staff are totally unhelpful and\u2026",
+        "review_text": "Staff are totally unhelpful and empowered to penalise  both visitors and commuters at every opportunity. I buy tickets via the app and once lost my phone enroute to work, boarding the train without realising and then tried to purchase my ticket onboard with my laptop. Their WiFi wasn\u2019t working and despite showing 100s of past tickets on email they still charged me the full peak fare and customer service weren\u2019t interested. Apart from being wildly overpriced, in over a year of commuting on the HEX not once have I seen staff go the extra mile for a single passenger. Train staff are regularly shouting over the PA onboard and at the station, frankly it\u2019s embarrassing. The barriers at Heathrow are ridiculous, causing people to get stuck in the entryways and often don\u2019t even accept valid tickets. The trains are often dirty, too hot, too cold. The WiFi rarely works and the app constantly crashes, drops out, takes ages to load your ticket or doesn\u2019t load it at all. I can\u2019t wait for the day Crossrail opens (albeit delayed).",
+        "review_images": null,
+        "user_profile": {
+          "name": "JRF",
+          "url": "https://www.trustpilot.com/users/52de790a00006400015fa283",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 11
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 66,
+        "rank_absolute": 66,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/616059afd12ab8ef51615b63",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-10-08 14:46:07 +00:00",
+        "title": "Third party platforms (google maps",
+        "review_text": "Third party platforms (google maps, Citymapper) have more services than they actually run. When tight on time ended up waiting for 30 mins to get on a train. Take Piccadilly line instead.",
+        "review_images": null,
+        "user_profile": {
+          "name": "William Reid",
+          "url": "https://www.trustpilot.com/users/5ed1fde413f40a7e533808b3",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 67,
+        "rank_absolute": 67,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63d93b319b64b1bdaf489173",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-01-31 18:00:49 +00:00",
+        "title": "Absolute tosh",
+        "review_text": "Absolute tosh! 10 hour flight from Vegas, 3pm train and still waiting at 3.58! Continually told its delayed and then cancelled and then it will be here in 5 mins and just left hanging like\nLemons and the staff here make a scooby doo look intelligent.",
+        "review_images": null,
+        "user_profile": {
+          "name": "David",
+          "url": "https://www.trustpilot.com/users/55f6c4350000ff0001dba5a7",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 68,
+        "rank_absolute": 68,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6273ce32166eb7ecbf3ddf80",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-05 15:16:34 +00:00",
+        "title": "Heathrow Express nonexistent customer service",
+        "review_text": "Have had no luck trying to contact Heathrow Express after changing my flights and consequently needing to change the date on my tickets. Absolute nonexistent customer 'service': shall never use them again as long as the Tube is an option.",
+        "review_images": null,
+        "user_profile": {
+          "name": "MarkHussey",
+          "url": "https://www.trustpilot.com/users/5c9cd16754d7e43073fb70dd",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 69,
+        "rank_absolute": 69,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b1526e06d33bc01c8148167",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-06-04 11:47:44 +00:00",
+        "title": "15 minutes? Not true..",
+        "review_text": "Appalling. Our journey took almost double the time advertised. Arrived after 26 mins. No transparency about applying for refund. Filled in form online, told to call the office. Wait of half an hr on hold to be told no refund because our train was 13, not more than 15 minutes late. Why didnt they tell me this by email & not waste my time?? So you only get a refund if you train is more than half hr late, double the advertised time! \u00a344! Terrible customer service...total sham",
+        "review_images": null,
+        "user_profile": {
+          "name": "Anneka",
+          "url": "https://www.trustpilot.com/users/55e6f97a0000ff0001d8adff",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 70,
+        "rank_absolute": 70,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60c09400f9f4870a0ca72bf2",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-06-09 10:12:16 +00:00",
+        "title": "Heathrow Express - An endless stream of instructions and\u2026",
+        "review_text": "An endless stream of instructions and adverts over the loud speakers makes for an annoying journey.\nBest to buy wax earplugs from your local pharmacy or use Noise Cancelling Headphones.",
+        "review_images": null,
+        "user_profile": {
+          "name": "LOOKNI",
+          "url": "https://www.trustpilot.com/users/61b30c40af0ae10012b59176",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 71,
+        "rank_absolute": 71,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/624c1a59c7628b203ba2fac2",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-05 10:30:49 +00:00",
+        "title": "Absolutely useless.",
+        "review_text": "This company should not be running a railway. There Web site does not work. There app is totally useless. Customer service is non existent. The best way to get to Heathrow airport is by underground.\nTo",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dean Cownden",
+          "url": "https://www.trustpilot.com/users/542fcedd00006400018e2bd6",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 31
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 72,
+        "rank_absolute": 72,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5bd9df819d37800ba472b103",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-10-31 16:59:45 +00:00",
+        "title": "I will not use this service again.",
+        "review_text": "I will not trust Heathrow Express again. On Sunday, October 28, the service from Paddington was completely interrupted due to technical problems and I was forced to take a taxi to avoid missing my flight. I have demanded that they reimburse me the amount of the taxi, but the company only returns the amount of the ticket; so I lost 72 pounds because of them.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mario Macia",
+          "url": "https://www.trustpilot.com/users/5bd9df7f4de5666d34e66f0f",
+          "image_url": null,
+          "location": "ES",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 73,
+        "rank_absolute": 73,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/634eb6489b12f67dfee47316",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-18 16:21:33 +00:00",
+        "title": "If your delayed, you probably won\u2019t get repaid",
+        "review_text": "Bought a return ticket and all trains were cancelled when I returned.\n\nThey have no automated delay repay service, took a week for them to get back to me, said the payment would take up to 20 days.  Been 40 days, no payment, no explanation.\n\nReally poor service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Nicholas Charnock",
+          "url": "https://www.trustpilot.com/users/5d18b71197935faa82d6f6fa",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 74,
+        "rank_absolute": 74,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/632852917f7a8621ee5f7e4c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-19 13:29:21 +00:00",
+        "title": "Heathrow distress\u2026..",
+        "review_text": "Booked advance tickets on line for my wife and child ( who are travelling without me) only to discover post purchase that these tickets can only be collected in person at the airport and require presentation of my credit card. No notice to this effect when purchasing . Entirely defeats the purpose of booking in advance to save time/inconvenience. Now opted to use Elizabeth line and avoid HE who , as I found over many years of unhappy travel with them, continue to be an unreliable , expensive and Luddite \u201c service provider\u201d .",
+        "review_images": null,
+        "user_profile": {
+          "name": "Norfolk farmer",
+          "url": "https://www.trustpilot.com/users/5bb263774de5666d347d8e9e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 75,
+        "rank_absolute": 75,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5bdace5d9d37800bcc553a18",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-01 09:58:53 +00:00",
+        "title": "Service suspension - no refund",
+        "review_text": "On the 17th of October, due to electrical problems, the service was suspended after 8pm. I landed at Heathrow at 10pm and i was informed of the matter. I asked for a refund online and the answer was that they would refund 50% of the fare as per the delay policy. There was no delay because there was no service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sofia",
+          "url": "https://www.trustpilot.com/users/5bdace2a4de5666d3491f6d6",
+          "image_url": null,
+          "location": "PT",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 76,
+        "rank_absolute": 76,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5953a074f32ba80970448f6c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-06-28 12:26:28 +00:00",
+        "title": "Still the best way to get to Heathrow",
+        "review_text": "Still the best way to get to Heathrow. Friday night for a quick weekend away, it's a lottery on road traffic, I would recommend using especially at peak travel times.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Leanne",
+          "url": "https://www.trustpilot.com/users/59539cfb0000ff000aa90d06",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 77,
+        "rank_absolute": 77,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dc9ac2fc845450a84911422",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-11 18:45:03 +00:00",
+        "title": "The app is shockingly BAD",
+        "review_text": "The app is shockingly BAAD! It does not operate properly, is not intuitive and might be the worst public transport app I've ever had the misfortune to try too use!!! Absolutely dreadfu",
+        "review_images": null,
+        "user_profile": {
+          "name": "Harry Burgoyne",
+          "url": "https://www.trustpilot.com/users/5dc9ac20f85fc224443b9c76",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 78,
+        "rank_absolute": 78,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e9f14b2086b6409543c6290",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-04-21 15:43:46 +00:00",
+        "title": "Dreadful treatment of customers",
+        "review_text": "Heathrow express will not provide a refund for being unable to travel due to Covid 19. Other transport systems providing refunds including train companies. Shame on you Heathrow express. I wont be using your service in the future.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dee",
+          "url": "https://www.trustpilot.com/users/571b43ac0000ff000a19ebcc",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 15
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 79,
+        "rank_absolute": 79,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61710d35234f1b1fe56042c6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-10-21 06:48:21 +00:00",
+        "title": "Rubbish",
+        "review_text": "Very bad experience as the train is stuck in stations with doors not opening and i am nearly missing the flight. For something that costs double the price and is called express this is appaling. Never again.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Daiva Smiciute",
+          "url": "https://www.trustpilot.com/users/5a2034940000ff000ae9fce2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 80,
+        "rank_absolute": 80,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60d08641f9f48706707c04e8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-06-21 12:29:53 +00:00",
+        "title": "I pay money to have a relaxing journey\u2026",
+        "review_text": "I pay money to have a relaxing journey to heathrow and I get bombared for the whole journey by a voice that constantly reminds me about what I need to do and pushes adverts. Passangers want to have a relaxing journey before taking a flight.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Gnizla Gnizla",
+          "url": "https://www.trustpilot.com/users/5a9945cd4de5666d34dba894",
+          "image_url": "https://user-images.trustpilot.com/5a9945cd4de5666d34dba894/73x73.png",
+          "location": "IT",
+          "reviews_count": 32
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 81,
+        "rank_absolute": 81,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60a3c900f9f4870b7007315f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-18 14:02:40 +00:00",
+        "title": "So noisy with irrelevant ads",
+        "review_text": "Honestly there was no peace and silence during the whole trip. They keep repeating the same information and it\u2019s so loud as well. Never using it again, I\u2019ve gotten deaf.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ana",
+          "url": "https://www.trustpilot.com/users/5f5cd53bec01bb70a60d0076",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 82,
+        "rank_absolute": 82,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6501b6bc6dc04ff8ca3946bf",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-13 15:18:52 +00:00",
+        "title": "Excellent service",
+        "review_text": "Excellent service! Used this to get from Heathrow into Paddington. Was a very peaceful journey no issues. And was super quick too!!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paul",
+          "url": "https://www.trustpilot.com/users/6501a2644dca2800121867e2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 83,
+        "rank_absolute": 83,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6336fa344a5fff53cad2eaa5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-30 16:16:20 +00:00",
+        "title": "The Heathrow express app is terrible\u2026",
+        "review_text": "The Heathrow express app is terrible for one main reason.  For some inexplicable reason, you must buy a ticket for the'correct direction' - i.e. Heathrow to Paddington or Paddington to Heathrow.  \n\nNow this where the terrible design of the app comes into play.  When you buy a ticket - the direction is already set and you have to change it if that preset direction is not the one you require.\n\nWHY OH WHY!  If you are going to require passengers to buy a ticket for a specific direction then the direction should be empty until specifically selected by the passenger.\n\nOnce you have bought your ticket there is no quick solution ... you have to contact customer services and then receive an email saying you will be contacted in 20 working days.  \n\nThere would appear to be several options for a drastic improvement:\n\n1.  remove the 'correct' direction requirement; or \n2.  remove the preset direction and force customers to chose the direction; or\n3.  include some function whereby customers can change the direction prior to travel.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Vanessa Babington",
+          "url": "https://www.trustpilot.com/users/61bea741e1121b00121cee26",
+          "image_url": null,
+          "location": "SE",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 84,
+        "rank_absolute": 84,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6460a3cba7820385a92e3b40",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-05-14 11:03:07 +00:00",
+        "title": "Tried to claim a refund due to their\u2026",
+        "review_text": "Tried to claim a refund due to their strike action (due to no fault of my own) and received pushback, terrible customer service. Use the Elizabeth line instead.",
+        "review_images": null,
+        "user_profile": {
+          "name": "J Gordon",
+          "url": "https://www.trustpilot.com/users/535c2e9f00006400017037cd",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 85,
+        "rank_absolute": 85,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/630213b77e1f0c3dc2e5645e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-08-21 13:15:03 +00:00",
+        "title": "A dishonest company that stole from me",
+        "review_text": "A dishonest company that is blatantly stealing from me. \n\nI bought two paper tickets from their counter in Heathrow terminal 2 but couldn't travel. Came back to the salesperson for a refund and was told I had to file a request online. Reading their T&C the day later showed the salesperson should have refunded me on the spot. This shows their own staff don't even know their rules. \n\nAnyway, my online refund request took over 1 month to get a response from them asking for my bank detail. I sent this immediately but since then have been waiting another 2 months now and still no refund yet. \n\nI filed a complaint on their website and got an email back saying I would get a \u00a325 refund, even though the 2 tickets cost \u00a350. I asked for an explanation twice and the support person just resent their previous email, showing how little they care. Fine, I'll escalate this soon elsewhere.\n\nOf course, there may be refund processing fees involved here but without giving an explanation, Heathrow Express is simply stealing from me. \nNever buy from this company! Take the TFL rail from and to the airport for a fraction of the cost and save yourself from begging for Heathrow Express' attention.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter Price",
+          "url": "https://www.trustpilot.com/users/630213a66a200b00120ff984",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 86,
+        "rank_absolute": 86,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6256afdfc7628b203bab4d48",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-13 11:11:27 +00:00",
+        "title": "Just like everyone else",
+        "review_text": "Just like everyone else! \nCharge is extortionate... How can this cost so much??? Honestly split an UBER and you would be saving money. \nTo make matters worse, I took it by accident and feel shocked at the price. We asked the dummies at the platform and they told us this was the tube that goes to Paddington...",
+        "review_images": null,
+        "user_profile": {
+          "name": " DesignerBee",
+          "url": "https://www.trustpilot.com/users/612129beadcfe0001294682b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 15
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 87,
+        "rank_absolute": 87,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/635eeb1bb84cc27618dd92cb",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-30 23:22:35 +00:00",
+        "title": "Not an express as can\u2019t run to timetable",
+        "review_text": "Every time I\u2019ve used the Heathrow express in the last few months  it\u2019s never run to time, pay a premium and don\u2019t get a premium service. Save ur money and take the tube or Elizabeth line.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Gl",
+          "url": "https://www.trustpilot.com/users/5f5c943f397ac29736c95975",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 25
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 88,
+        "rank_absolute": 88,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6322058e7f7a8621ee5ba69c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-14 18:47:10 +00:00",
+        "title": "If I could have left no star then I\u2026",
+        "review_text": "If I could have left no star then I would have done.\nShoddy service and even more shockingly terrible customer service. I paid \u00a350 for 2 tickets from Heathrow to Paddington 9 weeks ago. Got on the train and it didn't move for 20 minutes. We were then told there was a fire just outside on the tracks so we would have to find alternative transport. It was 11pm at night. We had to get a taxi home which cost \u00a3110. I sent a complaint into Heathrow Express with copy of my tickets that very night I got home. I was told it would take 20 days to refund me. I am still waiting.., awful company. Get the Elizabeth line or the Piccadilly line as you cannot trust anything Heathrow Express do or say.",
+        "review_images": null,
+        "user_profile": {
+          "name": "ROD HOWELLS",
+          "url": "https://www.trustpilot.com/users/62548803d187cb00125242f5",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 89,
+        "rank_absolute": 89,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dc826f96048580a6c4c4901",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-10 15:04:25 +00:00",
+        "title": "The app is shockingly bad",
+        "review_text": "The app is shockingly bad. Totally non-functioning today. Where is the board of directors? Do they pay any attention to this or other aspects of customer service?",
+        "review_images": null,
+        "user_profile": {
+          "name": "Malcolm Grant",
+          "url": "https://www.trustpilot.com/users/5dc826de6de4f583a866fc89",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 90,
+        "rank_absolute": 90,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dadda6f6048580ab053054f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-21 16:18:55 +00:00",
+        "title": "Stuck on a Heathrow Express train\u2026",
+        "review_text": "Stuck on a Heathrow Express train AGAIN.\nJourney well over half an hour plus waiting 20 minutes at Heathrow...it's really not worth it. Add to that the annoying and ridiculous 'Do not board the train..Stay on the platform'...at Heathrow. \nI will stick to the Piccadilly Line in future.",
+        "review_images": null,
+        "user_profile": {
+          "name": "william murray",
+          "url": "https://www.trustpilot.com/users/5611799a0000ff0001e0918c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 50
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 91,
+        "rank_absolute": 91,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/629f59b9d5573095630d9894",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-07 15:59:21 +00:00",
+        "title": "Bought at ticket online from Heathrow\u2026",
+        "review_text": "Bought at ticket online from Heathrow to Paddington and return. The link to download the tickets did not work. Tried to send an e-mail, but can\u00b4t wait for days for the answer. Tried by phone but could not get contact. Tried Twitter and asked them to resend the ticket by e-mail. But could only get a picture on Twitter of the ticket. But I could not print this picture. So no help for dummies like me.",
+        "review_images": null,
+        "user_profile": {
+          "name": "KO",
+          "url": "https://www.trustpilot.com/users/5c7ad7b8a159c25a1bbfb3b5",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 11
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 92,
+        "rank_absolute": 92,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62ba1182ba5bb6ef0424ea07",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-27 22:22:26 +00:00",
+        "title": "Terrible service",
+        "review_text": "Terrible service. In order to a response to refund request,  I had to use social media. Whist that did work, they can't tell me when I will get the refund. So frustrating and soul destroying have to chase for my money.",
+        "review_images": null,
+        "user_profile": {
+          "name": "SW",
+          "url": "https://www.trustpilot.com/users/5f8da2c25001ec0019acfaa6",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 93,
+        "rank_absolute": 93,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60e60828f9f48707503c0d9e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-07-07 20:01:44 +00:00",
+        "title": "Very expensive then trains cancelled so\u2026",
+        "review_text": "Very expensive then trains cancelled so a very long wait. Costs the same and much quicker to get an Uber or travel by tube which takes the same time but a fraction of the cost\nAhh just seen it is run by tfl so of course it is utterly useless.",
+        "review_images": null,
+        "user_profile": {
+          "name": "tom",
+          "url": "https://www.trustpilot.com/users/5804d3180000ff000a4e4abe",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 16
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 94,
+        "rank_absolute": 94,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/530bc02a000064000279791e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2014-02-24 21:56:58 +00:00",
+        "title": "Travel to Heathrow for business",
+        "review_text": "I would happily advocate the Heathrow Express service, not only was it very fast (only 15 minutes) but it was luxurious and convenient. \r\nTravelling from Paddington to Heathrow, this will be my way of starting all of my business trips from now on.",
+        "review_images": null,
+        "user_profile": {
+          "name": "P B",
+          "url": "https://www.trustpilot.com/users/530b8648000064000165b70f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 95,
+        "rank_absolute": 95,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64bfd33362e43b1915a3c1bf",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-07-25 15:50:43 +00:00",
+        "title": "Thieves and scammers!",
+        "review_text": "Due to the strike that took place in May we were unable to travel so I sent an email requesting a refund as they were unable to provide me with the service I paid for. It takes up to 20 working days as they state. It's now end of July and after several emails back and forth I've been told on 13th June the following:\n\"Dear Miss Johnson,\n\nThank you for your email.\n\nThe email my colleague sent previously advised that your payment request had been sent to our payments team, not that your refund had been processed. Normally they aim to process the refund within 20 working days of receiving your request however due to the current backlog it may take a little longer.\n\nI appreciate that this is frustrating for you, however as previously advised your case has been escalated to our payments and please be assured we will be back in touch as soon as we have further information for you.\n\nKind regards.\n\nDan Payne\nCustomer Relations Team\nHeathrow Express\"\n\nAs you can imagine I've not heard back from anyone nor received my refund and it is now 25th July. I have sent another email where I've started that this is theft and that they are scammers. Quick to take your money, but they don't want to refund you when they cannot provide a service. I'll await their response.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Therese Johnson",
+          "url": "https://www.trustpilot.com/users/5db6ee772d7a9a1881da351e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 96,
+        "rank_absolute": 96,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/59d3ad5d31302a0338b63abc",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-10-03 15:31:40 +00:00",
+        "title": "I bought a roundtrip ticket to and from \u2026",
+        "review_text": "I bought a roundtrip ticket to and from Heathrow. On my return to the airport, I was told last minute that trains were inoperable causing me to miss my flight. I am still waiting for my compensation.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Lukasz ",
+          "url": "https://www.trustpilot.com/users/593839b90000ff000aa10934",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 97,
+        "rank_absolute": 97,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62153406ba48cd57a29fe015",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-02-22 19:05:42 +00:00",
+        "title": "Absolutely useless",
+        "review_text": "Absolutely useless. I've been trying to buy a simple return but the app keeps making my return date my outbound date. I don't think I've ever tried to use anything so bad.",
+        "review_images": null,
+        "user_profile": {
+          "name": "lucy",
+          "url": "https://www.trustpilot.com/users/547f0e3500006400019abfea",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 19
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 98,
+        "rank_absolute": 98,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a3c1baea5b32906885b770d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-12-21 20:38:05 +00:00",
+        "title": "This company is just rotten",
+        "review_text": "This company is just rotten, rotten to the core. I paid \u00a325 for one way to Paddington. After a long flight I had to make a 20 minute walk to the station (even though they say it is in the terminal, it is not). After getting down the escalator, my train was closing the doors. I ran towards the train, the staff just stood and watched as I was 2 seconds late for the closing door. They just stood and stared and then told me I should be here earlier. Absolutely awful, way over priced and NO service whatsoever. If I pay \u00a325 for one way, I expect them to hold the door for me if I am on the platform. I can't wait for crossrail so these nasty employees can lose their jobs. Ha ha ha. Crossrail will ruin this company inside a week",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mick Sundays",
+          "url": "https://www.trustpilot.com/users/5a3c1ba50000ff000af4c4a7",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 99,
+        "rank_absolute": 99,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62ca02d1e77911f2449f70ef",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-07-10 00:36:01 +00:00",
+        "title": "Heathrow express is a 15 mins train\u2026",
+        "review_text": "Heathrow express is a 15 mins train journey from Heathrow to London Paddington. There\u2019s 4 trains an hour( every 15 minutes ) unless there\u2019s a disruption which can be causes by trespassers, train system failure. single ticket is \u00a325 (one way), Return is valid ticket valid for 30 \u00a337. Now I have been reading this comments most of these people are ridiculous. If You do not want to take Heathrow express you have many other options of transportation. 1.cheapest the tube piccadilly line ( usually crowded, dirty and no air con ) 2.Elizabeth Line take 35 mins from Heathrow to London Paddington \u00a311:60 - \u00a312. 3. local buses which you can get from heathrow central buses station between t2 & t3 above the underground station. Nobody forces any of these ridiculous humans being to get on the Heathrow express. Most people have a smart phone do your bloody research and get what best for you ! \n\nI think majority Heathrow express front line staff are very friendly and helpful. I have seen the crap that they have to put up with from the public and most these unsophisticated  travelers. I have seen these unsophisticated travelers buy their tickets from the ticket machine and then walk off and leave their tickets. Turn around and try to pass blame on the Heathrow express staff. Walking through the sign posted airport and then get frustrated that they can\u2019t find their way because they refuse to pay attention and using their unsophisticated reading skills. \n\nHeathrow express has great staff members and that company provides employment for many people. Including a 15 minutes train services that is unbeatable.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Most people are idiots",
+          "url": "https://www.trustpilot.com/users/62ca0089828bbb0012af26e2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 100,
+        "rank_absolute": 100,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65842cc8386efd7873325abf",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-12-21 14:17:13 +00:00",
+        "title": "Avoid it",
+        "review_text": "Avoid it. It is sold as express but takes almost 1 hr to Paddington as it always have problems to go through.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Pablo Juan",
+          "url": "https://www.trustpilot.com/users/5b58b7b34de5666d346884a6",
+          "image_url": null,
+          "location": "MX",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 101,
+        "rank_absolute": 101,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6280bfce166eb7ecbf474dd0",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-15 10:54:38 +00:00",
+        "title": "The train is fabulous but the staff\u2026not so",
+        "review_text": "The train is fabulous but the staff (not all) are awful. Sunday rushing to  jump on train, nobody would help look at my ticket and l missed the train!!! If somebody had just come to check my ticket I\u2019d have made it! Jobworth award goes to the lazy staff saying not my aisle!!!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "sarah burr",
+          "url": "https://www.trustpilot.com/users/5f1747e4422ec9f35be7c31b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 102,
+        "rank_absolute": 102,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/625186abc7628b203ba790dc",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-09 13:14:19 +00:00",
+        "title": "Dreadful",
+        "review_text": "Useless customer service. Website does not work. Delay repay still not being repaid after a month. Avoid at all costs.",
+        "review_images": null,
+        "user_profile": {
+          "name": "CJH",
+          "url": "https://www.trustpilot.com/users/5f62218a1066453a4842a536",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 103,
+        "rank_absolute": 103,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5cf7796fb055990b8cca2f6b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-06-05 08:12:31 +00:00",
+        "title": "Can't make any adjustments to your\u2026",
+        "review_text": "Can't make any adjustments to your booking if you make a mistake on their arcane website. Customer service rude and hardly speak English.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Deano",
+          "url": "https://www.trustpilot.com/users/5cf7796c400f6f962d29108e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 104,
+        "rank_absolute": 104,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/634702069b12f67dfedf65f4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-12 20:05:58 +00:00",
+        "title": "Fraudulent Heathrow Express app",
+        "review_text": "The Heathrow Express management have created an app that is designed to defraud of your money, either by refusing to allow a single in one direction to be used in the other, or by defaulting to a travel date two days ahead of the current day. \n\nInstead of having flexible staff at the gates who understand what surely must be a frequent problem, the staff on the gates instead refuse to recognise your problem and repeatedly tell you that it\u2019s not their problem. \n\nIn order to get a refund on tickets bought through the app, the customer must wait 20 days for a manual review of the refund application. This is surprisingly pedestrian and inefficient in the year 2022.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Colin",
+          "url": "https://www.trustpilot.com/users/5bc8aabf4de5666d3464c796",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 105,
+        "rank_absolute": 105,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63f010486f3134764b6cc27b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-02-18 01:39:52 +00:00",
+        "title": "I lost my wallet on Heathrow express\u2026",
+        "review_text": "I lost my wallet on Heathrow express and was panicking when I found  out I lost it and the supervisor Ranue searched for me for 30 minutes to give it to me.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jomi Fawehinmi",
+          "url": "https://www.trustpilot.com/users/63f0103f168cf6001228d02a",
+          "image_url": "https://user-images.trustpilot.com/63f0103f168cf6001228d02a/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 106,
+        "rank_absolute": 106,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/612dec919c391649d84deda4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-08-31 08:47:13 +00:00",
+        "title": "Appalling. Take Tube instead.",
+        "review_text": "Appalling.  I booked two tickets on the app this morning, twenty minutes later they could not be downloaded; the ticket retrieval machine said \u201cbooking could not be found\u201d; the operative standing there could not help, To add insult to injury, their online refund/complaint form says \u201cwe aim to respond within 20 working days\u201d (ie almost a month), and they still use Covid as an excuse for poor customer service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Gil kat",
+          "url": "https://www.trustpilot.com/users/59f8681c0000ff000adc4022",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 11
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 107,
+        "rank_absolute": 107,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ea074a3086b6409543d6e85",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-04-22 16:45:23 +00:00",
+        "title": "If I could give less than 1 star I\u2026",
+        "review_text": "If I could give less than 1 star I would. The greedy turds here refuse to issue refunds for travel cancellations due to covid19. You are greedy effing a hole pigs.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Kiss My Ass",
+          "url": "https://www.trustpilot.com/users/5ea074512216ef97ce55250b",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 108,
+        "rank_absolute": 108,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/633a81c54a5fff53cad4c5c5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-03 08:31:33 +00:00",
+        "title": "Doesn\u2019t respect schedules anymore",
+        "review_text": "Doesn\u2019t respect schedules anymore \nTrains are always late \nPrices still high though\nUse Elizabeth line instead",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jules Baroli",
+          "url": "https://www.trustpilot.com/users/633a81bea7575b0012e551f2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 109,
+        "rank_absolute": 109,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6425c52962b213f161011b20",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-30 19:21:45 +00:00",
+        "title": "There once was a train called H\u2019\u2026",
+        "review_text": "There once was a train called H\u2019 Express,\nAlas, caused now\u2019t but distress.\nWith delays and high fares,\nAnd uncomfortable chairs,\n\u2018Tis a ride that commuters detest.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paul Roberts",
+          "url": "https://www.trustpilot.com/users/5e75feefdffcf78d468f0504",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 110,
+        "rank_absolute": 110,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/59ea8886c42bf006d883a4f9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-10-20 23:36:15 +00:00",
+        "title": "I'm leaving a 1 star review for the \u2026",
+        "review_text": "I'm leaving a 1 star review for the \"managers\" involved in the job interviews, assessments and role play on September 16th at Premier Inn Hotel Heathrow who have failed to get back to me with a simple \"yes\" or \"no\" after i spent 4 hours there being interviewed for a job. It's basic manners, after someone has attended a job interview, to at the very least email them to let them know the outcome. Even if the answer is \"no\" rules of consideration, decency, and general etiquette still apply. I can only imagine what it is like working for these \"managers\" if they lack the humanness, manners and communication skills to inform prospective employees the outcome of their job application.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Kensigton Lady",
+          "url": "https://www.trustpilot.com/users/59ea886d0000ff000ad7a817",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 111,
+        "rank_absolute": 111,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e216515c8454503e833b975",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-01-17 07:41:09 +00:00",
+        "title": "15 minutes my bottom.",
+        "review_text": "Delays, delats, delays.\nI get this train about six times per year.\nAlways trundles in. \n\u00a325 for something that is always late.\nI am about to miss q pre booked train from Euston because this 15 minute journey is now up to 35 minutes. Still not arrived.",
+        "review_images": null,
+        "user_profile": {
+          "name": "John H",
+          "url": "https://www.trustpilot.com/users/580682f80000ff000a4ed401",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 20
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 112,
+        "rank_absolute": 112,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5be3000d9d3780092ca3f99c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-07 15:09:01 +00:00",
+        "title": "An absolute rip off",
+        "review_text": "Insanely expensive, often hit by disruption and, my god, that app is an absolute disgrace. Don\u2019t even bother installing it",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mircea",
+          "url": "https://www.trustpilot.com/users/5be3000b5483f4b8a96ecac2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 113,
+        "rank_absolute": 113,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6408f945778b9121bcd44c96",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-08 23:08:21 +00:00",
+        "title": "Rip Off",
+        "review_text": "Tickets are very expensive.  This is a money grab to rip off unsuspecting tourists.  I recommend avoiding and taking the Elizabeth line instead.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Adam Lewis",
+          "url": "https://www.trustpilot.com/users/6408f93d9f110c0016f6981a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 114,
+        "rank_absolute": 114,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64cc2f3f1701231ee57dc5f4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-08-04 00:50:39 +00:00",
+        "title": "Bought tickets at the airport",
+        "review_text": "Bought tickets at the airport. I ask the lady what the price is for one ticket. She said $37 each. I thought that was a bit expensive  but we (my daughter and i) were very tired. So i said yes.\nSo so dumb, she charged me for 4X  37.48. Little did i know \ud83d\ude25 in 10 minutes we were in Paddington. \n\nThank you for my first experience in London! We felt so welcome! \nYou guy's should be so ashamed to scam the people. We hope that karma comes around and hits you in the face, with a chair!\ud83d\udcba\nHorrible people \ud83e\udd22\ud83e\udd11",
+        "review_images": null,
+        "user_profile": {
+          "name": "klant",
+          "url": "https://www.trustpilot.com/users/5bb9150c4de5666d34df12c0",
+          "image_url": "https://user-images.trustpilot.com/5bb9150c4de5666d34df12c0/73x73.png",
+          "location": "NL",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 115,
+        "rank_absolute": 115,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62cefdfc4c35e69ec50e321a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-07-13 19:16:44 +00:00",
+        "title": "Very poor technology train stopped in\u2026",
+        "review_text": "Very poor technology train stopped in The middle of the way and people missed the flight, typical transparent British robbery!!!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tolga Kalavak",
+          "url": "https://www.trustpilot.com/users/6037c827e3e1a6001ff04d1b",
+          "image_url": null,
+          "location": "SG",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 116,
+        "rank_absolute": 116,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5be349f49d37800568852322",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-07 20:24:20 +00:00",
+        "title": "May as well take the tube",
+        "review_text": "May as well take the tube, it is the same speed (sometimes quicker) costs a lot less and doesn\u2019t smell like a toilet.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Marcus A",
+          "url": "https://www.trustpilot.com/users/5b1403004de5666d34dd1c7d",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 18
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 117,
+        "rank_absolute": 117,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/624e1f14c7628b203ba4f44f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-06 23:15:32 +00:00",
+        "title": "Trains in takes way longer than 15\u2026",
+        "review_text": "Trains in takes way longer than 15 mins, don\u2019t bother, pay half the price for the same overall journey time!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Alex LH",
+          "url": "https://www.trustpilot.com/users/61431997af3bae001249716a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 118,
+        "rank_absolute": 118,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5bd33bc19d37800ae464b44c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-10-26 16:07:29 +00:00",
+        "title": "Noisy train",
+        "review_text": "Noisy train. Wgy does there have to be loud tv and commercials playing, when I just paid 25 pounds for my ticket?\nFriendly staff sold me a ticket on the platform.  \nStaff checking the ticket on the train not very friendly.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Esben",
+          "url": "https://www.trustpilot.com/users/4ecb9d2700006400010ee02f",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 29
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 119,
+        "rank_absolute": 119,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/654d08b2e927e50f2421eb21",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-09 18:28:34 +00:00",
+        "title": "rude and not express",
+        "review_text": "I\u2019d avoid this service it\u2019s not express at all and the staff should be automated - completely no point keeping them employed as their attitude stinks, the are rude, their information is factually incorrect and when this is pointed out they just lie some more.",
+        "review_images": null,
+        "user_profile": {
+          "name": "JWF",
+          "url": "https://www.trustpilot.com/users/50dedf6200006400012bd66b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 39
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 120,
+        "rank_absolute": 120,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6558cbcf14eef897579ac524",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-18 16:35:59 +00:00",
+        "title": "Failure to provide a seat for a 66 year old Gentleman",
+        "review_text": "Due to a Driver having not turned up for an Elizabeth Line Train to Heathrow Terminal 5, I was forced to take a Elizabeth Line Train to Terminal 4 or I would have had to wait 15 minutes at Paddington.\n Once I boarded the Train and set off, I checked on the connection time at Terminal 2 and 3 and as luck would have it, I had a matter of less than 5 minutes to wait. Once I boarded the Heathrow Express to get from Terminals 2 and 3 for the 5 minute journey to Terminal 5, I was met with the most grumpiest, rudest Member of the Heathrow Express Team that you could ever imagine. She would rather have People (including me), stand in the Carriage further down the Train, than have them seated comfortably seated for the 5 minute journey. The Business Class Carriage was totally EMPTY and we were jammed like the Sardines in the next Carriage down. I have written to Customer Services and they are trying to fobb me off with all kinds of GDPR, nonsense emails and am so fed up with Heathrow Express Customer Services that I have decided to air my views on here. My advice for what it is worth for, is use the Elizabeth line as often it misses out on numerous Stations and does Paddington to Heathrow Terminal 5 in 26 minutes and costs far less than Heathrow Express which runs with old Rolling Stock, painted up to look good and they charge a fortune. Now that Customer Services have fobbed me off, I hope that the Management Team will read this because a 66 year old Man should not be forced to stand due to lack of seating available, irrespective 5 minute journey or not. This Member of Staff needs to be given a written warning for gross misconduct and not allowing a person in his senior years to sit comfortably. I shall also escalate this to the Railway Ombudsman for their take on this . \nHEATHROW EXPRESS HOLD YOUR HEADS IN SHAME",
+        "review_images": null,
+        "user_profile": {
+          "name": "Thomas Lawson",
+          "url": "https://www.trustpilot.com/users/5d165316a9030c656c2a62b0",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 121,
+        "rank_absolute": 121,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63c1ac964d0773066a3751d5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-01-13 21:10:14 +00:00",
+        "title": "Terminal 4 trains running every 30 mins\u2026",
+        "review_text": "Terminal 4 trains running every 30 mins is a joke. I stood and watched 3 trains pass me to terminal 5. I wonder why.\nHappy to take \u00a325 from me fir a very poor service",
+        "review_images": null,
+        "user_profile": {
+          "name": "ian crook",
+          "url": "https://www.trustpilot.com/users/5e4ff7881a9169b318a02a95",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 122,
+        "rank_absolute": 122,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63947a3e0b7fc02715da941f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-12-10 14:23:26 +00:00",
+        "title": "Rip off",
+        "review_text": "Rip off.  \u00a325 for 15 mins journey ,  then it took over 20 mins anyway \u201c congestion on the line \u201c , the slower train takes 25 mins and is half the price , so I paid \u00a313 to arrive about 2 mins faster \nHow they get away with this ? Complete rip off",
+        "review_images": null,
+        "user_profile": {
+          "name": "CaptAlex",
+          "url": "https://www.trustpilot.com/users/58e649470000ff000a8a4db8",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 108
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 123,
+        "rank_absolute": 123,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5bfd19109d37800a687c60aa",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-27 10:14:40 +00:00",
+        "title": "Another miserable experience on EX",
+        "review_text": "Landed at LHR and needed to get to Paddington as quickly as possible. On my way to the Heathrow Express I looked for the tickets vending machines but they were all out of order. From the ones straight after passport control to the ones in the main arrival area. Being in a rush to get to office and seeing the next train was leaving in 2 mins I asked one the staff at the barriers (newly set up) if she could let me get through. She pointed at the only single ticket machine in front of which another people 5 people were queuing. I asked again to be pleased let through and that I would have bought the ticket onboard (At the higher rate) bu she said it was not possible. Very annoyed about her extremely arrogant behaviour I said: I am going to be upset if I miss the train! Slamming the barriers open and shouting, one of the other staff came rushing towards me and said i had to leave the station otherwise he would have called the police. Apparently in expressing my feeling about missing the train I threatened the his colleague.. maybe he was trying to scare me off given that I am very young but I just ignored him. \nThis is the first time I actually write a review but it\u2019s just because I had 15mins to spare having missed the trained I wanted and needed to take. I think th EX service is going down the tubes, also considering that it really takes 20mins from LHR to\u2019 Paddington once a month, normally it\u2019s always slowed down by some technical problems which never seem to be in their control? I would not reccoment this service to anyone but unfortunately, until the Elizabeth line opens it\u2019s the most convenient one and the owners know it - that\u2019s why they can afford to treat people so badly.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Chris Dark",
+          "url": "https://www.trustpilot.com/users/5bfd19065483f4b8a9298276",
+          "image_url": "https://user-images.trustpilot.com/5bfd19065483f4b8a9298276/73x73.png",
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 124,
+        "rank_absolute": 124,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62aef9e5266eedb3c15d8e29",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-19 12:26:45 +00:00",
+        "title": "Becoming very unreliable",
+        "review_text": "Becoming very unreliable, having my third instance where either they are delayed, have a breakdown mid journey or the train is not functional.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Lilo Nkenkana",
+          "url": "https://www.trustpilot.com/users/61e2b7b6165e050012702fb1",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 125,
+        "rank_absolute": 125,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a15bf2104017d03f4c296a2",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-11-22 18:17:05 +00:00",
+        "title": "Couldn't sync T4 train",
+        "review_text": "Couldn't sync T4 train. It took me almost one hour to get from Terminal 4 to Paddington.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Nikolay Vinyukov",
+          "url": "https://www.trustpilot.com/users/5702e79e0000ff000a146f99",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 126,
+        "rank_absolute": 126,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a05e044fc7e9b0048abc09a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-11-10 17:22:12 +00:00",
+        "title": "Nothing like an express service from \u2026",
+        "review_text": "Nothing like an express service from Terminal 4. \u00a325 and nearly an hour to get to Paddington. Utterly lamentable and a demonstration of another monopoly provider giving shoddy service",
+        "review_images": null,
+        "user_profile": {
+          "name": "Richard Laughton",
+          "url": "https://www.trustpilot.com/users/5a05e03a0000ff000ae0ed06",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 127,
+        "rank_absolute": 127,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d5d0d8ef018690bd051987b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-08-21 09:23:26 +00:00",
+        "title": "Excellent train service that connects\u2026",
+        "review_text": "Excellent train service that connects you to London Paddington and back in no time. Perfect",
+        "review_images": null,
+        "user_profile": {
+          "name": "Diego Donati",
+          "url": "https://www.trustpilot.com/users/5d4ccd7e088bad5936899904",
+          "image_url": "https://user-images.trustpilot.com/5d4ccd7e088bad5936899904/73x73.png",
+          "location": "IT",
+          "reviews_count": 11
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 128,
+        "rank_absolute": 128,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5abdfbdf6d33bc073c53bcd3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-03-30 08:57:03 +00:00",
+        "title": "Take your thirty seven pounds of flesh\u2026",
+        "review_text": "Take your thirty seven pounds of flesh and shove them up your ignoble posterior. Parasites.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jacob Williams",
+          "url": "https://www.trustpilot.com/users/5a536d4a0000ff000afc592d",
+          "image_url": "https://user-images.trustpilot.com/5a536d4a0000ff000afc592d/73x73.png",
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 129,
+        "rank_absolute": 129,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ac0f3146d33bc02c8c9c4f8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-04-01 14:54:37 +00:00",
+        "title": "Disgusting service",
+        "review_text": "Disrespectful to younger customers shouting in people\u2019s face don\u2019t use Heathrow express their prices are  very expensive!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ebony",
+          "url": "https://www.trustpilot.com/users/5ac0f2a94de5666d34b81b67",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 130,
+        "rank_absolute": 130,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a9a6d30d27b0a0ae8ae54a6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-03-03 09:38:56 +00:00",
+        "title": "Bad Service and expensive",
+        "review_text": "Bad Service and expensive. They just cancelled two trains in a row . Super unreliable",
+        "review_images": null,
+        "user_profile": {
+          "name": "Stefano Reccia",
+          "url": "https://www.trustpilot.com/users/5a9a6d1e4de5666d34e7a713",
+          "image_url": "https://user-images.trustpilot.com/5a9a6d1e4de5666d34e7a713/73x73.png",
+          "location": "DE",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 131,
+        "rank_absolute": 131,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/651da7c44fc192018e7c8098",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-10-04 19:58:28 +00:00",
+        "title": "Dreadful App user experience - designed by team that doesn't use its own product?!",
+        "review_text": "I made a terrible mistake buying a carnet of 12 tickets for Heathrow Express via their app.  Absolutely horrible app to use.  This is what you'll get:\n1. The app logs you out after I don't know how long, so best to be prepared to log in or download your tickets to your wallet before you need to use your tickets.\n2. When you purchase 12 tickets and look at 'Tickets' in the app, you'll see 12 beautiful purple images.  Unfortunately, none of them show you the ticket's reference number.  Noooo... you'll have to click on each ticket to read the QR code or download the ticket to your wallet.\n3. Then when you are finished reading that first ticket, you'll need to go back to 12 beautiful tickets, where the page makes you scroll right from ticket one and count to the ticket you want.\n4. By the time you get to ticket 3 to download it, you'll be starting to get square eyes. \n5. Thereafter, keeping scrolling (from ticket one), counting, downloading for every single ticket till you reach 12 (if you've not got to Heathrow by that time). \n And if you forget what the last number was, oops... you might then backtrack, go back to the last ticket you think you picked and downloaded, and hope that you're right. Otherwise, start the process all over again.\n6.  And if you use a ticket from your wallet... you'd better remember which reference it was.  Because all good and used tickets will continue to stay in your wallet. There is no marking to tell you which of your wallet tickets have been used.\n7.  But there is hope - you can go back to your row of 12 tickets, click on every individual ticket, to find out if the ticket was used (it will be greyed out).  You just won't be able to find out when you'd used it.  So if you think you've used one ticket to swipe in and another to swipe out (because the same ticket somehow doesn't work work when you are trying to swipe out)... the only way you may find out is if you can log in from a laptop/PC (not your phone) - coz there's no information captured in your app or wallet tickets.\n7. And if you're like me, unable to download all 12 at one sitting, and no time to make a note of which reference numbers you've used... you'll have a fun time trying to figure out which one you've used, which one you've not downloaded... \n8. Good luck trying to ask the staff at the barriers.  If the ticket you think you used to swipe in doesn't work, they don't want to know.  You'll need to use another ticket to swipe out to get out of the barriers...\n\nIn short, if you want to waste your time scrolling, checking, downloading, using one ticket to tap in and another one to tap out by mistake, getting confused, frustrated, annoyed, then use this app.\n\nTo add to the stupidity of it all, there isn't a single portal/app for users to access all the relevant data about their tickets.\n1. App's purple tickets tell you don't tell you reference number or if it's used,  you'll need to click in to the next page where you get your QR codes.\n2. Wallet tickets tell you QR reference number, but not if it's used (only if it's past the ticket expiry date)\n3. Website tells you date that the ticket was used or 'assumed used' but not QR reference number.\n\nAbsolutely bonkers.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dee",
+          "url": "https://www.trustpilot.com/users/651da7b99102650013d17da6",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 132,
+        "rank_absolute": 132,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6486083257a5deb7b049ba54",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-06-11 19:45:22 +00:00",
+        "title": "\u00a325 to wait 23 min for a train",
+        "review_text": "\u00a325 to wait 23 min for a train. Absolutely scandalous",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jessie James",
+          "url": "https://www.trustpilot.com/users/5fa6d1ad339802001ac397aa",
+          "image_url": "https://user-images.trustpilot.com/5fa6d1ad339802001ac397aa/73x73.png",
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 133,
+        "rank_absolute": 133,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/59ef2f2e31302a0ef48ed174",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-10-24 12:16:46 +00:00",
+        "title": "Cross rail will bring prices down",
+        "review_text": "Cross rail will bring prices down, but the service is amazing. clean + on time. what more do you want? (cheaper prices!) :)",
+        "review_images": null,
+        "user_profile": {
+          "name": "shogun",
+          "url": "https://www.trustpilot.com/users/59ef2dba0000ff000ad8e77b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 134,
+        "rank_absolute": 134,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dd31ad3c845450a34eb776a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-18 22:27:31 +00:00",
+        "title": "far to expensive to justify the ticket cost",
+        "review_text": "far to expensive to justify the ticket price and the 10 min max journey time the tube and national express is by far cheaper but may take longer but still cheaper used this once but never again no justification in the price should review these ticket prices and make them more cheaper then maybe the trains may get more custom beings the train i was on only had a max of 10 people",
+        "review_images": null,
+        "user_profile": {
+          "name": "Joshua Chandler",
+          "url": "https://www.trustpilot.com/users/57cc721e0000ff000a40fbff",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 120
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 135,
+        "rank_absolute": 135,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60cc9629f9f487067079cb9f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-06-18 12:48:41 +00:00",
+        "title": "Great experience",
+        "review_text": "Great experience, Debbie did my test and did a great job",
+        "review_images": null,
+        "user_profile": {
+          "name": "Andrea Mitchell",
+          "url": "https://www.trustpilot.com/users/60cc95ba1ca935001b940892",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 136,
+        "rank_absolute": 136,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5af730356d33bc0a8cb1c2aa",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-05-12 18:12:47 +00:00",
+        "title": "No toilets working..",
+        "review_text": "No toilets working... i\u2019m not even sure it\u2019s legal.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Marie Leroux ",
+          "url": "https://www.trustpilot.com/users/5af72e9e4de5666d34c1d57d",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 137,
+        "rank_absolute": 137,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5de91951c845450894e81cdb",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-12-05 14:50:57 +00:00",
+        "title": "Total rip off and mired by delays",
+        "review_text": "Total rip off and mired by delays.  Sellers are misleading and do not give right info",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ilan Haim",
+          "url": "https://www.trustpilot.com/users/58fa19c20000ff000a8faba9",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 33
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 138,
+        "rank_absolute": 138,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e6e50413c93ae09180850cc",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-03-15 15:56:49 +00:00",
+        "title": "Usually late",
+        "review_text": "Expensive, usually late in my experiences, false arrival times, far from 15min from the airport terminal, false advertisement",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tiago",
+          "url": "https://www.trustpilot.com/users/55d745400000ff0001d5da5f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 139,
+        "rank_absolute": 139,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/639486290b7fc02715daa027",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-12-10 15:14:17 +00:00",
+        "title": "Rude staff",
+        "review_text": "Rude staff. Rubbish app. Expensive.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Humphrey Bowles",
+          "url": "https://www.trustpilot.com/users/59d764f20000ff000ad1b3bf",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 140,
+        "rank_absolute": 140,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5db135e260485805f0e50688",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-24 05:25:54 +00:00",
+        "title": "it is good for one person to get to\u2026",
+        "review_text": "it is good for one person to get to heathrow",
+        "review_images": null,
+        "user_profile": {
+          "name": "Oonagh Sheridan",
+          "url": "https://www.trustpilot.com/users/5db134cd0f2b51abe393bf03",
+          "image_url": null,
+          "location": "IT",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 141,
+        "rank_absolute": 141,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a4643f3a5b3290f746256d9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-12-29 13:32:35 +00:00",
+        "title": "Price is high but to London in 15 mins \u2026",
+        "review_text": "Price is high but to London in 15 mins with free WiFi. Not bad",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sandeep ",
+          "url": "https://www.trustpilot.com/users/5a4641b10000ff000af7dde3",
+          "image_url": null,
+          "location": "NZ",
+          "reviews_count": 6
+        },
+        "responses": null
+      }
+    ]
+  }
+]
