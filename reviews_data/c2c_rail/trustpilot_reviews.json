@@ -1,0 +1,3153 @@
+[
+  {
+    "domain": "www.c2c-online.co.uk",
+    "type": "trustpilot_reviews",
+    "se_domain": "trustpilot.com",
+    "check_url": "https://www.trustpilot.com/review/www.c2c-online.co.uk?languages=all",
+    "datetime": "2024-05-10 21:41:22 +00:00",
+    "title": "c2c Rail",
+    "location": "7th Floor, Centennium House, 100 Lower Thames Street London EC3R 6DL GB",
+    "reviews_count": 125,
+    "rating": {
+      "rating_type": "Max5",
+      "value": 1.4,
+      "votes_count": null,
+      "rating_max": 5
+    },
+    "items_count": 116,
+    "items": [
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/663b298e8c54a0071e3ec815",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-05-08 09:28:15 +00:00",
+        "title": "C2C - only the best",
+        "review_text": "On the rare occasion that these lazy, greedy people aren't striking for more money, they're providing you with top-notch services such as, Constantly late or cancelled trains, barely functioning trains, carriages that smell like vomit, broken toilets, AC that's set to \"hot sauna\" if its working at all, broken ticket machines and staff with the intelligence of a dead goldfish. You can always count on C2C to ruin your day!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Gavin Johnstone",
+          "url": "https://www.trustpilot.com/users/663b29759741c2b552b372ef",
+          "image_url": "https://user-images.trustpilot.com/663b29759741c2b552b372ef/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/661ebcb9c0e2257b66643f4b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-04-16 20:00:26 +00:00",
+        "title": "absolute chaos, no communication at all",
+        "review_text": "absolute chaos.\n\nno notice nor announcement visible anywhere in the station that trains are skipping Upminster. Stood in cold wind for half an hour, only to find out buried deep down on c2c website \"If you are traveling to Upminster please use the District line.\". Without obviously saying the line is skipping Upminster.\n\nI get that incident happens and they are taking measures to fix. It is the appalling communication (or should I say, completely lacking of communication) that is most annoying. What harm would that be to put a sign notifying people they skip a stop?\n\nJust a piece of paper isn't it? Considering the incident was reported yesterday and it has been more than 24 hours and nothing has been communicated. This explains operation of this company is an utter shxt show.",
+        "review_images": null,
+        "user_profile": {
+          "name": "TK L",
+          "url": "https://www.trustpilot.com/users/62964f3775d4cc001257a8a2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/66225faeb77095acb67e0470",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-04-19 14:12:31 +00:00",
+        "title": "Ghost station",
+        "review_text": "Ghost station\n\nAt pitsea, no staff in the ticket office, in the new cubby hole or visible on any of the platforms.\n\n",
+        "review_images": null,
+        "user_profile": {
+          "name": "Carole Turkson",
+          "url": "https://www.trustpilot.com/users/5df0cf6d520b421b72ff4a7f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6611aeb1653086193016dd5a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-04-06 22:21:06 +00:00",
+        "title": "Every  weekend disruptions ",
+        "review_text": "The train never runs during the weekend making life impossible for people who need to move around and enjoy the weekend Shame on you ",
+        "review_images": null,
+        "user_profile": {
+          "name": "Lorena Lollobrigida",
+          "url": "https://www.trustpilot.com/users/59cf6de90000ff000acf5f08",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65ca57475053c16d6b8a2ede",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-12 19:37:12 +00:00",
+        "title": "Absolutely disgusting service",
+        "review_text": "Absolutely disgusting service. Staff are very intimidating, degrading and have threatening behaviour towards women. How a genuine mistake was escalated staff looked very smug and would not even listen to our reason. Left very upset and has ruined a special event this evening. Considering we have never ever tried to get out of not paying for a ticket. We tapped our bank card considering we\u2019re not from this area",
+        "review_images": null,
+        "user_profile": {
+          "name": "Amy ",
+          "url": "https://www.trustpilot.com/users/5a2baa430000ff000aee8dff",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65d1e0af0793d90b39797974",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-18 12:49:20 +00:00",
+        "title": "On the 18th of February",
+        "review_text": "On the 18th of February, there was a bus replacement from Laindon to Pitsea.\n\nIn Laindon, I was waiting for a bus.\n\nStoyan, an employee at Laindon Station, realized that I was waiting on the wrong side of the platform and explained where I could catch a bus replacement to Pitsea. \n\nIt was an amazing customer service experience! If I had taken the wrong bus, it would have taken me several hours to return, especially on a Sunday.\n\nThank you so much, Stoyan! There is no doubt in my mind that you are a Super Duper Mega Star!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tetyana",
+          "url": "https://www.trustpilot.com/users/65ac44c7fcd2f40012daf35a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65dcafdee571363aa3518822",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-26 17:35:58 +00:00",
+        "title": "DISGRACE OF A COMPANY",
+        "review_text": "DISGRACE OF A COMPANY. PAYING CLOSE TO 3K A YEAR THE TRAINS ARE NEVER ON TIME, THERE ARE CONSTAAT DELAYS OR STRIKES, THE WORST PART IS THE COMPENSTATION OWED,THIS SEEMS TO TAKE A AGE AND THERE ARE CONSTANT PUSH BACK WITH WHAT IS OWED TO THE CUSTOMER EVEN THOUGH IT IS C2C FAULT. SHOCKING ",
+        "review_images": null,
+        "user_profile": {
+          "name": "Richard Turner ",
+          "url": "https://www.trustpilot.com/users/5c58335cd6050657f5c70505",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/661929e2ae4f6095971c38d2",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-04-12 14:32:35 +00:00",
+        "title": "c2c should be ashamed of their customer services.",
+        "review_text": "I was travelling on 6/4/2024 but there was engineering works and a bus replacement service was operating. I was OK with that but I had a question that the answer to was not displayed on their website. I emailed the customer service team 2 weeks before I was travelling with my question to give them enough time to reply.\nI didn't receive a reply to the email until 11/4/2024, 5 days after the travel date! What use is that?\nTo add insult their reply email didn't even answer question. All it said was \n\n\"Dear Mrs. Barrat,\n\nThank you for contacting c2c.\n\nI am sorry that you did not receive a reply in time for your journey on 06/04/2024, we aim to respond to all correspondence within 10 to 20 working days of receipt. Can you kindly confirm if you still require assistance with your journey?\n\nIn future, we kindly recommend checking train times/rail replacement times and planning your journey using the National Rail planning tool that I have kindly linked for you below. \n\nhttps://***.nationalrail.**.**\n\nThank you once more for contacting c2c.\n\nKind Regards,\nElena Johnson\n\nCustomer Relations Team\nc2c Rail\"\n\n5 days after my travel date asking if I \"still require assistance with your journey\", what a joke, they haven't given me any assistance in the first place!\nThen they say check the website, again not even giving the slightest answer to my question.\n\nc2c should be ashamed of their customer service. This is the second time I emailed them with a question about travel and the second time they replied late and after the day of travel.\n\nAnd by the way. The reply email was addressed to Miss Barrat. I have no idea who Miss Barrat is.\n\nc2c should stand for Crap To Customers.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Londan",
+          "url": "https://www.trustpilot.com/users/61fba87ea082de00125d5218",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65159b83d7b9293a1bb82931",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-28 17:28:03 +00:00",
+        "title": "Avoid c2c and take another route.",
+        "review_text": "Absolute joke of a train line. Trains lately are constantly delayed or cancelled. Station staff don't seem to care or relay information regarding delays. The trains are disgustingly dirty, lowly/seldom maintained. Customer service over the phone are just so rude and obnoxious when you contact with an issue and there's never a response at all to email!\nGiven the cost these rip-off merchants charge their customers to travel is beyond disgraceful! What does it matter though. This is just another long list of complaints which they won't give a damn about! Take the money, forget the customers.",
+        "review_images": null,
+        "user_profile": {
+          "name": "NA",
+          "url": "https://www.trustpilot.com/users/6241a756ad6a4200123627d2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6575e48ad68f9a6864226d40",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-12-10 18:17:15 +00:00",
+        "title": "Lost Item",
+        "review_text": "The trains are reliable but if you drop your things at the C2C, 100% will not be return to you anymore. Staff are quick to say that there's nothing was handover to them, they dont even check in their lost and found place before saying nothing. We better drop our items at the heathrow airport, guarantee 100% will be return.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Leny Koh",
+          "url": "https://www.trustpilot.com/users/6575e478d63cdd0011107982",
+          "image_url": "https://user-images.trustpilot.com/6575e478d63cdd0011107982/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6519d6f080539fcc4be1d9b1",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-10-01 22:30:40 +00:00",
+        "title": "Awful ticketing service",
+        "review_text": "Awful ticketing service. Their ticketing system refused to display journeys for the evening of 1st October from Basildon to London even though these were running. The first tickets for sale were from 4am on 2nd October. So had to purchase this (at the suggestion of the station staff at Basildon) which cost considerably more than it should as it was shown as a weekday ticket. Just to be able to get on the train. Your company is a joke!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paul R",
+          "url": "https://www.trustpilot.com/users/6519d6e9b63de60012471491",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/607707dbf85d7508705c589b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-04-14 15:18:51 +00:00",
+        "title": "2 stars because better than nothing.",
+        "review_text": "2 stars because better than nothing.\n1.Ticket for 10 stops is like 9\u00a3\nBut ticket for one stop is 8.10 havong a laugh???\n2.Always delays\n3.Runs every 30 min plus cancellations\n4.Machines don't work\n5.Never good timing jumping from other trains.\n6.No staff when needed\n7.changing time without announced.\n8.leaves earlier like 1min so you cant make from other platform\nI added this on other review because getting worse not better",
+        "review_images": null,
+        "user_profile": {
+          "name": "Aidas Stravinskas",
+          "url": "https://www.trustpilot.com/users/5a76db190000ff000b0d162f",
+          "image_url": "https://user-images.trustpilot.com/5a76db190000ff000b0d162f/73x73.png",
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6521a0eca7d52f256fcf2069",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-10-07 20:18:20 +00:00",
+        "title": "Dubious Service & Terrible Website",
+        "review_text": "C2C's service is somewhat dubious for lot's of reasons. But I thought it was me being stupid trying to use their website, especially to pay for parking. So three other adults in my family circle have tried, and it has to be near on the most user unfriendly and complicated website I have had the misfortune to come across. Stay clear, it will send you mad !",
+        "review_images": null,
+        "user_profile": {
+          "name": "KEITH BOND",
+          "url": "https://www.trustpilot.com/users/5339a31900006400016bb747",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 105
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/656ee89b5bc851dc5b332478",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-12-05 11:08:43 +00:00",
+        "title": "Horrible!",
+        "review_text": "If i could i would not give even one star! this is horrible service! people living in rainham\nessex have terrible service! i feel i live somewhere in a abandoned village ! no trains on weekends! or even some other days. even during week days ! horrible! some people do not drive and are depending on public transport its 21st century! shame on you!",
+        "review_images": null,
+        "user_profile": {
+          "name": "MARIAMI SVANIDZE",
+          "url": "https://www.trustpilot.com/users/61c473e44d8f4100120f406f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61aa47a32b49257fe293ef47",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-12-03 16:36:51 +00:00",
+        "title": "Welcome to the rail operator where\u2026",
+        "review_text": "Welcome to the rail operator where buying a ticket is unimportant, most ticket offices are unmanned, and there are no revenue inspectors on the trains. Barriers are often left wide open at each station, the only places where any attempt is made to enforce fares is at Southend Central, Grays, and Basildon.\nWant to push through the barriers? Go ahead, no attempt will be made to stop you.\nNo mask enforcement either. \nThis is becoming a really poorly 'run' railway.\nOh, and customer service? I believe you get through to a call centre either in Bombay [India] or in Scotland! Sums it up really. Hopeless",
+        "review_images": null,
+        "user_profile": {
+          "name": "Daniel",
+          "url": "https://www.trustpilot.com/users/61aa01baecaa2500121748cb",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 16,
+        "rank_absolute": 16,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64f8283b3ce7bb467d59c627",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-06 09:20:27 +00:00",
+        "title": "Delays on the service today and they\u2026",
+        "review_text": "Delays on the service today and they cannot be bothered to send out any notifications on Twitter like they used to.  Mobile app is useless and company doesn't care about their passengers.  Useless company when trains are delayed.  Rip of merchants.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paul Thompson",
+          "url": "https://www.trustpilot.com/users/5a7f68faf675864e56007609",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 119
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 17,
+        "rank_absolute": 17,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64081aa7405669926cd404b9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-08 07:18:31 +00:00",
+        "title": "Absolute joke of a company",
+        "review_text": "Absolute joke of a company! Very bad services! Always canceling trains without notice and you have to wait another 30 min for the next, especially in the morning. They are striking for better pay and better conditions, but the truth is their license should be revoked and gave to another company. Not to mention the fares, to the sky!\nPeople have to go to work, not needing this transport just for fun! \nTransport (TFL) is a joke in UK, comparing to other countries in Europe.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Claudiu Bulearca",
+          "url": "https://www.trustpilot.com/users/5d1a162797935f3758d79437",
+          "image_url": "https://user-images.trustpilot.com/5d1a162797935f3758d79437/73x73.png",
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 18,
+        "rank_absolute": 18,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60a26a49f9f4870a94a4b08e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-17 13:06:17 +00:00",
+        "title": "No Lift or Escalators at Fenchurch Street",
+        "review_text": "1st day after Covid lockdown, trains are late, so all pilling on one over crowded train, no escalators or lift at Fenchurch Street, despite having a year to sort things out.So if your disabled, forget travelling to Fenchurch, unless you can bunny hop down flights of stairs. No staff to help. If you can find them VERY RUDE! - C2C should be ashamed of themselves",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sally Nafzger",
+          "url": "https://www.trustpilot.com/users/53bc048e00006400017dc7e9",
+          "image_url": "https://user-images.trustpilot.com/53bc048e00006400017dc7e9/73x73.png",
+          "location": "GB",
+          "reviews_count": 15
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 19,
+        "rank_absolute": 19,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6435826af4dd40928af8a301",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-04-11 17:53:14 +00:00",
+        "title": "Always trusted c2c , excellent :)",
+        "review_text": "If you speak to Lorraine from Customer service , be thankful. She is an asset to your company , had a lovely chat and gave me good advice :)\nAlways trusted c2c with my money , book all my tickets with them even though some aren\u2019t even within the Essex zone ! \nStaff are always helpful and friendly:\nThanks Lorraine , people like you make the company shine \ud83d\ude42",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jay Grimes",
+          "url": "https://www.trustpilot.com/users/5ef4f917fb792685d81b00e1",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 20,
+        "rank_absolute": 20,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61bb446a0430e828ebd4e99c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-12-16 13:51:38 +00:00",
+        "title": "Worst app and Customer Service\u2026",
+        "review_text": "Worst app and Customer Service EVER!!!!!!!\nTook money, no confirmation so couldn\u2019t pick up tickets.\nCustomer Service soooo rude, slow and antiquated.  So many times I have lost money and smart card never worked even after repeated calls/emails.\nC2c should be stripped of their tender.  Government please act as there are so many other  people also angry.",
+        "review_images": null,
+        "user_profile": {
+          "name": "KJK27 ",
+          "url": "https://www.trustpilot.com/users/5d9d95f790954869473a1e03",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 106
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 21,
+        "rank_absolute": 21,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61ab5b912b49257fe294ca30",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-12-04 12:14:09 +00:00",
+        "title": "Why\u2026",
+        "review_text": "Why in the middle of another pandemic are you making your customers wait on packed trains for over 5 mins just to make up a shcedule? Surely you must have learnt from the 1st 2nd and 3rd lock down this isn't a good practice? Because you don't care about the health and wellbeing of your customers, but making sure you leave on time is more beneficial? Your lost for common sense!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mike brown",
+          "url": "https://www.trustpilot.com/users/61ab5b86aa83ea00124a9764",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 22,
+        "rank_absolute": 22,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/650942cfda8a253fb2ddcffa",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-19 08:42:23 +00:00",
+        "title": "Poor service every day",
+        "review_text": "Poor service - no will to make anyone\u2019s experience better or improve. Doesn\u2019t listen, doesn\u2019t deliver.\nNo staff, one machine that never works, busy station, happy to take \u00a3\u00a3\u00a3.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Hi!",
+          "url": "https://www.trustpilot.com/users/5ea1c3c784263148091c66dd",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 23,
+        "rank_absolute": 23,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6353993f276a7fd30bd7462c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-22 09:18:23 +00:00",
+        "title": "Every weekend there needs to be a\u2026",
+        "review_text": "Every weekend there needs to be a problem with the trains. A refund is not enough when wasting your time in the station is taken in consideration. Their trains are always delayed or cancelled or they never run properly to their destination and you need to get off at a station then take the bus to your final destination.This is absolutely disgusting. For paying the price that the ticket is, you would at least expect proper service. Not in this case.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mtnn",
+          "url": "https://www.trustpilot.com/users/6353993879f62a0014e31618",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 24,
+        "rank_absolute": 24,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6548a57a5a4042312b91d9b2",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-06 10:36:10 +00:00",
+        "title": "Could be a lot better",
+        "review_text": "Frequent delays with this service. The C2C app crashes all the time and the Smartcard has been unreliable countless times. I loaded a monthly ticket on it recently, which never worked. It took them 3 months to refund me after many chaser emails and phone calls.\n\nI think it's good they've got new trains because the old ones are a bit grim, but who designed them? As a person who rarely gets a seat, the new trains are really uncomfortable for people who stand. Less hand rails and things to lean on, meaning you're sometimes hovering and trying not to fall over. I'm not sure carpeted flooring throughout is a good idea either. The old design was better.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Marisa",
+          "url": "https://www.trustpilot.com/users/6509e6abbaf0d30011e2de85",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 25,
+        "rank_absolute": 25,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61e98482a16c1e751f6f580d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-01-20 15:49:22 +00:00",
+        "title": "Went to buy a ticket mans inside\u2026",
+        "review_text": "Went to buy a ticket mans inside chilling doing nothing but told me to use that ticket machine \ud83d\ude02. This company is a joke, robbing customers with high fares.\n\nI hope government does something and make railway a non profit organizations. These train companies are a rip off.",
+        "review_images": null,
+        "user_profile": {
+          "name": "ash",
+          "url": "https://www.trustpilot.com/users/590b62260000ff000a947ea4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 26,
+        "rank_absolute": 26,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ddcbb71c845450a0892c79a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-26 05:43:13 +00:00",
+        "title": "The price of progress for commuters",
+        "review_text": "The new machines at Benfleet are terrible. I appreciate that C2C want people to buy online and use smart cards but nonetheless why replace the old machines with those that are not fit for purpose? Where is the quick option for the most frequent journeys? Network invariably down...machine takes you in a loop so you give up and join the queue with 50 others....and you need to be 4ft tall to read card machine. Cancellations and points failures now a weekly feature.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Alan ",
+          "url": "https://www.trustpilot.com/users/5ddcbb5329966b521629d3eb",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 27,
+        "rank_absolute": 27,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dab9a4b6048580a741ff4b8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-19 23:20:43 +00:00",
+        "title": "Me and my wife are both\u2026",
+        "review_text": "Me and my wife are both wheelchair-users. We were before 9 pm on 19th October 2019 at the station Southend Central waiting for train to London (West Ham). \nThe man from the service station wasn't eager to help us.\nFirst he played a fool that he didn't understand me and later he told me that he was looking for the ramps although there two ramps at platform.\nWas he drunk or what? \n\nHe finally helped us after 40 minutes of waiting on the platform only because the third disabled passenger on wheelchair- was getting nervous and demanded for help.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Piotr Grela",
+          "url": "https://www.trustpilot.com/users/5088acf80000640001250ede",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 28,
+        "rank_absolute": 28,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62ebeeb04c35e69ec5238752",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-08-04 18:07:12 +00:00",
+        "title": "Really poor customer service\u2026",
+        "review_text": "Really poor customer service communications.\nSmartcard has multiple issues and you have to email the team to resolve any issue which is a lengthy and laboriously difficult. This company is happy to take your money, but extremely slow to give it back. Please sort this out!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Seema M",
+          "url": "https://www.trustpilot.com/users/56d446c50000ff000a0a670e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 29,
+        "rank_absolute": 29,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6512e850abf3535dba14c89c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-26 16:18:56 +00:00",
+        "title": "This company needs to try so much\u2026",
+        "review_text": "This company needs to try so much harder to keep customers happy. You have to pay a ridiculous amount to use uncomfortable, overcrowded trains in peak periods.  Added to this is appalling customer service help should you need to call them\n\nI had a delay and claimed, even though I have their smart card, they can not issue an e-voucher for the refund.  The year is 2023 and all they can do is post a paper voucher out costing them considerably more and now have a backlog to send out so over 2 weeks later I have no refund and am still waiting.\n\nI wish there was a rival company for the South Essex line as they may actually pull their finger out and either give customers value for money or reduce the fares to reflect their poor trains.  It is too easy for complacency and lack of vision for a company with no rivals.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Robert Severn",
+          "url": "https://www.trustpilot.com/users/622e6ba7854bd90012fa94a4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 30,
+        "rank_absolute": 30,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60126179679d9701d07ae8a7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-01-28 07:02:17 +00:00",
+        "title": "Worst company in the world",
+        "review_text": "Trains constantly late, barely any staff at stations and a \u2018smart\u2019 card system that simply doest work, i tried to add a travel card which never loaded onto the card, was denied travel on underground because c2c didnt load the card and had to walk 10 miles to a c2c station, c2c couldnt care less and took over a month for a refund. An absolute disgrace.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Tom",
+          "url": "https://www.trustpilot.com/users/5e81bccc3d0621fd6473b333",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 16
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 31,
+        "rank_absolute": 31,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/622398d7445f5107dca92515",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-03-05 17:07:35 +00:00",
+        "title": "\u201cWear a face covering humbug",
+        "review_text": "\u201cWear a face covering to protect us all\u201d\n\nWhat rubbish .What would protect us all is a decent service .Don\u2019t shut the toilets and waiting room in freezing cold weather .Sheer laziness and wanting to save money .C2C were bad enough before Covid god knows what we have to look forward to now apart from a price hike for reduced services .",
+        "review_images": null,
+        "user_profile": {
+          "name": "alison Johnson",
+          "url": "https://www.trustpilot.com/users/5e95f8497d08ae3a598d47ce",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 30
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 32,
+        "rank_absolute": 32,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63699a1fb84cc27618e52955",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-11-08 01:51:59 +00:00",
+        "title": "Obviously thought there was a train strike so didn't bother to run an acceptable service when strike was called off.",
+        "review_text": "They are probably the worst train company ever. They make changes to services when they fancy it & unless you're a clairvoyant you never quite sure when they will be running, consequently you can never book a night out in London unless you like being stranded.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter Taylor",
+          "url": "https://www.trustpilot.com/users/5e7c7f491c7f4f8d665577f6",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 33,
+        "rank_absolute": 33,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d98f3456b04580b545683d8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-05 19:47:17 +00:00",
+        "title": "Rude cashier at Upminster",
+        "review_text": "Be careful when buying tickets from cashier called Rhoda. She is completely incompetent and overcharges you (check google reviews, she does it regularly). When asked to refund was extremely rude and lying to cover her error. Refused to explain refund procedure. Never received a refund and was denied to speak to a manager",
+        "review_images": null,
+        "user_profile": {
+          "name": "Phil My",
+          "url": "https://www.trustpilot.com/users/5d98f2c49655775632fe1051",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 34,
+        "rank_absolute": 34,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65e9c2e6f1f395e1201d1013",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-03-07 15:36:39 +00:00",
+        "title": "Train was cancelled mid trip due to a\u2026",
+        "review_text": "Train was cancelled mid trip due to a track issue and went back to my starting point. They gave me only half my money back. Have appealed and still nothing. \n\nI didn't pay for a train ride, I paid to get somewhere. ",
+        "review_images": null,
+        "user_profile": {
+          "name": "Greg",
+          "url": "https://www.trustpilot.com/users/501a5f2200006400011e78d7",
+          "image_url": null,
+          "location": "AU",
+          "reviews_count": 17
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 35,
+        "rank_absolute": 35,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62966031d557309563076aed",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-31 20:36:33 +00:00",
+        "title": "Iv just been on a c2c train to Southend\u2026",
+        "review_text": "Iv just been on a c2c train to Southend from barking , train stopped for 30 mins , they told us a fatality on the tracks 20 mins before we went back .\nBoarded a train ten mins later ( track reopened)\nWe went past Dagenham, where the incident happened. \nNo body on the track no police presence, no sign of investigation!\nLiars !!!!!!!!\nI\u2019m fed up with c2c s fabrications",
+        "review_images": null,
+        "user_profile": {
+          "name": "Daniel Brown",
+          "url": "https://www.trustpilot.com/users/615721155880c30012e73f4b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 36,
+        "rank_absolute": 36,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62d6d0b88000af4a8844bf59",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-07-19 17:41:44 +00:00",
+        "title": "Today 19/07/2022 I was on my way to\u2026",
+        "review_text": "Today 19/07/2022 I was on my way to Westcliff. I met such a helpful and friendly staff at Upminster station. Martina made my day today, she was open, friendly and professional. She kindly helped me to get on a right station.\nMartina was very organised and delivered a great customer service even in 40 degree heat.\n\nYana.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Yana Ovchinikova",
+          "url": "https://www.trustpilot.com/users/5e6d6c0dbaa518162d1697fd",
+          "image_url": "https://user-images.trustpilot.com/5e6d6c0dbaa518162d1697fd/73x73.png",
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 37,
+        "rank_absolute": 37,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/641c6a38be0b1417921d3636",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-23 17:03:20 +00:00",
+        "title": "Thank you for your email confirming my\u2026",
+        "review_text": "I paid for  train ticket on c2c website that failed to go through on their system.  After several phone calls to them and my Bank, they said the ticket charge would be refunded!  \nI went into my Bank earlier today but there is no sign of a refund ( i guess this will take 3-5 working days to go back in.)\n\nI won't be using their service again due to this bad experience!  \nIn future I will be finding alternative methods of travel when visiting the capital as your \"system\" cannot be relied upon.\nFor feedback I would only score your company 0-1 on this occasion.  I will spread the word as well on my experience.! Rubbish company as previous people have confirmed !!  Trouble is there is no \"Customer\" in Service these days !!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Andy Lee",
+          "url": "https://www.trustpilot.com/users/5fde004b1ca4d70019c156cf",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 38,
+        "rank_absolute": 38,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63c69cf94d0773066a3aa583",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-01-17 15:04:57 +00:00",
+        "title": "This company is shocking",
+        "review_text": "This company is shocking. I have been using them for a few years for commuting to London and it was bad to start with and has got worse over time. Customer service is poor, reliability is poor, the trains are horrible, security is an afterthought, even the company website is a mess. I can\u2019t think of a single reason to use them other than they have the monopoly on rail travel from my location. I\u2019m pretty sure a supermarket chain could run this service better than this bunch of money grabbing extortionists.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mark Kelleway",
+          "url": "https://www.trustpilot.com/users/5c58993655e9da39074ce012",
+          "image_url": "https://user-images.trustpilot.com/5c58993655e9da39074ce012/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 39,
+        "rank_absolute": 39,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e4437693c93ae04c0e0177c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-02-12 17:35:37 +00:00",
+        "title": "Its absolutely terrible when I am\u2026",
+        "review_text": "Its absolutely terrible when I am pregnant with my belly never get a seat, or sometimes even can't get on the train at all!! It's just too many people I don't get why you can't add more carriages when needed?! For example on the peak time it's just too many people, it never been like that before, now it's just ridiculous, too much, every time I go home after work have to worry what time I'll reach home just becouse of the few carriages at peak time. Rubbish rubbish rubbish",
+        "review_images": null,
+        "user_profile": {
+          "name": "Karolina Sutkeviciute",
+          "url": "https://www.trustpilot.com/users/5e44374f9f3d291896294290",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 40,
+        "rank_absolute": 40,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5db0cd396048580a5ce4dcd5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-23 21:59:21 +00:00",
+        "title": "Rhoda - liar from Upminster station",
+        "review_text": "Rhoda from Upminster Ticket Office was extremely rude to me. She is a liar.  First of all she claimed that she sold me a wrong ticket because she couldn't sell tickets other than for the journeys starting from Upminster. When asked to refund or call someone senior she refused and started saying that it was my own fault. I can't believe people like this are allowed to work with customers.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Samanta Phillips",
+          "url": "https://www.trustpilot.com/users/5db0ccca3c18ac1e2c918a47",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 41,
+        "rank_absolute": 41,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62d6f9928000af4a8844ef33",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-07-19 20:36:02 +00:00",
+        "title": "Useless! Avoid it if you can!",
+        "review_text": "It\u2019s a shame that government is giving license to this useless companies like C2C to operate public transport. Cancelled, cancelled, cancelled. Warm weather only for certain directions! Train showing approaching the station and after seconds train cancelled without announcing anything as a minimum! \nYou\u2019re not able to manage a donkey not train. (Upminster 19/07/22 19:00 19:42\u2026.still here!)",
+        "review_images": null,
+        "user_profile": {
+          "name": "Arjan",
+          "url": "https://www.trustpilot.com/users/6167104b7f7dd90012b526f7",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 42,
+        "rank_absolute": 42,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62c34c02853b02c06c9757b0",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-07-04 22:22:26 +00:00",
+        "title": "Their collection machines are a total scam, don't buy online tickets for someone else and do not use a virtual card",
+        "review_text": "Total scam, you buy tickets online then you can't collect them at the station because the kiosk is asking for a cars to be put in, what if I bought a ticket for someone else? Or what if I uses a virtual card.\n\nSuch a scam, thst they can't have the option to enter the collection code to print it.\n\nYou have to go to the ticket office, and wait in queue, so why do you even sell tickets online?",
+        "review_images": null,
+        "user_profile": {
+          "name": "TheSpecialist",
+          "url": "https://www.trustpilot.com/users/5f7b453fe7320c0fa71c0e45",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 32
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 43,
+        "rank_absolute": 43,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/645b57a094307632cd0d86b7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-05-10 10:36:48 +00:00",
+        "title": "No WiFi and dreamy station",
+        "review_text": "If you need to use the WiFi I would advise using Greater Anglia if you can. It's a bit more expensive but their WiFi almost always works. C2C WiFi never works on computers and is really hit and miss on phones. I knows it's free, but they're still advertising something they don't really have.\n\nAlso, Westcliff station is wholly inefficient. The ticket machines often don't work very well and there's only ever one member of staff in the ticket booth and they're always really slow. This isn't my experience today, or yesterday, or last week. This is my experience every time, consistently, entering Westcliff station is like entering a dream state, like being trapped in a crystal by the Goblin King, where all time is forgotten.\n\nI was there once and, as usual, there was a queue to get a ticket. But it was because three members of staff were all talking to this one person about his enquiry, a great use of everybody's time. It took them ten minutes and I missed two trains.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Holly Whitbread",
+          "url": "https://www.trustpilot.com/users/631238eb608ec90012e1cee2",
+          "image_url": "https://user-images.trustpilot.com/631238eb608ec90012e1cee2/73x73.png",
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 44,
+        "rank_absolute": 44,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6087e51af9f487093ccfc959",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-04-27 10:19:06 +00:00",
+        "title": "Don't waste your time trying to buy\u2026",
+        "review_text": "Don't waste your time trying to buy tickets online through C2C. I wasted an hour with errors at the end each time. I've now been charged for two sets of tickets I never completed the purchase on. After complaining about this, the company is asking me to waste even MORE of my time, by sending redacted bank statements to them to prove the money has come out of my account.\n\nAVOID AVOID AVOID",
+        "review_images": null,
+        "user_profile": {
+          "name": "Catrina Miles",
+          "url": "https://www.trustpilot.com/users/6087e5138e019c0012f618f8",
+          "image_url": "https://user-images.trustpilot.com/6087e5138e019c0012f618f8/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 45,
+        "rank_absolute": 45,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/648387a644da47a11bc0cf46",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-06-09 22:12:22 +00:00",
+        "title": "C2C refusing to give out refunds your entitled too!",
+        "review_text": "Received an email from c2c on 12/05/23 telling me they had cancelled 6 of my daily tickets on my smartcard due to a system failure and that I need to get in touch via email to get a refund sorted for these cancelled tickets. Numerous unhelpful emails and phone calls later c2c are still refusing to refund these tickets even though I have provided them with all the proof they have asked for to confirm I did infact purchase the tickets that were cancelled. My last email sent to them was on 21/05/23 and that email has outright just been ignored by c2c. No acknowledgment and no response. The people that I have dealt with over the phone and via email have been incredibly unhelpful passing the blame off to one another. Useless.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Lewis",
+          "url": "https://www.trustpilot.com/users/5e9488f9c78e4f986d2afbe8",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 46,
+        "rank_absolute": 46,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5df33d06c8454501d036315b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-12-13 07:25:58 +00:00",
+        "title": "Absolutely careless customer service",
+        "review_text": "Absolutely careless customer service. \nYou can\u2019t contact by phone Any of the rail  stations if you need to. I think  the type of the business like this it  suppose to  be 24 hrs Phone line customer service, especially for the lost property!!! Website prices are not Compatible with ticket machines. Staff at the stations absolutely useless and you never get any appropriate information from them. They don\u2019t know NOTHING. Only one answer whatever you ask: Please Ring the general service number...\nSo after reading all the (bad) reviews I\u2019m not surprised that  all the customers are disappointed. Is there any one to consider all of them? \n It maybe someone should consider c2c licence then.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Eric Steren",
+          "url": "https://www.trustpilot.com/users/5a11df0e0000ff000ae4c53d",
+          "image_url": "https://user-images.trustpilot.com/5a11df0e0000ff000ae4c53d/73x73.png",
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 47,
+        "rank_absolute": 47,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6151ba376223e22118bbda69",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-09-27 12:33:59 +00:00",
+        "title": "Book tickets to Portsmouth online was\u2026",
+        "review_text": "Book tickets to Portsmouth online was quoted \u00a336 for an open return. When ticket arrived it was a day return when I contacted C2C they told me that they did not do open returns for them dates but then told me if I wanted an open return it would be \u00a397.\nI will never use C2C online to book tickets ever again I had to go out and buy different tickets to get home on a different day it\u2019s spoiled my holiday.\nThe customer services do not care at all, avoid at all costs.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Del Sewell",
+          "url": "https://www.trustpilot.com/users/5e5c15b85784306036a9b00c",
+          "image_url": "https://user-images.trustpilot.com/5e5c15b85784306036a9b00c/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 48,
+        "rank_absolute": 48,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5f346fa41a5a69026848f410",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-08-12 22:39:32 +00:00",
+        "title": "Smart card? More like Shhh card!",
+        "review_text": "Spent nearly 1 whole hour trying to buy a ticket on the world wide web... yep the internet to purchase 1 very basic return ticket... !!!! The station staff are useless and cant help you, you have to phone a number and hope. Who nowadays develops such a horrendous app / website. Like, this is why things like amazon and uber dominate IT WORKS! Sort it out. So much feedback on this for over a year, yet nothing!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Nikki Curtis",
+          "url": "https://www.trustpilot.com/users/5f346f970cf9fe130bc8b1f8",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 49,
+        "rank_absolute": 49,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6260e2eb7b2618e9fea1744e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-21 06:51:55 +00:00",
+        "title": "The worst company ever to manage\u2026",
+        "review_text": "The worst company ever to manage trains! Always one of the ticket machines is not working, sometimes both. The desk is opening whenever they want, staff is coming whenever they want and always on the phone talking to someone!!! Rubbish company with rubbish employees.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Plamen Ivanov",
+          "url": "https://www.trustpilot.com/users/6001965ab391340019677055",
+          "image_url": "https://user-images.trustpilot.com/6001965ab391340019677055/73x73.png",
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 50,
+        "rank_absolute": 50,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6298e26ad5573095630965ce",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-02 18:16:42 +00:00",
+        "title": "A slightly underrated railway",
+        "review_text": "c2c is a great railway in my opinion. I have used it quite a few times and the quality is very comfy and a nice, colourful, short network.\nI like the fact that the network begins alongside thE DLR and goes through East London as I seem to be a fan of the East side of London. I think it is an uncomplicated simple 1 hour journey to Shoeburyness and meets up with Greater Anglia twice being London Liverpool Street and Southend Victoria as a short walk away from Southend Central.\nI like the space on their trains, the class 357, and has room for a lot of capacity. Unfortunately not a lot of people tend to use this railway which upsets me as it seems like a nice and quick ride to the Eastern seaside. I also do like the pink theme onboard these trains and I wish the Liverpool Street and Stratford routes were used more often.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Railbuster",
+          "url": "https://www.trustpilot.com/users/6298d5e50afa9d001223bc4c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 51,
+        "rank_absolute": 51,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6183284a75069a4da4989b33",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-11-04 00:24:42 +00:00",
+        "title": "This rail company is a total disgrace",
+        "review_text": "This rail company is a total disgrace. Constant delays and train cancellations with no reasonable explanations. Trains to/from Chafford Hundred are constantly delayed and/or cancelled and then it would take forever for a refund to be processed",
+        "review_images": null,
+        "user_profile": {
+          "name": "FVV",
+          "url": "https://www.trustpilot.com/users/5e6e18b91c7f4f2ddb4ebd97",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 52,
+        "rank_absolute": 52,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5f26d0b21a5a6907a478e4a6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-08-02 14:41:54 +00:00",
+        "title": "C2C employee recognition",
+        "review_text": "I would like to thank Mr Jason Marsh who is a cleaner on the C2C line at Shoeburyness (Concept).  He found my mobile phone on a C2C train on Saturday 1st August. I rang my number from my wife\u2019s mobile and Mr Marsh confirmed he had my phone and told me where he was so I could go and collect it. I cannot thank this gentleman enough for his honesty. He is a credit to your organisation.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sue McMahon",
+          "url": "https://www.trustpilot.com/users/5462827b000064000195df71",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 53,
+        "rank_absolute": 53,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e2355c6c8454503e834cf12",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-01-18 19:00:22 +00:00",
+        "title": "cancellation, cancellation, cancellation",
+        "review_text": "Yet again another train is cancelled 1 minute before it\u2019s due to arrive. What a truly shocking service! Surely you knew it had been cancelled long before that\u2019s because it hadn\u2019t even left Fenchurch Street!! Why are the customers always told at the last minute? Our journeys are important but clearly not to you. I think it\u2019s time someone else stepped in to run this company.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Russell Harris",
+          "url": "https://www.trustpilot.com/users/5cf0fcd4d0f746149f51f343",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 54,
+        "rank_absolute": 54,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6318ccde7f7a8621ee556877",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-07 18:54:54 +00:00",
+        "title": "Epitome of white collar crime",
+        "review_text": "Absolute criminals. Operate a poor service. WCs , most likely law to have for length of journey, are either faulty and not usable. Unhygienic and rarely cleaned even in pandemic. \nFares are extortionate. Profits sensational  .",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ohmega e-Juice",
+          "url": "https://www.trustpilot.com/users/6318ccd69c69470012daf6ff",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 55,
+        "rank_absolute": 55,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5cf4e85fb055990268cad969",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-06-03 09:29:03 +00:00",
+        "title": "Zero trust in this company or their\u2026",
+        "review_text": "Zero trust in this company or their online payment system.\nI paid \u00a3350 for a ticket, they took my money out of my account but their server often crashes out and you receive no ticket for travel.  \nAnd instead of an immediate refund or getting online to provide you with a ticket, they say wait 7 days. They are absolutely useless.\nSo you end up with no money, no ticket, and no way to travel. That's their customer support solution. Do they expect us to pay another \u00a3350 to have exactly the same problem? There is absolutely no confidence in their online ticketing system or customer support.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mr Harvey",
+          "url": "https://www.trustpilot.com/users/56f7ce1c0000ff000a121a76",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 56,
+        "rank_absolute": 56,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65930e1f48a9a2716f486fbb",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-01-01 21:10:23 +00:00",
+        "title": "I emailed c2c asking for a refund of\u2026",
+        "review_text": "I emailed c2c asking for a refund of \u00a3130.20 since the first week in November 2023 when I accidently added my journeys onto the wrong named Smartcard.I have probably emailed at least five times called the helpline at least six times. The helpline is an outside agency who work on behalf of c2c but do not have the power to issue refunds.I have asked every one of the people I have called to escalate my issue which was not resolved and eventually after wasting hours of my time I had had  enough and asked for compensation for the lack of customer service expected from c2c and asked for a finacial goodwill gesture for the distress and upset caused. I was eventually offered my refund but c2c did not acknowledge my complaint and I explained this in my response to them. I have still not had my refund and called c2c again last week to discuss this but to no avail.I understand this is over the Christmas break but this really does not excuse  poor customer service. One of the customer service agents was named Nazia and the delays in her responses to my emails is poor and very distressing and frustrating. Hopefully a  c2c representative might see this review and  action my complaint.\n\u00a3130.20 might not be a lot of money to some people but it is needed in the week before Christmas!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "shaun Holding",
+          "url": "https://www.trustpilot.com/users/5fe46feadbd627001907bfca",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 57,
+        "rank_absolute": 57,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6539788be4a825365aa34967",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-10-25 22:20:27 +00:00",
+        "title": "Filthy",
+        "review_text": "Filthy. I drive to most places, but thought I\u2019d avoid London traffic and get on the train. Reminder: don\u2019t. \nYou can\u2019t help annoying loud people with no social awareness, but the trains are just gross. To add to that, 1 out of 6/7 machines at Grays station in use, the rest not working. Spoke to someone at the platform who said they never work.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Lizzie Austin",
+          "url": "https://www.trustpilot.com/users/5ff04d87750ed7001937492f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 58,
+        "rank_absolute": 58,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dda9cc3c845450600682620",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-24 15:07:47 +00:00",
+        "title": "Went to Leigh Station to buy a weekly\u2026",
+        "review_text": "Went to Leigh Station to buy a weekly season ticket for Monday, because it is a travelcard the machines cannot cope.\nWould have expected the ticket office to be open as trains are terminating at Leigh on Sea but no, obviously that would take some common sense.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mike Terry",
+          "url": "https://www.trustpilot.com/users/5dda9cbb3f49ce22429c3d40",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 59,
+        "rank_absolute": 59,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6507f65dc37f8125556d16cd",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-18 09:03:57 +00:00",
+        "title": "The 8:02am train from Barking to\u2026",
+        "review_text": "The 8:02am train from Barking to Fenchurch Street station seems to be delayed quire frequently. For instance, this morning and twice last week. What's wrong with C2C? They used to be really company but now they are going downhill.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Aj Aj",
+          "url": "https://www.trustpilot.com/users/5ff99af28d13340019163188",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 60,
+        "rank_absolute": 60,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dcd830ac8454507e42fc118",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-14 16:38:34 +00:00",
+        "title": "I have bee on hold for over 3/4 hr\u2026",
+        "review_text": "I have bee on hold for over 3/4 hr trying to get through to Customer Services to find out why they have issued the wrong tickets for an on-line booking. Booking email clearly shows correct tickets ordered.\n\nVery sad to have to leave this review as have been good in the past",
+        "review_images": null,
+        "user_profile": {
+          "name": "Martin Ward",
+          "url": "https://www.trustpilot.com/users/50de317c00006400012bcf55",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 85
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 61,
+        "rank_absolute": 61,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d710268f0186903cc6ef535",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-09-05 12:41:12 +00:00",
+        "title": "Promised a refund of tickets twice as\u2026",
+        "review_text": "Promised a refund of tickets twice as their smart card did not work at my station when it clearly should of and took my bank details twice by phone. Then decided to backtrack a couple weeks later and offer vouchers instead? Why? when I paid for this in cash?\n\nStupid and incompetent service. DO NOT USE. A company is built on truth, honesty, and integrity from first contact. \n\nIf you made a mistake I expect you to follow through to the end!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jay Kukadia",
+          "url": "https://www.trustpilot.com/users/5d710260d25dd426a85dedb7",
+          "image_url": "https://user-images.trustpilot.com/5d710260d25dd426a85dedb7/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 62,
+        "rank_absolute": 62,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d9773c96b045806b8e53171",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-04 16:31:05 +00:00",
+        "title": "ABSOLUTELY USELESS!!",
+        "review_text": "ABSOLUTELY USELESS!!\nWould give minus stars if possible!\nHelp desk when they finally do answe the phone totally hopeless!\nCustomer service worse! Never call back, never send e-mails as promised!\nAll staff read from the same hymn book! That is lie, cheat and DENY!!\nStill waiting for my refund and compensation for 2 months!! 59 phone calls ! 200 e-mails!\nNow taking legal action! AVOID!\nC2c00088498 if anyone with a brain? Wants to sort this out?,,, doubt it....",
+        "review_images": null,
+        "user_profile": {
+          "name": "paul casey",
+          "url": "https://www.trustpilot.com/users/5a2a28f80000ff000aee08e4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 58
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 63,
+        "rank_absolute": 63,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6408dc5ba957a037ccc02ccb",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-08 21:04:59 +00:00",
+        "title": "C2C,The journey to REALITY!!!",
+        "review_text": "C2C is supposed to help people reach their destinations however it does quite the opposite thing. If people choose to take a train in order to get to work or school, in general anywhere they can forget about arriving there on time or at all. Trains are cancelled and journeys are either terminated or distrupted and The only reason givin is apparent signal problems in areas such us East and West Ham but who knows if this is reality or just and excuse used to keep people there. The conpensation they offer or mention at least will not be able to change the circumstances which can affect a persons future especially the ones of Students who are ready to learn and take a step which can affect their life forever.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Stalin",
+          "url": "https://www.trustpilot.com/users/632a0b5356c8ce00129d1cd4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 64,
+        "rank_absolute": 64,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60a421d2f9f4870a94a6574c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-18 20:21:38 +00:00",
+        "title": "awful train co   machines take ur money\u2026",
+        "review_text": "awful train co   machines take ur money and getting it back is so hard and they ignore ur messsges  its sad because they know we have no choice they just dint care",
+        "review_images": null,
+        "user_profile": {
+          "name": "jay mcdonnell",
+          "url": "https://www.trustpilot.com/users/6075e15d359d57001a8e8076",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 65,
+        "rank_absolute": 65,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60b10af5f9f4870b701126ce",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-28 15:23:33 +00:00",
+        "title": "Well I like c2c because I take it all\u2026",
+        "review_text": "Well I like c2c because I take it all the time and it goes to Liverpool Street which is what I like about it. What I don't like about it is that it's delayed at chafford hundred and what I also like about c2c is that it dosent interlock with any other network",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ramsey dathyper",
+          "url": "https://www.trustpilot.com/users/60b10ad8eb6073001a6bfd52",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 66,
+        "rank_absolute": 66,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65cdbd846a547061e5560f24",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-15 09:30:13 +00:00",
+        "title": "The worse service ever",
+        "review_text": "The worse service ever , can't be any worse .This line should be banned.Tickets cost me 4250\u00a3 annual.Last year I travel like this .Even for free I wouldn't recommend this train",
+        "review_images": null,
+        "user_profile": {
+          "name": "jaroslaw godala",
+          "url": "https://www.trustpilot.com/users/63bfb1f00043f1001319d3a2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 67,
+        "rank_absolute": 67,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/618f66cbfb38891f5f0a5fa5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-11-13 07:18:35 +00:00",
+        "title": "JOKE",
+        "review_text": "Monday to Friday I can't complain but Saturday and Sunday always the same railworks so my half hour journey turns into a hour journey. Why do I pay \u00a3123 roughly a month? Why don't you do the work at night 9/10 for the week but 0/10 for weekend C2C weekend joke",
+        "review_images": null,
+        "user_profile": {
+          "name": "Keith Fitzpatrick",
+          "url": "https://www.trustpilot.com/users/5ea098b82216ef52d6554145",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 68,
+        "rank_absolute": 68,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65c1094b948fb15e896dcdb1",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-05 18:14:04 +00:00",
+        "title": "Useless as hell,I really wish them to\u2026",
+        "review_text": "Useless as hell,I really wish them to bankrupt!!!The most useless service in the whole UK!Absolute shameless company!",
+        "review_images": null,
+        "user_profile": {
+          "name": "What Ever",
+          "url": "https://www.trustpilot.com/users/6120de272eccde0012eeba82",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 69,
+        "rank_absolute": 69,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/649d8426d199b1010f343da2",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-06-29 15:16:22 +00:00",
+        "title": "Trying to get hold of the Booking\u2026",
+        "review_text": "Trying to get hold of the Booking Service for school trips is a disaster.  I have lots of children looking forward to end of term trips but C2C cant be bothered to reply to emails or pass me through to the people that can actually help.  All I kept getting was send an email, email, email! No point in sending emails as we get no responce from them or confirmation that they even received my query.  It is a shambles and needs fixing right away to stop the hassle of ordering tickets for school trips. I wouldnt mind but we have to pay for tickets, it's not like we're getting them for free!\n\nPlease sort this out immediately please.  Thank you",
+        "review_images": null,
+        "user_profile": {
+          "name": "Trayce Thorogood",
+          "url": "https://www.trustpilot.com/users/642bbde04793ef0014c2fb5e",
+          "image_url": "https://user-images.trustpilot.com/642bbde04793ef0014c2fb5e/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 70,
+        "rank_absolute": 70,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d9de8216b04580a60be5da9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-10-09 14:01:05 +00:00",
+        "title": "tried to get 10 packet tickets to get\u2026",
+        "review_text": "tried to get 10 packet tickets to get to Westcliff station once a week, but they told me to call by phone, well... nobody answers. There's written that I could get a discount given that I go to Westcliff for job reasons, but nobody, at the desk, is giving me info about it and nobody replies to my email and calls. Really bad custom service!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "anna castellino",
+          "url": "https://www.trustpilot.com/users/5d9de819efd706cdb5fcc259",
+          "image_url": "https://user-images.trustpilot.com/5d9de819efd706cdb5fcc259/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 71,
+        "rank_absolute": 71,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5f5406bf02e85708c8e0b4f9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-09-05 21:44:31 +00:00",
+        "title": "Starting a new job next Sunday and have\u2026",
+        "review_text": "Starting a new job next Sunday and have to be in work 5:45 am in Basildon from Southend Central next Sunday. Have to phone in late because no Buses but c2c are late and will not end up in Basildon until 6:20am  Thanks c2c for poor service",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jason Hawkins",
+          "url": "https://www.trustpilot.com/users/51ef8bdc0000640001450750",
+          "image_url": "https://user-images.trustpilot.com/51ef8bdc0000640001450750/73x73.png",
+          "location": "GB",
+          "reviews_count": 22
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 72,
+        "rank_absolute": 72,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d91dd576b04580a88cd1ffa",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-09-30 10:47:51 +00:00",
+        "title": "There are queues to get tickets out the\u2026",
+        "review_text": "There are queues to get tickets out the doors all the time, staff seem to think they are doing in you a favour selling a ticket, the machines work only sometimes. The smart card payment system has worked for me 50% at best but they still take the money and you have to ask for it back which in my case took weeks and multiple calls and emails. Just spent another 40 minutes waiting for them to answer the phone to be told send a screenshot. I wish I could avoid them but I, like many, dont have a choice, which they seem to know. Avoid if you can",
+        "review_images": null,
+        "user_profile": {
+          "name": "Neil G",
+          "url": "https://www.trustpilot.com/users/5146e7320000640001348d58",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 73,
+        "rank_absolute": 73,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/654dff26e1f73e68d042b3ee",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-10 12:00:06 +00:00",
+        "title": "Feels like winning the lottery when the App works",
+        "review_text": "The Smartcard is a great idea, and being able to buy and load the ticket on your card is great. The App looks sleek, so far so good.\nBut this is pretty much it, here is the list of issues I have with this:\n- I generally buy my tickets via the App and load them on the Smartcard, but SOMETIMES during payment, you will get a 'Something went wrong' popup telling you to retry later. The problem here is that it still takes the money from your account (marked as Pending by your bank, but it 'locks' this amount from your account) and you have NO WAY of contacting any sort of online support, every single links redirect to the 'Contact us' form for train complaints. I'm still trying to get back my money after trying to buy my tickets 3 times (and yup, it failed 3 times at different time intervals).\n- The 'cashback' based on points NEVER works, meaning you win points when you buy tickets, and then... well you cannot use them to reduce the price of future purchase. There is a way to retrieve this value in cash (cheque actually) but you must have at least \u00a35 worth of cashback, so at the end the year, it RESETS meaning you can lose \u00a34.99. What's the point of this if you just cannot use it?",
+        "review_images": null,
+        "user_profile": {
+          "name": "Chris Pavia",
+          "url": "https://www.trustpilot.com/users/64427f5cab87520014c7555c",
+          "image_url": "https://user-images.trustpilot.com/64427f5cab87520014c7555c/73x73.png",
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 74,
+        "rank_absolute": 74,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e5516723c93ae0864a74868",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-02-25 12:43:30 +00:00",
+        "title": "Sky haven't replied back from their\u2026",
+        "review_text": "Sky haven't replied back from their response I sent over the weekend.. the call waiting time was down to the bad weather.. although they haven't responded back about the 45, minutes call waiting time due to extensive training going on... on Feb 14th.. they seemed to be avoided this issue... You have to keep on badgering  them... to get a response .. not good customer service ??????",
+        "review_images": null,
+        "user_profile": {
+          "name": "janice",
+          "url": "https://www.trustpilot.com/users/5e0ef738b14ccf0610f9fd81",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 41
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 75,
+        "rank_absolute": 75,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/61f93876a16c1e751f7afc25",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-02-01 13:41:10 +00:00",
+        "title": "Canceled.",
+        "review_text": "Again. Another train cancled, and I will be charged \u00a320 for coming off at the same station. I dont mind that my day is ruined, but I hate paying the fare. And anyone who has ever tried to contact c2c for reimbursement knows that it is all but impossible.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Adam",
+          "url": "https://www.trustpilot.com/users/5fe37f2d393ff80019493c98",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 21
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 76,
+        "rank_absolute": 76,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63853141b84cc27618f9fa2d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-11-29 00:08:01 +00:00",
+        "title": "This company should to be reliable",
+        "review_text": "This company should to be reliable, instead today the service is unacceptable.\nWithout notice, in the middle of the journey they change stops without notifying the people who are travelling.\nI do understand there can be emergencies but there is no respect for the passengers who are paying the service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ana",
+          "url": "https://www.trustpilot.com/users/6059e08db87d240012b97ebb",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 77,
+        "rank_absolute": 77,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5cf7cf9db055990650f3aab9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-06-05 14:20:13 +00:00",
+        "title": "Today",
+        "review_text": "Today, I've got a ticket return from London to Leigh-on-sea. It was affordable and flexible. I really recommend the Anytime ticket. Thanks to this company, I might go out of London more often on the weekends.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Aissa Laribi",
+          "url": "https://www.trustpilot.com/users/5bfa80055483f4b8a935f549",
+          "image_url": "https://user-images.trustpilot.com/5bfa80055483f4b8a935f549/73x73.png",
+          "location": "GB",
+          "reviews_count": 15
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 78,
+        "rank_absolute": 78,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65c20a411b7af4222abbf723",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-02-06 12:30:25 +00:00",
+        "title": "c2c customer service doesn't exist",
+        "review_text": "If I could rate 'em nuffin' I would.  An incident happened on 27th November 2023 or the week beginning Monday 4th December 2023 in Barking Station.  It was handled badly by c2c staff.  A complaint was emailed to TFL because I thought they operated that train station.  TFL replied in late December 2023 or January 2024 that they don't operate Barking Station and that I should contact c2c.  So, on Friday 5th January 2024 I emailed c2c regarding the incident.  They said I'd get a reply in 20 working days. 20 working days was up on Friday 2nd February 2023.  So, I called and spoke to a lovely lady who took my case reference number and said someone would be in contact with me soon.\nI heard nothing, nada, zilch from c2c, so I phoned customer service again and spoke to she same nice lady who took my customer reference number and said she'd pass it on and that someone would be contacting me soon, and - yep, you guessed it, I've heard diddly squat from 'em!\n\nThey're a privately owned company with an MD.  This lots trading name is Trentalia c2c Ltd and apparently they operate the transport system in Italy.  What are the chances that the directors will be ignored when they wanna get paid the financial rewards of their investments?\n\nI mean c2c customer service doesn't exist.  They got the same woman answering calls with the same stock reply.  Every time I call c2c and I've called on 3 different occasions, I speak to the same lady.  And she told me she works weekends too.  They're deliberately understaffing customer service so they can maximise their profits.  That's what this lot are doing.  And, I don't begrudge directors of a privately owned company wanting to make a profit.  But what I can't stand is when they're making money and not offering people excellent customer service.  An' I ain't 'aving it.  I am going to get reply from them even if I have to write to the Managing Director himself.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Michal David",
+          "url": "https://www.trustpilot.com/users/65464ed1038939001163776c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 79,
+        "rank_absolute": 79,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/637ae2a9252cba2c02deb0d9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-11-21 04:30:01 +00:00",
+        "title": "No tickets received after payment. No refund for a month.",
+        "review_text": "Tried to buy tickets online and reached the payment screen. After entering my card details and clicking on confirm to pay. I was taken back to the previous page so I entered my card details and payed again and once again I was returned back a page without receiving an email confirmation of the ticket dispensing code. Without which I am unable to collect the tickets at the ticket machine. I checked my bank account and sure enough the money was taken from my account - twice. I have just requested a refund but was required to provide a screenshot of the confirmation email I never received and not only that bit it will apparently take the 28 days, a whole month just to process the refund. I'm guessing I have to buy the ticket a third time in person later today because I have work to get to and can't sit around for a month for a refund I'll probably be robbed off. At this rate I'm just considering moving to London. I can't be asked to deal with a new problem every few weeks with this incompetent rail service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Timothy Yimmers",
+          "url": "https://www.trustpilot.com/users/637ae29b039489001325d7a1",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 80,
+        "rank_absolute": 80,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ed0eb7925e5d20a88a26562",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-05-29 11:01:13 +00:00",
+        "title": "Absolute disgrace 2 months no refund",
+        "review_text": "Absolute disgrace, I cancelled my annual ticket on the 23rd March for a refund due to the lockdown. I have sent two e-mails in the last 2 months chasing up its whereabouts and not received any response.\n\nWhen i telephone customer services they advise there is nothing they can do to help and i just have to wait for the refunds team to contact me. They wont even confirm they have received my refund application that i handed in to  my local station.\n\nA week ago i received an e-mail advising my refund will be received on 29th May. I still have not received it and am owed over \u00a33k.\n\nI Appreciate under the current circumstances the process might take longer then normal but after 2 months of waiting, not one e-mail responded to and a refusal of anyone in customer services to help I think is an absolute disgrace.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Spencer",
+          "url": "https://www.trustpilot.com/users/53a4220100006400017a7536",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 25
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 81,
+        "rank_absolute": 81,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5cf7e1d4b055990790e29f6c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-06-05 15:37:56 +00:00",
+        "title": "Absolutely appalling service",
+        "review_text": "Absolutely appalling service! \nTrains to and from Dagenham dock always delayed of 20 minutes at least! \nYesterday the 7:41 was cancelled and this has caused me 30 minutes delay to get to work,\nThis morning it was delayed of 5 minutes and has caused me being late again.\nThis afternoon the afternoon 16:24 was cancelled and the next is now at 16:53 so I am here waiting 30 minutes for the next train! \nAdd more trains and times like you do with Barking as this causes lot of problems at least 2 times a week",
+        "review_images": null,
+        "user_profile": {
+          "name": "KC",
+          "url": "https://www.trustpilot.com/users/5b0461d04de5666d34ee85dd",
+          "image_url": null,
+          "location": "IT",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 82,
+        "rank_absolute": 82,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dd7fbfec84545093cf7afe8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-22 15:17:18 +00:00",
+        "title": "c2c Very awful line specially all year\u2026",
+        "review_text": "c2c Very awful line specially all year from 2019 up till now.  \nI live in Rainham Essex and now delays all most every second day. No trains on weekends! No right updates if they have some issues! No correct time. They should put more trains on track because the population of the people just increasing. \nThe train them self are very nice and clean in and out. I hope they will sort this problem soon not after 10 years!!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Customer",
+          "url": "https://www.trustpilot.com/users/5abf3d744de5666d34ad0a57",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 83,
+        "rank_absolute": 83,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e50f24a3c93ae0864a5428e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-02-22 09:20:10 +00:00",
+        "title": "Please change that rules ..",
+        "review_text": "never can get the train ,I always wait for the 2nd one when district line open the door c2c close their door ,its doesn\u2019t make any sense their could be some people need to go by this train but no they don\u2019t wait for a min ,, they need to change the time ,,,",
+        "review_images": null,
+        "user_profile": {
+          "name": "Shamina",
+          "url": "https://www.trustpilot.com/users/5e50f1c91a9169dddfa092a0",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 84,
+        "rank_absolute": 84,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6392f80a5873c1cf9fd01ae1",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-12-09 10:55:38 +00:00",
+        "title": "I have been getting the c2c for the\u2026",
+        "review_text": "I have been getting the c2c for the past few months to get to University and not 1 of these days has it been on time. There is always a fault or failure. Not acceptable when you pay and plan for a service to get you to your destination on time!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ryan Tapley",
+          "url": "https://www.trustpilot.com/users/57bf60c80000ff000a3e31c4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 85,
+        "rank_absolute": 85,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/632a2a2d7f7a8621ee60ef2d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-20 23:01:33 +00:00",
+        "title": "A very frustrating experience",
+        "review_text": "Buying tickets online and via the app is unreliable as the payment usually does not go through for whatever reason and it can be very frustrating. The error caused me to believe something was wrong with my card, making me call my bank and making other online purchases to verify my card was not blocked or at fault but rather the c2c online service was at fault. Therefore I had to purchase my ticket at the counter on the day and encountered a longer queue than expected, causing me to miss my train by 2 minutes so I had to wait an additional 20 minutes for the next train making me late to my destination. Overall the whole experience was very frustrating.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Shibha Alam (Cookie Duck)",
+          "url": "https://www.trustpilot.com/users/5e1bb9f3fa8e7b6f73d46bf9",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 86,
+        "rank_absolute": 86,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/617eaf5a75069a4da4951326",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-10-31 14:59:38 +00:00",
+        "title": "Over 90% bad reviews.",
+        "review_text": "It is obvious from over 90% of reviews that this company exists solely to make money without giving a decent or proper service for the price. \n\nIt will be pointless to highlight all the failings of this pathetic sham as every week there is an issue or problem that they don't even care about. \n\nI now praise those who jump barriers in front of staff , or push through barriers whilst staff look on and wave a hand. The only people they stop will be the frail, elderly or vulnerable.\n\nIf you can get away without paying then I would do it as if they cannot manage their stations or service properly then they don't deserve people's money. How many times have you got back home to find all the gates open and no staff around? \n\nWe, the mugs pay, but loads don't because C2C won't pay for staffing levels. I hail them as why should they pay when C2C cannot be bothered to answer emails, pay refunds promptly, treat us with respect, put proper facilities bon all the stations for all hours. \n\nThey are a shambles, I do agree their rolling stock is decent as previously mentioned by another person, bit that is it. Security guards? They spend more time chatting to each other and on their phones. Disgrace.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Andi",
+          "url": "https://www.trustpilot.com/users/611a8aa567e5da0012236945",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 87,
+        "rank_absolute": 87,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64bf7b778738f51adb614f37",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-07-25 09:36:23 +00:00",
+        "title": "Rude staff and extortionate prices",
+        "review_text": "Staff are rude and unhelpful. The prices are extortionate (5.60 for a return that goes 1 stop is a joke!). Trains and stations are always dirty, for the price people pay you would have thought c2c would be able to keep things clean.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Max Newman",
+          "url": "https://www.trustpilot.com/users/64bf7b7009c9a100122a396c",
+          "image_url": "https://user-images.trustpilot.com/64bf7b7009c9a100122a396c/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 88,
+        "rank_absolute": 88,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e2461a5c845450bec3aae53",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-01-19 14:03:17 +00:00",
+        "title": "I CAN'T BUY SEASONAL TICKET IN\u2026",
+        "review_text": "I CAN'T BUY SEASONAL TICKET IN WESTCLIFF IN SUNDAY !! WILL HAVE TO LOOSE MY TIME AND WAIT IN 30 MINUTES QUEUE TOMORROW MORNING. NEW MACHINES ARE SO F* TERRIBLE !",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jimmy G",
+          "url": "https://www.trustpilot.com/users/5e246178e5a4c7e70983b480",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 89,
+        "rank_absolute": 89,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62aca456266eedb3c15c43a5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-17 17:57:10 +00:00",
+        "title": "On a train 1640 at Basildon.",
+        "review_text": "On a train 1640 at Basildon.\nBeen told we have to wait an hour as there is a problem at fen church street.\nTwo weeks ago stranded on a c2c train , they told us someone jumped in front of train ( compleat fabrication)\nRail strikes all the time.\nSince the 90 s we have been told delays are to improve travell\nNothing has ever improved.\nPlease can we make transport back in the hands of the government \nThese  are selfish money grabbing jokes who have no right to run England\u2019s trains.\nStop \nStop \nStop\nPeople of England!\nStop them from running our trains\nAll these disruptions have left us out of pocket, but there management is not.\nIf a private company did not provide a certain level of service no one would use them and they would go out of business,\nThis is not fair they survive and take bonus\u2019s \nRemove c2c trans genatailer",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dan",
+          "url": "https://www.trustpilot.com/users/5ec90ef62b4bf655fa59caa1",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 90,
+        "rank_absolute": 90,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6131eeab9c391649d8511780",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-09-03 09:45:15 +00:00",
+        "title": "Indifferent and undisciplined staff",
+        "review_text": "I had a very poor experience with c2c last year when I was sold a ticket to a station that was inaccessible due to engineering works and was effectively abandoned with no money in my pocket, in an unfamiliar part of London. I am disabled and this turn of events caused me tremendous problems. During the journey I witnessed, on a number of occasions, the disdain of the staff on duty for customers, treating them with indifference and being openly rude about them after they were gone. It was genuinely shocking.\n\nThe complaint department demonstrated a marked insensitivity towards my disabled status which is worrying. \n\nThe Ombudsman negotiated compensation where I would receive a \u00a320 rail voucher and the fare for my journey would be reimbursed.\n\nI received the voucher. The fare for the journey was never returned to me. \n \nc2c rolling stock is decent quality, but there is something rotten in the heart of this company. The breadth of the failures I witnessed can only be the result of poor management.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mark Sadler",
+          "url": "https://www.trustpilot.com/users/5d9e7518b16f60aa03f2c219",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 91,
+        "rank_absolute": 91,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60a33d1ff9f4870b7006a6bf",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-18 04:05:51 +00:00",
+        "title": "The service is terrible 2 days on the\u2026",
+        "review_text": "The service is terrible 2 days on the bounce I have had to get a taxi which isnt cheap it's a complete joke they have all day sunday where there are no trains and they still dont run on a week day twice I need to get the 4 37 and twice they have cancelled",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mr russell",
+          "url": "https://www.trustpilot.com/users/5e4862527168c0e35e4c9a61",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 47
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 92,
+        "rank_absolute": 92,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5f0974ca3f06f20a9c9ab177",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-07-11 08:14:02 +00:00",
+        "title": "Why have you made it difficult and\u2026",
+        "review_text": "Why have you made it difficult and awkward to find weekend train times? Surely this is one of the most important things to access, as you\u2019re a train service? Sort it out!",
+        "review_images": null,
+        "user_profile": {
+          "name": "PAUL BABBINGTON",
+          "url": "https://www.trustpilot.com/users/5135a91c000064000132f9ca",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 93,
+        "rank_absolute": 93,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/650d14d28417276acadd3a6b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-22 06:15:14 +00:00",
+        "title": "Bad train times early morning",
+        "review_text": "Bad train times early morning, either late or early during the 5 am slot. Train left 4 min early wouldn\u2019t let me on\u2026 need to be at airport in 3 hours",
+        "review_images": null,
+        "user_profile": {
+          "name": "anonymous person",
+          "url": "https://www.trustpilot.com/users/650d14c9c9ea3f00124a210e",
+          "image_url": "https://user-images.trustpilot.com/650d14c9c9ea3f00124a210e/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 94,
+        "rank_absolute": 94,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5dd667b9c84545093cf6c810",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-21 10:32:25 +00:00",
+        "title": "Muppets",
+        "review_text": "The worst line you can travel in or out London. Cancellation trains is their everyday goal. Is a misery and joke of transport services.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Cotoc Daniel Alin",
+          "url": "https://www.trustpilot.com/users/5bae72914de5666d34b5d0ac",
+          "image_url": "https://user-images.trustpilot.com/5bae72914de5666d34b5d0ac/73x73.png",
+          "location": "GB",
+          "reviews_count": 29
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 95,
+        "rank_absolute": 95,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5fccaa5d5e693f0704a1754a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-12-06 09:54:37 +00:00",
+        "title": "Careless staff",
+        "review_text": "Not enough trains are being cancelled, staff working for c2c aren't able to advise on your journey. Little do they care...",
+        "review_images": null,
+        "user_profile": {
+          "name": "customer",
+          "url": "https://www.trustpilot.com/users/5c9923174295126b53b66d9c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 96,
+        "rank_absolute": 96,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62b50219853b02c06c8cf977",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-06-24 02:15:21 +00:00",
+        "title": "c2c Such A Slow Service",
+        "review_text": "I have used this railway since 2005 Chalkwell - Fenchurch St. This is an honest review, I will start with\u2026I couldn\u2019t fault this railway 2005-2015! I couldn\u2019t it was perfect! Since 2015 i hate it, it deteriorated when they changed a perfectly good timetable, which was met with big protests, but they still didn\u2019t listen to their customers and went ahead with the new timetable, and month by month the service got longer and more overcrowded trains! c2c are more concerned about looking after passengers use the service from West Ham and Barking! They have also made this a metro railway, stopping at every stop! If you live between Shoebury and Benfleet expect painfully long journeys as most trains take 50-65mins to Fenchurch St due to the amount of stops! There is only one fast train between 6-9 am, from Shoebury taking 1hr! Which is so poor! Not only are most journeys slow it is incredibly busy (Tuesday to Thursday) seating is limited once you reach Chalkwell, again extremely poor! Monday and Friday are not too bad due to working from home people! Complaining, don\u2019t both they don\u2019t listen and spend most of their time patting themselves on the back proclaiming they provide a brilliant service! The biggest joke was earlier in the year they did a satisfaction survey which scored 99% of pass\u00e9ngers were happy with the service, do you know how many passengers took the service 72! I think the 72 were Friends and family! I\u2019m sorry but 72 people is not enough to do a decent survey!!!! The less I have to use this railway the better, which is a shame as if it was a faster service I would go into London more! But at the moment I can\u2019t wait to do a one day week in the office!",
+        "review_images": null,
+        "user_profile": {
+          "name": "JS",
+          "url": "https://www.trustpilot.com/users/603e418a7ee8ee001a29e285",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 97,
+        "rank_absolute": 97,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65e2d60df5565596d0ec70a7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-03-02 09:32:30 +00:00",
+        "title": "All the useless trains of c2c speak with\u2026",
+        "review_text": "All the useless  trains of c2c speak with one scrap yard maybe is gone take for you.\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ivan Jinaru",
+          "url": "https://www.trustpilot.com/users/5fe4ab61dbd627001907ed3d",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 98,
+        "rank_absolute": 98,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/641c46cc42d3f2a73083da1f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-03-23 14:32:12 +00:00",
+        "title": "C2c reduced me to tears and made me miss my train due to their technical error",
+        "review_text": "I am a regular customer of c2c and get the train everyday because I have to, to get to work and there\u2019s is always problems but can\u2019t complain constantly because they happen consistently. But today was different as the customer service team at benfleet station reduced me to tears due to the fact they made me miss my train, made me feel like it was my fault and made me feel like a criminal even though I had purchased a valid ticket and the real issue was the smart card system was not working. They were so rude and tried to make me feel at fault saying I should have got to the station earlier and it wasn\u2019t their fault even though I got their 5 minutes before the train and went to the machines and to the security person and then to the desk. However they would not let me through the barriers until after I missed my train and continued to tell me all the things I should have done even though I clearly had a valid ticket on my phone. They also made me show that I had a valid railcard, making me feel like I\u2019d done something wrong even though I'm a regular customer that pays. But I also want to point out that even though they let me through the barriers after the train had gone, the smartcard system still was not working and for some reason they chose to make me miss my train. Clearly they just wanted to make me miserable and feel inferior. Rubbish service and ridiculously overpriced. But I have no choice because I have to get to work and have no other option to get in.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Daisy",
+          "url": "https://www.trustpilot.com/users/641c46879129ff0012234e89",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 99,
+        "rank_absolute": 99,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6500223f64c7295a64069202",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-12 10:33:03 +00:00",
+        "title": "It\u2019s bad the train is always delayed \u2026",
+        "review_text": "It\u2019s bad the train is always delayed  from Grays  they are absolutely unreliable",
+        "review_images": null,
+        "user_profile": {
+          "name": "Josef Kotlar",
+          "url": "https://www.trustpilot.com/users/6437dbcd7a24b50012621f22",
+          "image_url": "https://user-images.trustpilot.com/6437dbcd7a24b50012621f22/73x73.png",
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 100,
+        "rank_absolute": 100,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/628d0240045d025d3a9d68c7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-24 18:05:20 +00:00",
+        "title": "And yet again",
+        "review_text": "And yet again\nThe chafford train - the only train cancelled \nThanks a f***ing bunch you useless cretinous morons",
+        "review_images": null,
+        "user_profile": {
+          "name": "Penny1973",
+          "url": "https://www.trustpilot.com/users/52ea8c2800006400016150fc",
+          "image_url": "https://user-images.trustpilot.com/52ea8c2800006400016150fc/73x73.png",
+          "location": "GB",
+          "reviews_count": 34
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 101,
+        "rank_absolute": 101,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6235b885924ebaa0caf0a477",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-03-19 11:03:33 +00:00",
+        "title": "Worst train service in the history of\u2026",
+        "review_text": "Worst train service in the history of mankind..avoid them at any costs if you can. They will cancel trips at minutes notice",
+        "review_images": null,
+        "user_profile": {
+          "name": "Csiki Szilard",
+          "url": "https://www.trustpilot.com/users/588757240000ff000a6fcc25",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 102,
+        "rank_absolute": 102,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e2b1de43c93ae04c0d2ce60",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-01-24 16:40:04 +00:00",
+        "title": "We\u2019re on the train from Fenchurch\u2026",
+        "review_text": "We\u2019re on the train from Fenchurch street to Shoeburyness right now.@, 16:30. They took away 4 carriages and then loads of people had to stand up the whole way \ud83d\udc4e\ud83c\udffb\ud83d\udc4e\ud83c\udffb\ud83d\udc4e\ud83c\udffb\n\nBad service",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ali Eissapouran",
+          "url": "https://www.trustpilot.com/users/5e2b1d3eddcefa38405e1f59",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 103,
+        "rank_absolute": 103,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/637f6720b84cc27618f5903d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-11-24 14:44:16 +00:00",
+        "title": "Ticket machines are a scam - no option to complain online",
+        "review_text": "It was my first time using this service, having to travel from Limehouse station to Basildon. \n\nI had purchased an online ticket. That was a mistake, as it seemed that I could use my oyster card to enter the train station in Limehouse (when leaving the DLR station, they are connected). In fact, there was no way to collect my pre-bought tickets unless I exited the DLR station, and then enter the C2C station via a separate entrance. Sigh. Fine.\n\nWhen returning from Basildon the same day, I decided to use my oyster / contactless card instead of buying another ticket online, as the ticket collection experience is a nightmare (long queues, you need a purhasing bank card etc). BUT.. apparently the gates didn't support oyster / contactless cards despite seemingly being able to accept so (they had the yellow card reader that every tube station has). Then I had to wait in the queue to buy a ticket from the machine (I would have to wait anyway in order to collect an online ticket, as they don't do QR). When my time to use the machine came, I was quickly presented with about 6-8 options, all RETURN tickets to several places, with several prices. No option to choose a single ticket (not sure if there was another menu, but I genuinely had seconds to buy my ticket as a big number of furious people were waiting behind me to buy / collect their tickets). SO I was forced in essence to buy a return ticket (AMEX wasn't accepted, so i had to repeat the process and use another card which added to the stress). Very bad.\n\nThen the following day I tried to complain online only to get an automated message that I have to go to a C2C STATION (what on earth!!) and collect a complaint form... the whole system seems either like a carefully designed scam or a very VERY lazy business when it comes to customer service. I'd say scam, as the way the ticket machines work is really bad and forces you to spend more money. Unfortunately I'll have to use them again but please DON'T if you absolutely don't have to.\n\n\n\nThe train iself was good, on time, fairly clean and regular.",
+        "review_images": null,
+        "user_profile": {
+          "name": "TK",
+          "url": "https://www.trustpilot.com/users/5ed770fbc9645356cb983013",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 30
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 104,
+        "rank_absolute": 104,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/633e792b3d107cfdfcd44331",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-06 08:43:55 +00:00",
+        "title": "The c2c men specifically at Basildon\u2026",
+        "review_text": "The c2c men specifically at Basildon station are EXTREMELY RUDE.\nSo many different situations and I never write reviews for anything but they are so rude something needs to be done with not even the way they speak to just people but uni students also. I buy my tickets on my phone and they say I have to collect it which is fair enough but last week I was coming back quite late from uni and I had bought the ticket on my phone and then I went to collect it and he gave me a dirty look and was like to me what if I wasn\u2019t here and then I said well then I would show proof that I have bought my ticket to the man and he goes no you can\u2019t do that. Well what other solution would I have? And he was just being so rude for no reason. If that is not a form of evidence why the hell can we buy them online if we are in that situation? \nAlso yesterday my ticket wasn\u2019t working and so the man was letting people through and they had already shown their ticket and he hadn\u2019t spoken to me but when I showed him mine he went \u201cI said go\u201d in quite an aggressive way which was unnecessary and rude yet again.\nThey staff are so rude and there is no understanding. The same issue used to happen to me at Southend central too and the man was so rude to me that he 1 made me cry 2 would not let me through even though I was explaining to him that I got my travel funded and I was showing him proof that I did but there was just a problem with something to do with it that day and he made me separate from my friends on my own in the dark and wanted me to walk all the way around Southend central station in the high street in the dark on my own and I wasn\u2019t even 18 at the time and even a couple members of the public stepped in because they could see how stressed I was getting. There is no understanding and no sympathy. Respect if given where it is showed and with 90% of C2C staff none is shown what so ever.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Lily Brace",
+          "url": "https://www.trustpilot.com/users/5f3ada8be609852ad0aadbb3",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 105,
+        "rank_absolute": 105,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e0a3234c84545083438553d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-12-30 17:21:56 +00:00",
+        "title": "Over crowded trains",
+        "review_text": "Over crowded trains. Cancellation too often. Poor communication when cancellation occurs. Rude customer service at ticket office in Stratford. Often no cashier at Benfleet ticket office sunday without notice.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mohammed Shofiuzzaman",
+          "url": "https://www.trustpilot.com/users/5e0a322c361d61b4c00a0667",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 106,
+        "rank_absolute": 106,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/650080ecd03af9aafd90e64e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-12 17:17:00 +00:00",
+        "title": "Dirty trains/no bins",
+        "review_text": "Dirty trains due to the lack of bins (both in the trains and platforms). Not very reliable service neither...",
+        "review_images": null,
+        "user_profile": {
+          "name": "Raul H",
+          "url": "https://www.trustpilot.com/users/5f9c644984b2b0001a14b10f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 107,
+        "rank_absolute": 107,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/648460b1955e928bacd3b4f6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-06-10 13:38:25 +00:00",
+        "title": "Where is the air con?",
+        "review_text": "Where is the air con?\n\nSat on the train melting cause there is no air circulation \n\nSort it out C2C",
+        "review_images": null,
+        "user_profile": {
+          "name": "Miss.Steels",
+          "url": "https://www.trustpilot.com/users/5b52535b4de5666d348bc8dd",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 24
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 108,
+        "rank_absolute": 108,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/655b2c23ecfc28ff3a7fdc14",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-11-20 11:51:32 +00:00",
+        "title": "Frequent delays",
+        "review_text": "Frequent delays. Train smells bad. Definitely not worth to spend one penny on this.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Pri Costa",
+          "url": "https://www.trustpilot.com/users/655b2c17d76f090012fc7033",
+          "image_url": "https://user-images.trustpilot.com/655b2c17d76f090012fc7033/73x73.png",
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 109,
+        "rank_absolute": 109,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5f193c2d1a5a69071c937c68",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-07-23 07:28:45 +00:00",
+        "title": "A bad day getting home and then back to work",
+        "review_text": "first of all, use trains rarely like twice a year. don't know how the whole thing like paying Ect works so when asking a member of staff often a foreigner with there attitude and lack of English you get very little help, asked another member of staff the trains destination all you get told by another F  is on the board on the board finally a decent member of staff pointed us in the right direction. on the particular day in question the A13 had been shut yet again, reason for using train reluctantly which would result in a return trip in the morning as car now left at work bought a return ticket for the next day. next day arrived at station 0415 hours no trains a bus replacement service in place no indication of this the previous night plus my return ticket is invalid as it has to be used on the same day what difference doe's it make when you make your return trip as long as you have legally paid to be on the train no wonder there are so many cars on the road with a service like this and at such a high cost maybe the heads of the railway should go back for more training not the staff. end note the bus replacement times do not even come close to matching the trains times of departure what a joke service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "gary courtnell",
+          "url": "https://www.trustpilot.com/users/5e55fe2068c4b96270d14340",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 110,
+        "rank_absolute": 110,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60ac7575f9f4870b700d5e4d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-25 03:56:37 +00:00",
+        "title": "Service is terrible",
+        "review_text": "Service is terrible, train always delay from Chafford Hundred, rubish",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dmitrijs Cumacenko",
+          "url": "https://www.trustpilot.com/users/5f54c71c717e7d1cf2e280a7",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 111,
+        "rank_absolute": 111,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62e35c3c8000af4a884e2b36",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-07-29 06:04:12 +00:00",
+        "title": "Non stop on strike the greedy\u2026",
+        "review_text": "Non stop on strike they greedy for money. Bad company always delayed late can go on",
+        "review_images": null,
+        "user_profile": {
+          "name": "jak payne",
+          "url": "https://www.trustpilot.com/users/62e35be90b24b600121ea85a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 112,
+        "rank_absolute": 112,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63ef55c458f96bb79552c99b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-02-17 12:24:04 +00:00",
+        "title": "These trains went down the hill",
+        "review_text": "These trains went down the hill. Became one of the worst. The service is awful",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jurgita",
+          "url": "https://www.trustpilot.com/users/5a0b63400000ff000ae28aac",
+          "image_url": "https://user-images.trustpilot.com/5a0b63400000ff000ae28aac/73x73.png",
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 113,
+        "rank_absolute": 113,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d79eeaf3585c70644a16d99",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-09-12 07:07:27 +00:00",
+        "title": "Absolutely awful",
+        "review_text": "Absolutely awful, trains are late and always absurdly overcrowded, especially during rush hour.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Onkeys",
+          "url": "https://www.trustpilot.com/users/5d79eea4c0e6ff18c1ebaea1",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 114,
+        "rank_absolute": 114,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/612fc3499c391649d84f9714",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-09-01 18:15:37 +00:00",
+        "title": "Disgraceful Organisation",
+        "review_text": "Disgraceful Organisation.  Staff are impolite and incompetent. Customer service poor. Smart cards should not be called smart.  \nUnprofessional.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Reviewer",
+          "url": "https://www.trustpilot.com/users/57a11fa70000ff000a373fc2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 115,
+        "rank_absolute": 115,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62053b2e441cb9c24734fad9",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-02-10 16:19:58 +00:00",
+        "title": "Poor train service constantly delAyed!!",
+        "review_text": "Poor train service constantly delAyed!!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Nil",
+          "url": "https://www.trustpilot.com/users/5ffabcfda6f4c9001a2759bf",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 116,
+        "rank_absolute": 116,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62755569f03a9893e985df59",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-05-06 19:05:45 +00:00",
+        "title": "CTC always delay",
+        "review_text": "CTC always delay. Very bad!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Stephany Tagliaferri",
+          "url": "https://www.trustpilot.com/users/61cb9aeaebf41c0012accc21",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      }
+    ]
+  }
+]

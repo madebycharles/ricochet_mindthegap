@@ -1,0 +1,1695 @@
+[
+  {
+    "domain": "www.gatwickexpress.com",
+    "type": "trustpilot_reviews",
+    "se_domain": "trustpilot.com",
+    "check_url": "https://www.trustpilot.com/review/www.gatwickexpress.com?languages=all",
+    "datetime": "2024-05-11 00:24:59 +00:00",
+    "title": "Gatwick Express",
+    "location": "GB",
+    "reviews_count": 64,
+    "rating": {
+      "rating_type": "Max5",
+      "value": 1.5,
+      "votes_count": null,
+      "rating_max": 5
+    },
+    "items_count": 62,
+    "items": [
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 1,
+        "rank_absolute": 1,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/66389f9a14a4bc68ffd31957",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-05-06 11:15:07 +00:00",
+        "title": "Terrible!!!!!!!!",
+        "review_text": "Terrible!!!!!!!!! Bought a ticket for 6 May. Because of strike had to reschedule my journey. I filled refund online form and they mailed me back that my application was unseccessfull. Really????? I tried filled it again , but ticket under my reference does not exist any more as I did already apply for refund and there is no way to get money back !!!!!!!!!!!BE AWARE. Refunds not possible",
+        "review_images": null,
+        "user_profile": {
+          "name": "iwonka pelc",
+          "url": "https://www.trustpilot.com/users/5fcf8868ce11b00019dbfd5a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 2,
+        "rank_absolute": 2,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6630c196eda25b1a00d12c4e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-04-30 12:01:59 +00:00",
+        "title": "Gatwick \u2018slow\u2019",
+        "review_text": "Not sure how you can call this an Express. Slow, delayed, late would all be more fitting descriptions. ",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dan Callear",
+          "url": "https://www.trustpilot.com/users/5cf3b147bd9520d84b3269d0",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 3,
+        "rank_absolute": 3,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/65ad5420111f4d471bfacda1",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2024-01-21 19:28:00 +00:00",
+        "title": "Sold me a ticket when train wasn't even running!",
+        "review_text": "When the train isn't running, you shouldn't sell tickets for it! Because of railworks (which is fine) there weren't any Gatwick Express trains, but I bought an expensive express ticket for 19 pounds but ended up on a regular southern without the women at the (- Gatwick express specific counter) till telling me. Not fair as one pays extra for the express. Just not ok.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Louise R",
+          "url": "https://www.trustpilot.com/users/5baa9c0f4de5666d34ca201b",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 4,
+        "rank_absolute": 4,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6258325d2b3c3c43cfd2ca37",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-04-14 14:40:29 +00:00",
+        "title": "Poor frequency and expensive",
+        "review_text": "When GTR took over the Gatwick Express franchise they inherited a frequent and reliable service which ran every 15 minutes and hourly after midnight. \nFast forward a few years and GTR have decimated the service. It has simply become a cash cow for GTR. \nThe frequency has halved, now running every 30 mins instead and no longer operates during the early hours.\nTourists, save money by avoiding the expensive Gatwick Express and catch the regular Southern service instead. It's cheaper and the journey only takes 5 minutes longer. Thank me later...",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paulo",
+          "url": "https://www.trustpilot.com/users/5556e3680000ff0001bf56dc",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 36
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 5,
+        "rank_absolute": 5,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/638f2a4d0b7fc02715d5b176",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-12-06 13:41:01 +00:00",
+        "title": "I give up, it\u2019s too shambolic.",
+        "review_text": "Just made my last attempt at using the Gatwick Express. \nStruggled to buy tickets using their app, it consistently doesn\u2019t work. \nPurchased tickets at a kiosk only to find the service then wasn\u2019t running. \nAttempted to claim my money back and was informed, sorry but no. \nI started using the service when it commenced some years ago and have watched slowly deteriorate ever since. \nSave yourself time and expense and use an alternative.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ady",
+          "url": "https://www.trustpilot.com/users/5decb3a5741d5f367436051c",
+          "image_url": null,
+          "location": "PT",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 6,
+        "rank_absolute": 6,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/602fe5b9f85d7509d8de4982",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-02-19 16:22:17 +00:00",
+        "title": "Nabil @ Gatwick was extremely polite",
+        "review_text": "Nabil @ Gatwick was extremely polite, helpful and friendly. The testing was done in no time and the entire staff right from the entry to exit were efficient, quick and process was extremely simple.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sneha Gandhi",
+          "url": "https://www.trustpilot.com/users/5fbee43806deb5001b6e1daa",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 7,
+        "rank_absolute": 7,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ac25af16d33bc073c548ecf",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-04-02 16:31:45 +00:00",
+        "title": "Obnoxious staff",
+        "review_text": "Managed to catch wrong train at Brighton that flew past East Croydon. Explained to conductor but, as \u2018I had not come and found him\u2019, he could not help and I had to pay additional fare just to get back from Victoria. Thanks jobsworth Gatwick staff. 0/10 customer service for i) assuming I was fare dodging rather than an honest mistake, and ii) for a ridiculous line of reasoning for zero assistance. Well done.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dominic Murray",
+          "url": "https://www.trustpilot.com/users/5a355aa60000ff000af20bc5",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 8,
+        "rank_absolute": 8,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e53a94a3c93ae0bc408c89e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-02-24 10:45:30 +00:00",
+        "title": "These jokers should try being a railway\u2026",
+        "review_text": "These jokers should try being a railway company. Express it is not. Customers are treated like naughty schoolchildren on the platform. They couldn\u2019t give a hoot about customer satisfaction, hence the terrible review score.\nAlso. Airport express trains - everybody is bringing luggage! This is a commuter train with a tiny luggage rack. Guys - try the Heathrow Express and learn how to run a railway.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mark Smith",
+          "url": "https://www.trustpilot.com/users/5e53a93e68c4b9cbc3cfe996",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 9,
+        "rank_absolute": 9,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/642f0ec883a895f94576b122",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-04-06 20:26:16 +00:00",
+        "title": "The Gatwick Express company is not fit for purpose",
+        "review_text": "This company is not fit and proper company to run a rail service. Their Gatwick express  app today has been completely useless it is unstable and immediately shuts down on the latest iPhone running the latest iOS. It was almost impossible to fill in the request for a refund. The number of requests for refunds must be almost equal to the number of purchases - because the Gatwick express train service is so appalling.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Frank",
+          "url": "https://www.trustpilot.com/users/6409ca64a4e11600131d9e4c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 17
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 10,
+        "rank_absolute": 10,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/53315f1300006400027f56d7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2014-03-25 10:48:51 +00:00",
+        "title": "Overpriced for what it is",
+        "review_text": "I've seen a significant drop in service quality at Gatwick express within last few years. I used to be able to buy my ticket on board of the train. Not anymore. You have to queue for 15 min at Gatwick just to buy a ticket. Gatwick express is late by 5 to 30 min on a regular basis. This service seized to be an 'express' as far as I'm concerned. A Southern train will do the same service for you but only much cheaper.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Max ",
+          "url": "https://www.trustpilot.com/users/5322f683000064000168ddc3",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 38
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 11,
+        "rank_absolute": 11,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/56fbe9b60000ff00094afac6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2016-03-30 14:59:02 +00:00",
+        "title": "Could be better",
+        "review_text": "Well it is great to have though #t of this service unfortunately I do think that it is to expensive for the service! I'd rather pay 10\u00a3 an use the normal service ok it takes half an hour longer but at least I know at that the train will arrive mostly on time! 3 time I took Gatwick express to go quicker well it took the same time as a normal train really slow for the express.. and nearly missed my flight..",
+        "review_images": null,
+        "user_profile": {
+          "name": "Carina Manson",
+          "url": "https://www.trustpilot.com/users/56fbe7650000ff000a12fa6a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 12,
+        "rank_absolute": 12,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5cfb5ec3b055990650f51e63",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-06-08 07:07:47 +00:00",
+        "title": "Cancellation refund",
+        "review_text": "I recently bought a couple tickets for around \u00a370. When I got on the train I, along the other passengers, got warned that no train would go to the destination we all onboarded for.\nThe cancellations lasted throughout the entire day therefore I decided to ask for a refund.\nShame that their website does not allow one to complain for cancellation, only for delay.\nI went through the entire process and was finally refunded \u00a35. All for a service which did not absolutely work when I needed it.",
+        "review_images": null,
+        "user_profile": {
+          "name": "lsunderland",
+          "url": "https://www.trustpilot.com/users/5b3768da4de5666d340a2a41",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 13,
+        "rank_absolute": 13,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b66c9089d2def09c8262635",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-08-05 09:53:11 +00:00",
+        "title": "Terrible customer service",
+        "review_text": "Had the worst customer Service over the phone! I typed all my information correctly only to see that my ticket to have wrong date on it! Spoke to customer service team and she basically told me it's my fault. After speaking to a manager I find out there \n maintenance works on the date I'm traveling back and a few customers have had this issue. \nDon't like being called a liar!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Darren",
+          "url": "https://www.trustpilot.com/users/53d132fc000064000180b77f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 40
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 14,
+        "rank_absolute": 14,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5ddd5c8cc84545063c8017c4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-11-26 17:10:36 +00:00",
+        "title": "I'm an overseas traveller from\u2026Australia",
+        "review_text": "I'm an overseas traveller from Australia.  I bought my return ticket from Victoria station to London Gatwick at the ticket counter.  I discovered later that the ticket i purchased were return on the same day and they also made me pay for 1st class tickets.  On returning i had to purchase an extra ticket to get out.  They also tried to tell me i was lying when i said i bought the ticket from the ticket counter.  Poor customer service i spoke to the supervisor whom was oblivious to my heavy backpack / traveller with an accent. \n Clearly staff are trained to rip customers off!  Beware....",
+        "review_images": null,
+        "user_profile": {
+          "name": "Ernie Soh",
+          "url": "https://www.trustpilot.com/users/5ddd5c7da455f18c2499d6a2",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 15,
+        "rank_absolute": 15,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5715cc940000ff000952057c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 4,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2016-04-19 06:13:40 +00:00",
+        "title": "Quick & Ok. Little Expensive",
+        "review_text": "This is an ok way to travel into London from the airport. But, it is quite expensive in my opinion. We were told it might have been cheaper to get a slower train, but not sure how accurate that was. Anyway, we wanted to get into London quickly as we only had a couple of days. It is what it is and it did the job. No real grumbles with the company. Very efficient, but just a little expensive.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mollie Dawes",
+          "url": "https://www.trustpilot.com/users/571552a40000ff000a1892b9",
+          "image_url": "https://user-images.trustpilot.com/571552a40000ff000a1892b9/73x73.png",
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 16,
+        "rank_absolute": 16,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5af09ef26d33bc0a1899d642",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-05-07 18:44:44 +00:00",
+        "title": "Bought return tickets from Gatwick\u2026",
+        "review_text": "Bought return tickets from Gatwick Airport to Victoria Station, London. On our return trip the tickets were no longer valid causing us to buy new tickets. The vending machine gave absolutely no indication of the tickets being valid for only the same date. An absolute disgrace. Shame on you!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Anders Hj\u00f8llund-Jensen",
+          "url": "https://www.trustpilot.com/users/5af09e9a4de5666d34f8fea9",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 17,
+        "rank_absolute": 17,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/647e0d45173134a6076a3602",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-06-05 18:28:53 +00:00",
+        "title": "Appalling",
+        "review_text": "Thought we'd pay extra for Gatwick Express to ensure a quick service to the Airport. Halfway there, we stopped at a station and the driver announced there was a problem with the line ahead and we were told to leave the train immediately. Absolutely no advice as to alternative options or whether any other trains were available. Several hundred people wandering around a station with no guidance on how to reach the airport. Eventually another passenger mentioned there was an alternative train due and the lucky ones managed to get to the airport on time. I appreciate the line issues can't be helped but the customer service was appalling.",
+        "review_images": null,
+        "user_profile": {
+          "name": "M Jago",
+          "url": "https://www.trustpilot.com/users/61e0ad045ec2f400171493c6",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 18,
+        "rank_absolute": 18,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5777fb4b0000ff00096c19de",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2016-07-02 17:35:07 +00:00",
+        "title": "Trains cancelled without notice",
+        "review_text": "Beware. GE is now regularly cancelling off-peak trains on weekends to save money. You only get the warning after you purchase (outrageously expensive) tickets and arrive on the platform. Taking a car next time. Not worth missing the plane and stress.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Raf",
+          "url": "https://www.trustpilot.com/users/577659050000ff000a2dfc5e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 19,
+        "rank_absolute": 19,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5612dec30000ff00090e5a04",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2015-10-05 20:34:11 +00:00",
+        "title": "Terrible service",
+        "review_text": "I try as much as I can to avoid using your services because of the expensive rates that you are offering. Unfortunately, this morning I was unlucky enough to book another ticket in order to arrive as soon as possible in London. Not only the train was late but the carriages were so crowded that we had to stand-up during the entire trip.",
+        "review_images": null,
+        "user_profile": {
+          "name": "J\u00e9r\u00e9my Barber",
+          "url": "https://www.trustpilot.com/users/5188ebcb00006400013aadcb",
+          "image_url": "https://user-images.trustpilot.com/5188ebcb00006400013aadcb/73x73.png",
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 20,
+        "rank_absolute": 20,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/599a8507a64b4105d835f12b",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-08-21 07:00:22 +00:00",
+        "title": "Cancelled 4 trains first thing in the \u2026",
+        "review_text": "Cancelled 4 trains first thing in the morning (5:00, 5:15, and so on) without given proper information about it on the website or other trip planners. There were 100+ People who had to take another train and I among others who missed our flights.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Wilhelm Duse",
+          "url": "https://www.trustpilot.com/users/599a832e0000ff000abe4395",
+          "image_url": null,
+          "location": "SE",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 21,
+        "rank_absolute": 21,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/59922628a64b41086cf4eed6",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-08-14 22:37:28 +00:00",
+        "title": "NEVER buy tickets online or on a flight!",
+        "review_text": "Bought tickets on an Easyjet flight. At the airport there was no train at all, as opposite as what was stated on the website. A train every 15' is simply a lie. Our tickets couldn't be used, valid only one day, easyjet is simply not replying, GatwickExpress is replying no train was in schedule, sonno train, no complaint. We wasted \u00a340 for a non existing service. Thieves.",
+        "review_images": null,
+        "user_profile": {
+          "name": "michele",
+          "url": "https://www.trustpilot.com/users/5271f01e000064000152e60a",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 22,
+        "rank_absolute": 22,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5aec8d116d33bc0bb88c118d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-05-04 16:39:32 +00:00",
+        "title": "Absolutely RUBBISH CUSTOMER SERVICE!!",
+        "review_text": "Absolutely RUBBISH CUSTOMER SERVICE!!\nThey claim they have money back guaranteed policy but then they simply exhaust you with their delay in responding and trying every trick not to refund your money!!\nThey first ask you to fill in the online form and attach the unused tickets online to request a refund but then, after you spent your time in doing that, they decide that this is actually not good and they want you to send the tickets via post just to make you spend more money and more time for then find more excuses for not refunding your money back.\nAbsolute RUBBISH!",
+        "review_images": null,
+        "user_profile": {
+          "name": "KW",
+          "url": "https://www.trustpilot.com/users/5aec8cc34de5666d3433e834",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 23,
+        "rank_absolute": 23,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a1f127f04017d03f4c50cc5",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-11-29 20:03:11 +00:00",
+        "title": "Never buy ticket in advance or through easyjet!",
+        "review_text": "Bought tickets on an easyjet flight, train wasn't there, we had to pay for a cab. Never had my money back thought I contacted the customer service (an absolute joke) an unbelievable number of times. This happens a lot, nobody should buy ticket in advance or online. BTW similar train services to and from Gatwick can cost \u00a35, rather than the unjustified \u00a320 for this ridiculous, often discontinued GX service",
+        "review_images": null,
+        "user_profile": {
+          "name": "Michele",
+          "url": "https://www.trustpilot.com/users/5a1f0f810000ff000ae98b6a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 11
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 24,
+        "rank_absolute": 24,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63ebfedf745e480021a55cbe",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-02-14 23:36:31 +00:00",
+        "title": "Update re Gatwick Express journey\u2026",
+        "review_text": "Update re Gatwick Express journey experience for 20th Jan. \n\nAfter putting in a reclaim as my claim had been rejected by Gatwick express they decided to award me after all at \u00a33.50 per ticket out of a fare cost charged to me of \u00a313.65 per ticket. They decided i had been only delayed by 15-29 mins and not 30 mins plus! How they worked that one out i will never know as we were told to board next normal service train and not to wait for next Gatwick Express train because of signalling issues! If one pays for Gatwick Express and is directed by Gatwick Express station staff to use normal rail, one should be refunded in full!\n\nI WILL NEVER USE THE GATWICK EXPRESS AGAIN AS IT IS NOT A SERVICE -  IT IS A DISGRACE TO CALL IT A SERVICE",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jackie",
+          "url": "https://www.trustpilot.com/users/5f4c205971b480d44065d9ce",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 14
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 25,
+        "rank_absolute": 25,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/644138f92745936e9cbc313d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-04-20 15:07:05 +00:00",
+        "title": "Before I left i bought a return ticket\u2026",
+        "review_text": "Before I left i bought a return ticket on the express as they said it ran all night. Well guess what? This is England, the third world country. A ton of planes arrived with ours at midnight...i rushed through immigration and just got to the platform as the train left...next one? an hour later...at 140am...and where was it going? to Blackfriars....totally useless...ended up paying 100 pounds because the damn train was taking a holiday...viva England",
+        "review_images": null,
+        "user_profile": {
+          "name": "Gregory Dayton",
+          "url": "https://www.trustpilot.com/users/6221da98f076e60012e7c34c",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 26,
+        "rank_absolute": 26,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/55757e110000ff0002ec36bb",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2015-06-08 11:35:45 +00:00",
+        "title": "Deteriorating service",
+        "review_text": "Over the last 5-6 years I have weekly been using Gatwick Express when commuting for work from Gatwick Airport into London. The service has gradually deteriorated which is impacting the journey time and my ability to schedule meetings in London accurately.\r\n\r\ni)\tThe price charged is a premium price for what is turning out to become a mediocre product. What is also a bit perplexing is that customers from Brighton, going through Gatwick Airport on the same train are paying much less \u2013 even though they get the same service and more importantly occupy space/seats in the carriages;\r\nii)\tThe word \u2018Express\u2019 has become an oxymoron, as the train service in the morning is regularly 5-30mins delayed. This is a nuisance and not acceptable for me as a commuter; \r\niii)\tOn top of the delays, there seem to be several gating points where the tickets are checked (3 in total) \u2013 and they delay at Victoria Station in front of the turnstiles with a home printed is often very significant (on top of the journey delay!)\r\n\r\nThe service (product) is not satisfactory and causes a lot of grief and disturbance to the working day.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Kjartan",
+          "url": "https://www.trustpilot.com/users/5037555e00006400011ffe35",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 27,
+        "rank_absolute": 27,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b1c1ba06d33bc0680371bc1",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-06-09 18:25:36 +00:00",
+        "title": "Website out of date for lost property\u2026",
+        "review_text": "Website out of date for lost property contacts. Says you can email ... unknown email address. Says you can call ... rude advisors who won\u2019t log your lost property. Log a complaint ... they say they\u2019ll respond in 5 working days ... still nothing. Wow! Customer Service Fail",
+        "review_images": null,
+        "user_profile": {
+          "name": "ASB23",
+          "url": "https://www.trustpilot.com/users/5b1c1b964de5666d34b0195e",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 28,
+        "rank_absolute": 28,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6348024c9b12f67dfee00b7d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-10-13 14:19:24 +00:00",
+        "title": "Terrible pre purchase ticket process EVERY time and app doesn\u2019t work",
+        "review_text": "I have no issues with the trains themselves, but their app and ticketing services are terrible every time. Three times now I have pre booked tickets, you can they them downloaded onto your phone (they have to be printed) but every single time, regardless of which station you go to, the tickets won\u2019t print at the machines so you have to queue to get them from a person who normally takes you aback to the machine to check and then back again to the office to print them because they don\u2019t understand. On average it takes about 20-30 mins to resolve at quiet times, at busy times who knows. I\u2019ve started going days before to sort it out as I know it\u2019s going to be appalling. In addition their app is terrible and never works. Can\u2019t believe this is still an issue in 2022, just go and buy your tickets from a machine directly and not via their website, it\u2019s quicker and 100x less stress.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Kate ",
+          "url": "https://www.trustpilot.com/users/5eb3deedee8f2962dfcb732a",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 29,
+        "rank_absolute": 29,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e5bb2483c93ae0864aadb3a",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-03-01 13:02:00 +00:00",
+        "title": "Super hard to get your money back - terrible customer service. Not recommended.",
+        "review_text": "Paid paypal for the wrong ticket and not able to get a refund. Filled a long digital form, moved ticket to my account - they sent me circles and eventually asked me to fill in a paper form and send it to them.\n\nThen, they apologised for sending me wrong direction, sending a general refund link again, asking for a digital form. The form wasn't found, and they again asked me to fill in a paper form. \n\nOpened a complaint with them, but still sending me circles with standard emails. No one even bothered to clearly explain the path and provide proper links that actually take you to the destination that works for a refund (if they exist). \n\nNaturally, I'm not happy with them, having spent so much time and paid via Paypal.\n\nBe careful, once you pay it won't be easy to get your money back, regardless of their so-called Money back guarantee. \n\nThis is a joke, not a rail company. Stay away if possible.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Misza",
+          "url": "https://www.trustpilot.com/users/5a070e6a0000ff000ae13482",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 30,
+        "rank_absolute": 30,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a648d946116dd0f1079f11f",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-01-21 12:54:44 +00:00",
+        "title": "Shambolic is being kind",
+        "review_text": "Shambolic is being kind. Without doubt the most deliberately confusing ticket machines yet invented. It's a Gatwick express ticket machine and the ticket options for the service are buried on page 2 after a bunch of unrelated commuter services. Most people using the machines are wanting gx tickets so put the most frequently purchased options on page one where they are quick to buy. One would almost think they are deliberately trying to mislead in order to confuse people into buying more expensive tickets. Also, 5 minutes before a train leaves, a staff member turns up to start emptying one of the two available machines. And there are only three tickets barriers, one is not working and the member of staff standing on the barrier is blocking one to guide people through the now one remaining barrier. As I say shambolic is the kindest thing I can say.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Vic",
+          "url": "https://www.trustpilot.com/users/4f213eb1000064000112b6a4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 10
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 31,
+        "rank_absolute": 31,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d7aa37b3585c709dc561ac0",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-09-12 19:58:51 +00:00",
+        "title": "Sudden change of platform",
+        "review_text": "I asked the Gatwick express staff which platform and they said either 13 or 14 like normal. I walk up the platforms waiting for the train when we are told it is now platform 19 and it is leaving now. Me and all the other people waiting had to run and even then they were warning people stopping the doors that they would be fined. \nIt is not worth paying the extra. \nBad service all round",
+        "review_images": null,
+        "user_profile": {
+          "name": "Chris Doyle",
+          "url": "https://www.trustpilot.com/users/5d164bd897935f6e8cd64ae2",
+          "image_url": "https://user-images.trustpilot.com/5d164bd897935f6e8cd64ae2/73x73.png",
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 32,
+        "rank_absolute": 32,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63bfcc484d0773066a3571a3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-01-12 11:00:56 +00:00",
+        "title": "The worst service ever and thieves",
+        "review_text": "This company are thieves- I purchased a ticket online for VIC - GATWICK and got a wrong departure station and I was told that it was a a glitch in the system and that I needed to fill a refund form. Which I did and got refund after chasing them with emails after 12 days and got only 8.50 refund other amount from 18.50 where admin fees what a joke. The UK has became a con country. Only bulshit people all around. I will never use them again.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Em",
+          "url": "https://www.trustpilot.com/users/62b9fa493888b60012f9271d",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 33,
+        "rank_absolute": 33,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/59465b0e555d1a0888c2e9f3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-06-18 10:50:54 +00:00",
+        "title": "Bunch of useless people",
+        "review_text": "A bunch of people who have no clues of what they are doing. Waiting for the train driver is something common when you take Gatwick express. Youll better of taking the southern train line, they are cheaper and the service is not as bad as that one.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Bastien Louis Blondin",
+          "url": "https://www.trustpilot.com/users/52f10c310000640001621e98",
+          "image_url": "https://user-images.trustpilot.com/52f10c310000640001621e98/73x73.png",
+          "location": "IE",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 34,
+        "rank_absolute": 34,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64eee6dbc0820ec7cd1b7cd0",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-08-30 08:51:07 +00:00",
+        "title": "Lost my bag",
+        "review_text": "Lost my bag on Southern rail from Gatwick to London Victoria, received excellent help from Alex Davies at Gatwick Express to chase the bag and we finally found it, very appreciated for the amazing help.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Consumer",
+          "url": "https://www.trustpilot.com/users/64c3cebc2477dc0012b13368",
+          "image_url": null,
+          "location": "SE",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 35,
+        "rank_absolute": 35,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5de49e86c845450acc060172",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-12-02 05:17:58 +00:00",
+        "title": "Train left earlier than scheduled",
+        "review_text": "Train left early so I stood around in the early morning waiting for the next train. I wouldn\u2019t have ran and nearly gave myself a heart attack if I\u2019d known the train wasn\u2019t going to leave at the time the schedule says. What\u2019s the point of a schedule if you\u2019re not going to follow it?",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jon Gutierrez",
+          "url": "https://www.trustpilot.com/users/5de49e7cae77586bb9b5148c",
+          "image_url": "https://user-images.trustpilot.com/5de49e7cae77586bb9b5148c/73x73.png",
+          "location": "IT",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 36,
+        "rank_absolute": 36,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64f4e529bed64b127380d7c1",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-03 21:57:29 +00:00",
+        "title": "Gatwick Express is a scam",
+        "review_text": "There is no reason to pay extra for Gatwick Express. There are standard Southern trains for half the price that are only 1-3 minutes slower. What's worse, the Gatwick Express only goes every thirty minutes while the standard trains goes six times an hour. This means that on average you will save more time with the standard trains!\n\nI checked the timetables from Gatwick to Victoria, on a normal weekday.  The Gatwick Express leaves 10 and 40 every hour and takes 31 minutes. This means 15 minutes average waiting time plus 31 minutes trip, in total 46 minutes on average for Gatwick Express. The standard Southern trains leaves 02 13 26 32 43 56 every hour and takes 32 minutes, except the 02 and 32 trains which takes 34 minutes. This means 5.4 minutes average waiting time and 32.4 minutes average trip for a total of 37.8 minutes. So on average you will save more than 8 minutes by taking the cheaper train!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Rob",
+          "url": "https://www.trustpilot.com/users/64f4e4fd6d7aa80012408ba4",
+          "image_url": null,
+          "location": "SE",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 37,
+        "rank_absolute": 37,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/6324b2d46a3e1ed2c3d4db89",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-09-16 19:31:00 +00:00",
+        "title": "Gatwick Express trains may or may not\u2026",
+        "review_text": "Gatwick Express trains may or may not run. They apologise for any inconvenience caused. Good luck trying to reach out for a refund.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Andy Hitchings",
+          "url": "https://www.trustpilot.com/users/5a8413c9f675864e5601f4b7",
+          "image_url": "https://user-images.trustpilot.com/5a8413c9f675864e5601f4b7/73x73.png",
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 38,
+        "rank_absolute": 38,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/64f8786d6afab874eb6d1310",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2023-09-06 15:02:37 +00:00",
+        "title": "I feel sorry for tourists confused by\u2026",
+        "review_text": "I feel sorry for tourists confused by the myriad train tickets at Gatwick - don't bother with the ticket machine queues and use contactless card and hop on first train to victoria",
+        "review_images": null,
+        "user_profile": {
+          "name": "Alastair",
+          "url": "https://www.trustpilot.com/users/64f878654eab29001213ca18",
+          "image_url": "https://user-images.trustpilot.com/64f878654eab29001213ca18/73x73.png",
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 39,
+        "rank_absolute": 39,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5e6f5fe23c93ae091808b463",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2020-03-16 11:15:46 +00:00",
+        "title": "Dont buy tickets online",
+        "review_text": "Dont buy tickets online. They will rip you off.\nMy wife and I purchased tickets online and when we opened the email with the tickets. The mail said the tickets were for the wrong date but it also said that the tickets could be used anytime. So we tried to use them on the date we planned to travel but we couldnt because it was the wrong date. Their website said the ticket counter and workers could help, but the ticket counter and workers said they couldnt. So we had to buy other tickets. Later we tried to get a refund but you can only get a refund by sending the refund letter and evidence by post. horrible service. horrible information. horrible company. Avoid this company by all means.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Inunnguaq Egede Jensen",
+          "url": "https://www.trustpilot.com/users/5c484f49d201f7408f2149f9",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 40,
+        "rank_absolute": 40,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60aa81aff9f4870a94aacf3c",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-05-23 16:24:15 +00:00",
+        "title": "Good trains, but too expensive",
+        "review_text": "You have good trains, but you need to lower the prices as this is too expensive for the British public.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Kyle Knight",
+          "url": "https://www.trustpilot.com/users/5e6ea2631c7f4f71344ef800",
+          "image_url": "https://user-images.trustpilot.com/5e6ea2631c7f4f71344ef800/73x73.png",
+          "location": "GB",
+          "reviews_count": 118
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 41,
+        "rank_absolute": 41,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/62f4f5284c35e69ec52a0679",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-08-11 14:25:12 +00:00",
+        "title": "Sadly really disappointed with this service \u2026",
+        "review_text": "Sadly really disappointed with this service!  Purchased a Victoria to Gatwick Airport ticket online.  Travelled from Victoria to Gatwick Airport no problem.  When I then returned to Gatwick Airport from a weekend away I found that there were no trains running (I'd checked prior to travelling that trains scheduled and there was no planned maintenance work or strike and all looked good!). Ended up having to get a taxi back to Victoria. Called Gatwick Express regarding a refund (called a few times to get to the right person and spent a long time holding but did manage to speak to an actual person who could help! Great.) and they said \"no problem\", they then advised me as to how to go about claiming said refund.  After numerous attempts (via email) I was advised that I wasn't entitled to a refund due to purchasing a return ticket from Gatwick to Victoria and using the return part!  What?  How that happened I don't know and I wasn't able to use the Gatwick to Victoria bit as no trains were running so don't understand why the refund was not forthcoming!  Be aware of booking return tickets!  Look into booking singles and check the trains are definitely running first.  I spent a long time trying to sort this and believe I have not been fairly treated (especially after the numerous calls and emails, only at the very end of a long drawn out process was a refund denied).  Be careful!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Sarah Mackay ",
+          "url": "https://www.trustpilot.com/users/5ae0fd714de5666d3462f033",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 12
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 42,
+        "rank_absolute": 42,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/58eb2105d744950408c33d8d",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-04-10 06:07:01 +00:00",
+        "title": "National disgrace",
+        "review_text": "Absolutely appalling!!! This is a warning to people NOT to travel with Gatwick Express!! Firstly, the ticket prices are extortionate and a complete rip off at \u00a335 return. Secondly, the trains are very, very slow, often severely delayed (sometimes even cancelled for no specified reason) and are poorly serviced (dirty seats and toilets etc). Any delays or cancellations are, more often than not, not published on their website so the customer is not kept informed. I missed my flight recently because the Gatwick \"Express\" (what a joke!!!) was so delayed (and crawling along at such a slow speed for mile after mile) that I arrived late!! When I telephoned customer service they didn't even offer an apology and referred me to their \"Delay Repay\" service where customers can fill in a long winded form to apply for compensation in such circumstances (it also takes months for the compensation to come through)! It's important to note, however, that they do not take any responsibility for missed flights so the only compensation that can be awarded is a free Gatwick Express ticket!!! What an insult!! This service is a complete embarrassment to London and is nothing short of a national disgrace. If you want to travel to Gatwick Airport travel on Southern Rail instead - it's much cheaper, takes the same amount of time and is more reliable.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Isabel McCarron",
+          "url": "https://www.trustpilot.com/users/58eb20fc0000ff000a8b6e4b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 43,
+        "rank_absolute": 43,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d6bbe5af01869060ce96413",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-09-01 12:49:30 +00:00",
+        "title": "Gatwick Express offers a very poor\u2026",
+        "review_text": "Gatwick Express offers a very poor service, a dreadful confusing web page and has never replied to at least 10 complaints that I sent them",
+        "review_images": null,
+        "user_profile": {
+          "name": "tristan hole",
+          "url": "https://www.trustpilot.com/users/5603f9310000ff0001de2bdd",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 45
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 44,
+        "rank_absolute": 44,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/60f1c81ef9f48702a8e773f8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-07-16 17:55:42 +00:00",
+        "title": "Good service but",
+        "review_text": "Good service, but the air conditioning today in July is set too strong - bad for the environment and just not necessary",
+        "review_images": null,
+        "user_profile": {
+          "name": "Teresa",
+          "url": "https://www.trustpilot.com/users/58d3f2d90000ff000a84c3c6",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 9
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 45,
+        "rank_absolute": 45,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5add0e896d33bc0320928a62",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-04-22 22:36:57 +00:00",
+        "title": "Terrible service and ridiculous time for a last train",
+        "review_text": "Terrible service and ridiculous early time for last train into London. Would make sense to service for all arriving flights.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Dan H",
+          "url": "https://www.trustpilot.com/users/5add0e1f4de5666d34ba2b87",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 8
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 46,
+        "rank_absolute": 46,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5272c23400006400026265a8",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 5,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2013-10-31 20:48:52 +00:00",
+        "title": "easy always works",
+        "review_text": "always uses it to get from gatwick to london, as it is much faster than anything else!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter Muhlmann",
+          "url": "https://www.trustpilot.com/users/474d5d610000640001000a5d",
+          "image_url": "https://user-images.trustpilot.com/474d5d610000640001000a5d/73x73.png",
+          "location": "DK",
+          "reviews_count": 56
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 47,
+        "rank_absolute": 47,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/59ef2efe31302a0ef48ed15e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-10-24 12:15:58 +00:00",
+        "title": "overpriced commuter trains basically",
+        "review_text": "overpriced commuter trains basically. Run by southern. same poor way...",
+        "review_images": null,
+        "user_profile": {
+          "name": "shogun",
+          "url": "https://www.trustpilot.com/users/59ef2dba0000ff000ad8e77b",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 48,
+        "rank_absolute": 48,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5bb38a998c83fd06e0c6f7b7",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-10-02 15:11:21 +00:00",
+        "title": "Horrendous customer service\u200b took many\u2026",
+        "review_text": "Horrendous customer service took many emails and a whole heap of stress to get a refund. NEVER use their app, its garbage.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Paul Rhodes",
+          "url": "https://www.trustpilot.com/users/5bb38a8b4de5666d34532a1d",
+          "image_url": "https://user-images.trustpilot.com/5bb38a8b4de5666d34532a1d/73x73.png",
+          "location": "GB",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 49,
+        "rank_absolute": 49,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b47ab2f9d2def0af46695ab",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-07-12 19:25:34 +00:00",
+        "title": "Absolutely awful",
+        "review_text": "Absolutely awful. 'Sorry, we don't seem to have a driver'. Really? 'Express' - surely a breach of the Trade Descriptions Act ? Pathetic.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter Clarke",
+          "url": "https://www.trustpilot.com/users/5b47aae84de5666d347cc87e",
+          "image_url": "https://user-images.trustpilot.com/5b47aae84de5666d347cc87e/73x73.png",
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 50,
+        "rank_absolute": 50,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5925cbe9e41b4a073cba8417",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-05-24 18:02:43 +00:00",
+        "title": "Bureaucratic Refund Process",
+        "review_text": "The ride itself was nice, though late from Gatwick back to Victoria Station. Be careful about buying refundable tickets though. They make it so hard to get a refund that it's just not worth it. They're so in the dark ages in processing your refund. As I reside in another country/continent.  If you communicate with them via e-mail, it takes up to 10 days to respond. You have to mail in a refund form. Then they e-mailed back saying they need copies of the tickets (that were sent to me via PDF in an e-mail). I forwarded via an e-mail, but that's not good enough. They said they can't print them and that I'd have to print them and send them via International Post. Really, they can't print them, but I have to print them then mail them to them??? Doesn't make any sense. Here's that they said:\n\nThank you for getting back in touch in regards to your ticket query.\n\nUnfortunately the tickets cannot be printed here, although you have forwarded them on as a PDF. You will need to print them and forward them on at your earliest convenience.\n\nWe require the original tickets to be sent to us for auditing purposes. If you have a Print@Home ticket, you can print these off at home and send it to us.\n\nGatwick Express Refunds Team\nFreepost RTGL-ELXC-HAUU\nSouthern Rail\nAshby de la Zouch\nLE65 1JT\n\nI apologise for the inconvenience that has been caused.\n\nKind Regards,\n\nCharlene Stewart\nCustomer Relations Advisor",
+        "review_images": null,
+        "user_profile": {
+          "name": "Steve",
+          "url": "https://www.trustpilot.com/users/5925cac10000ff000a9c023f",
+          "image_url": null,
+          "location": "US",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 51,
+        "rank_absolute": 51,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b06ecee6d33bc05d00ba7d4",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-05-24 16:48:46 +00:00",
+        "title": "Always delayed during any peak period",
+        "review_text": "Always delayed during any peak period. Shocking service for the price.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Nicolas",
+          "url": "https://www.trustpilot.com/users/5875333a0000ff000a6ae258",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 7
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 52,
+        "rank_absolute": 52,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d4dbbf0f018690bd04bb00e",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-08-09 18:31:12 +00:00",
+        "title": "Its a mismomer this is an Express\u2026",
+        "review_text": "Its a misnomer this is an Express service. Yes it is non stop, but 45 mins plus to get to Gatwick tonight - express it is not. Leave yourself time.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Mr Simon Grint",
+          "url": "https://www.trustpilot.com/users/50e3fafb00006400012c1807",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 5
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 53,
+        "rank_absolute": 53,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/601d29b4679d970358f90698",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 2,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2021-02-05 11:19:16 +00:00",
+        "title": "Cancelled my train and had to\u2026",
+        "review_text": "Cancelled my train and had to reschedule flight. Not a nice experience.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Peter Zhang",
+          "url": "https://www.trustpilot.com/users/601d292fe0ea7800197166fe",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 54,
+        "rank_absolute": 54,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/593072eea02b420b78846f57",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-06-01 20:02:54 +00:00",
+        "title": "Ordered our tickets (London Victoria",
+        "review_text": "Ordered our tickets (London Victoria - Gatwick return) at least three weeks prior to travel.  Tickets did not arrive! Phoned them 5 days before travel to ask them to cancel and resend tickets. Told this is not their policy! - ring again two days before travel!!!! This time got a more helpful man who cancelled our tickets (sending a cancellation form which included the postage.). He offered to send tickets to a machine but the whole point of us paying postage was to get the tickets in advance and not having the hassle of a machine so went to our local British Rail station and bought more tickets which were more costly.  Then I fumbled around on the internet for a refund form - not easy as there is a specific form if you fail to use tickets.  Finally found it and sent it off with the cancellation form the helpful guy had sent us.  Yes - you do wait 10 days for a reply!!! It said to send the unused tickets to an address in Asby de la Zouch!!!! WE DID NOT HAVE THE BLOODY TICKETS - THAT'S WHY WE WERE WANTING A REFUND!!!! AGAIN sent the cancellation form with an email saying I had  had just about as much as I could handle with Gatwick Express \"Customer Services\"!!! Another email back saying I would be hearing back in 10 days!!!  But no - it only took 3 days except ... they didn't refund me my postage, even though THEY lost my tickets, using an incomplete address to send them (the helpful guy had pointed out!!!)  That may sound petty but I paid that for a service they offered and didn't fulfil!\n\nThis is the group of dinosaurs who don't want guardless trains.  They also have a Customer services department which belongs in the dark ages!!! The sooner they sack the lot (except the helpful guy) and recruit some people who belong to the 21st century and use booking methods that aren't archaic (send tickets via the internet like every other travel organisation I know of) then they frankly deserve to go under.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Westowl",
+          "url": "https://www.trustpilot.com/users/54ef34cd0000ff0001adb713",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 55,
+        "rank_absolute": 55,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a365f27a5b32906788d98fd",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2017-12-17 12:06:47 +00:00",
+        "title": "Avoid if you can",
+        "review_text": "For over 6 years working on the tracks. Cancellations and delays by default. Horrible!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Rene",
+          "url": "https://www.trustpilot.com/users/5a365dd60000ff000af24213",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 1
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 56,
+        "rank_absolute": 56,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5aac0d01d5a5700a48a78892",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 3,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-03-16 18:29:21 +00:00",
+        "title": "getting bit better now still need huge\u2026",
+        "review_text": "getting bit better now still need huge improvement",
+        "review_images": null,
+        "user_profile": {
+          "name": "Micky ",
+          "url": "https://www.trustpilot.com/users/5aac0c7f4de5666d34044c97",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 2
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 57,
+        "rank_absolute": 57,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/63039006ab7eb0e73ef582bc",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2022-08-22 16:17:42 +00:00",
+        "title": "just the worst train company",
+        "review_text": "just the worst. why is this service even in place. just get more southern trains and get rid of this scam of a service. \u00a320 for a 30 min journey when you can get an off peak train at the same time for \u00a38",
+        "review_images": null,
+        "user_profile": {
+          "name": "Thomas pegorini",
+          "url": "https://www.trustpilot.com/users/5fd8c38fe00bc1001ab5a58f",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 58,
+        "rank_absolute": 58,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5bf2b05f9d378009543ccae3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-11-19 12:45:19 +00:00",
+        "title": "No service on a weekend when people are\u2026",
+        "review_text": "No service on a weekend when people are trying to get to Gatwick! Easyjet sold me a useless ticket. Cost me a lot of money to get home.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Arabella Brown",
+          "url": "https://www.trustpilot.com/users/5bf294695483f4b8a90f28fd",
+          "image_url": "https://user-images.trustpilot.com/5bf294695483f4b8a90f28fd/73x73.png",
+          "location": "GB",
+          "reviews_count": 3
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 59,
+        "rank_absolute": 59,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5a9d26afd27b0a0ae8aedb01",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-03-05 11:14:55 +00:00",
+        "title": "Overpriced and poor customer service",
+        "review_text": "Gatwick Express comes across as an overpriced service with technology and relevant customer service that are stuck in the previous century!",
+        "review_images": null,
+        "user_profile": {
+          "name": "Kjartan",
+          "url": "https://www.trustpilot.com/users/5759dd820000ff000a27d063",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 6
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 60,
+        "rank_absolute": 60,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5d833eaf3585c70ef0dd9401",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2019-09-19 08:39:11 +00:00",
+        "title": "Appalling",
+        "review_text": "Appalling ! Disgraceful ! VERY BAD VALUE FOR MONEY !",
+        "review_images": null,
+        "user_profile": {
+          "name": "Chris M-F",
+          "url": "https://www.trustpilot.com/users/5d0916cfe3812330ba384265",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 4
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 61,
+        "rank_absolute": 61,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5af0a07b6d33bc05347a8657",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-05-07 18:52:42 +00:00",
+        "title": "Poor service.",
+        "review_text": "Poor service.",
+        "review_images": null,
+        "user_profile": {
+          "name": "Jesper",
+          "url": "https://www.trustpilot.com/users/582b26390000ff000a5789f4",
+          "image_url": null,
+          "location": "DK",
+          "reviews_count": 13
+        },
+        "responses": null
+      },
+      {
+        "type": "trustpilot_review_search",
+        "rank_group": 62,
+        "rank_absolute": 62,
+        "position": "left",
+        "url": "https://www.trustpilot.com/reviews/5b3dcc316d33bc07e03612f3",
+        "rating": {
+          "rating_type": "Max5",
+          "value": 1,
+          "votes_count": null,
+          "rating_max": 5
+        },
+        "verified": false,
+        "language": "en",
+        "timestamp": "2018-07-05 07:43:45 +00:00",
+        "title": "Strip them of their franchise",
+        "review_text": "Strip them of their franchise",
+        "review_images": null,
+        "user_profile": {
+          "name": "Morgan",
+          "url": "https://www.trustpilot.com/users/57e124a90000ff000a460de4",
+          "image_url": null,
+          "location": "GB",
+          "reviews_count": 29
+        },
+        "responses": null
+      }
+    ]
+  }
+]
